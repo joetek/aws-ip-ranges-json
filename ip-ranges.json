@@ -6066,3 +6066,10 @@
     }
   ]
 }
+
+      "ipv6_prefix": "2a05:d07f:c000::/40",
+      "region": "eu-west-2",
+      "service": "EC2"
+    }
+  ]
+}
