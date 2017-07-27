@@ -6072,4 +6072,19 @@
       "service": "EC2"
     }
   ]
+}prefix": "2a05:d07f:4000::/40",
+      "region": "eu-central-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2a05:d07f:8000::/40",
+      "region": "eu-west-1",
+      "service": "EC2"
+    },
+    {
+      "ipv6_prefix": "2a05:d07f:c000::/40",
+      "region": "eu-west-2",
+      "service": "EC2"
+    }
+  ]
 }
