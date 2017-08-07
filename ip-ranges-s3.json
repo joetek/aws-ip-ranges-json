@@ -433,17 +433,7 @@
             "service": "S3"
         },
         {
-            "ipv6_prefix": "2600:1fa0:1040::\/44",
-            "region": "ca-central-1",
-            "service": "S3"
-        },
-        {
-            "ipv6_prefix": "2600:1fa0:1080::\/44",
-            "region": "ca-central-1",
-            "service": "S3"
-        },
-        {
-            "ipv6_prefix": "2600:1fa0:10c0::\/44",
+            "ipv6_prefix": "2600:1fa0:1000::\/40",
             "region": "ca-central-1",
             "service": "S3"
         },

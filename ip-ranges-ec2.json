@@ -1453,6 +1453,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2a05:d000:2000::\/40",
+            "region": "eu-west-3",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2a05:d000:4000::\/40",
             "region": "eu-central-1",
             "service": "EC2"
