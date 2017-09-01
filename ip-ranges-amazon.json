@@ -521,32 +521,7 @@
             "service": "AMAZON"
         },
         {
-            "ip_prefix": "52.82.192.0\/22",
-            "region": "cn-northwest-1",
-            "service": "AMAZON"
-        },
-        {
-            "ip_prefix": "52.82.196.0\/22",
-            "region": "cn-northwest-1",
-            "service": "AMAZON"
-        },
-        {
-            "ip_prefix": "52.82.200.0\/25",
-            "region": "cn-northwest-1",
-            "service": "AMAZON"
-        },
-        {
-            "ip_prefix": "52.82.204.0\/23",
-            "region": "cn-northwest-1",
-            "service": "AMAZON"
-        },
-        {
-            "ip_prefix": "52.82.208.0\/20",
-            "region": "cn-northwest-1",
-            "service": "AMAZON"
-        },
-        {
-            "ip_prefix": "52.82.224.0\/19",
+            "ip_prefix": "52.82.192.0\/18",
             "region": "cn-northwest-1",
             "service": "AMAZON"
         },
