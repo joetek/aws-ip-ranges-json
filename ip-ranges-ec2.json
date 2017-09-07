@@ -471,6 +471,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "52.81.0.0\/16",
+            "region": "cn-north-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "52.83.0.0\/16",
             "region": "cn-northwest-1",
             "service": "EC2"

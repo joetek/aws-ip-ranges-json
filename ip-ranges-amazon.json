@@ -516,6 +516,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.81.0.0\/16",
+            "region": "cn-north-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.82.187.0\/24",
             "region": "cn-northwest-1",
             "service": "AMAZON"
