@@ -81,6 +81,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "18.144.0.0\/15",
+            "region": "us-west-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "18.194.0.0\/15",
             "region": "eu-central-1",
             "service": "EC2"
