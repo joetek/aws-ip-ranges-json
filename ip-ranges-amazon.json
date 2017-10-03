@@ -836,8 +836,18 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.94.69.0\/24",
+            "region": "eu-central-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.94.72.0\/22",
             "region": "us-west-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.94.76.0\/22",
+            "region": "us-west-2",
             "service": "AMAZON"
         },
         {
