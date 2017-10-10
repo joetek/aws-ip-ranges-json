@@ -511,6 +511,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "52.94.116.0\/22",
+            "region": "us-east-2",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "52.95.240.0\/24",
             "region": "sa-east-1",
             "service": "EC2"
