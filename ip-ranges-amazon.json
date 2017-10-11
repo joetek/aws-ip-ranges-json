@@ -1286,6 +1286,16 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.95.166.0\/23",
+            "region": "us-gov-east-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.95.168.0\/24",
+            "region": "us-gov-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.95.192.0\/20",
             "region": "ap-northeast-2",
             "service": "AMAZON"
