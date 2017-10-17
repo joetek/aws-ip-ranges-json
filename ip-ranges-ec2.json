@@ -512,7 +512,7 @@
         },
         {
             "ip_prefix": "52.94.116.0\/22",
-            "region": "us-east-2",
+            "region": "us-east-1",
             "service": "EC2"
         },
         {
