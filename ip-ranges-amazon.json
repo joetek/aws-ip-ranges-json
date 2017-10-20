@@ -121,6 +121,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "18.253.0.0\/16",
+            "region": "us-gov-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "23.20.0.0\/14",
             "region": "us-east-1",
             "service": "AMAZON"
@@ -398,6 +403,26 @@
         {
             "ip_prefix": "52.46.92.0\/22",
             "region": "eu-west-3",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.46.96.0\/20",
+            "region": "us-gov-east-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.46.112.0\/21",
+            "region": "us-gov-east-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.46.120.0\/22",
+            "region": "us-gov-east-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.46.124.0\/22",
+            "region": "us-gov-east-1",
             "service": "AMAZON"
         },
         {
