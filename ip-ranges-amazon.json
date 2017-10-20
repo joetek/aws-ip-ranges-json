@@ -817,7 +817,7 @@
         },
         {
             "ip_prefix": "52.94.22.0\/24",
-            "region": "eu-north-1",
+            "region": "us-gov-east-1",
             "service": "AMAZON"
         },
         {
