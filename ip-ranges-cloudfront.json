@@ -71,6 +71,11 @@
             "service": "CLOUDFRONT"
         },
         {
+            "ip_prefix": "52.47.139.0\/24",
+            "region": "eu-west-3",
+            "service": "CLOUDFRONT"
+        },
+        {
             "ip_prefix": "52.52.191.128\/26",
             "region": "us-west-1",
             "service": "CLOUDFRONT"
