@@ -406,22 +406,7 @@
             "service": "AMAZON"
         },
         {
-            "ip_prefix": "52.46.96.0\/20",
-            "region": "us-gov-east-1",
-            "service": "AMAZON"
-        },
-        {
-            "ip_prefix": "52.46.112.0\/21",
-            "region": "us-gov-east-1",
-            "service": "AMAZON"
-        },
-        {
-            "ip_prefix": "52.46.120.0\/22",
-            "region": "us-gov-east-1",
-            "service": "AMAZON"
-        },
-        {
-            "ip_prefix": "52.46.124.0\/22",
+            "ip_prefix": "52.46.96.0\/19",
             "region": "us-gov-east-1",
             "service": "AMAZON"
         },
