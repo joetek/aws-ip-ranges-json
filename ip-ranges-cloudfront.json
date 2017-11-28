@@ -31,8 +31,18 @@
             "service": "CLOUDFRONT"
         },
         {
+            "ip_prefix": "18.216.170.128\/25",
+            "region": "us-east-2",
+            "service": "CLOUDFRONT"
+        },
+        {
             "ip_prefix": "34.195.252.0\/24",
             "region": "us-east-1",
+            "service": "CLOUDFRONT"
+        },
+        {
+            "ip_prefix": "34.216.51.0\/25",
+            "region": "us-west-2",
             "service": "CLOUDFRONT"
         },
         {
