@@ -1111,6 +1111,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.94.249.112\/28",
+            "region": "us-gov-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.94.252.0\/23",
             "region": "us-east-1",
             "service": "AMAZON"
