@@ -521,6 +521,21 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "52.94.248.0\/28",
+            "region": "us-east-1",
+            "service": "EC2"
+        },
+        {
+            "ip_prefix": "52.94.248.16\/28",
+            "region": "eu-west-1",
+            "service": "EC2"
+        },
+        {
+            "ip_prefix": "52.94.248.32\/28",
+            "region": "ap-southeast-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "52.95.240.0\/24",
             "region": "sa-east-1",
             "service": "EC2"
