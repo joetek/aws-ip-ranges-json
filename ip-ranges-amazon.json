@@ -2196,6 +2196,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "54.239.1.64\/28",
+            "region": "us-gov-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "54.239.2.0\/23",
             "region": "us-west-2",
             "service": "AMAZON"
