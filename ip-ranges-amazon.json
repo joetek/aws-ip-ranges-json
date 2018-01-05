@@ -246,8 +246,8 @@
             "service": "AMAZON"
         },
         {
-            "ip_prefix": "35.180.0.0\/15",
-            "region": "ca-central-1",
+            "ip_prefix": "35.180.0.0\/16",
+            "region": "eu-west-3",
             "service": "AMAZON"
         },
         {
