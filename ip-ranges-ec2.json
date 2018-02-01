@@ -561,6 +561,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "52.82.184.0\/23",
+            "region": "cn-northwest-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "52.83.0.0\/16",
             "region": "cn-northwest-1",
             "service": "EC2"
@@ -1152,6 +1157,11 @@
         },
         {
             "ip_prefix": "54.222.36.0\/22",
+            "region": "cn-north-1",
+            "service": "EC2"
+        },
+        {
+            "ip_prefix": "54.222.40.0\/23",
             "region": "cn-north-1",
             "service": "EC2"
         },
