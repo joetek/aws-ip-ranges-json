@@ -412,7 +412,7 @@
         },
         {
             "ip_prefix": "52.46.180.0\/22",
-            "region": "us-east-1",
+            "region": "us-west-2",
             "service": "EC2"
         },
         {
