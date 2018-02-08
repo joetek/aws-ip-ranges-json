@@ -696,6 +696,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "52.95.227.0\/24",
+            "region": "eu-north-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "52.95.240.0\/24",
             "region": "sa-east-1",
             "service": "EC2"
