@@ -931,6 +931,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.94.23.0\/24",
+            "region": "eu-north-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.94.24.0\/23",
             "region": "eu-west-1",
             "service": "AMAZON"
@@ -2132,11 +2137,6 @@
         },
         {
             "ip_prefix": "54.222.36.0\/22",
-            "region": "cn-north-1",
-            "service": "AMAZON"
-        },
-        {
-            "ip_prefix": "54.222.40.0\/23",
             "region": "cn-north-1",
             "service": "AMAZON"
         },
