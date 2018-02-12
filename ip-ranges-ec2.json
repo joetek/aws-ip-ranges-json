@@ -1668,6 +1668,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2620:107:4007::\/64",
+            "region": "us-east-1",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2620:108:700f::\/64",
             "region": "us-west-2",
             "service": "EC2"
