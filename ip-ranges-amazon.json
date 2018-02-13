@@ -1692,7 +1692,7 @@
         },
         {
             "ip_prefix": "52.144.193.0\/26",
-            "region": "us-west-1",
+            "region": "us-east-1",
             "service": "AMAZON"
         },
         {
