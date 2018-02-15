@@ -166,6 +166,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "18.228.0.0\/16",
+            "region": "sa-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "18.231.0.0\/16",
             "region": "sa-east-1",
             "service": "AMAZON"
@@ -173,6 +178,11 @@
         {
             "ip_prefix": "18.232.0.0\/14",
             "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "18.236.0.0\/15",
+            "region": "us-west-2",
             "service": "AMAZON"
         },
         {
