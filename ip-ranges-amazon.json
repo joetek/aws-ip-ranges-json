@@ -1712,7 +1712,7 @@
         },
         {
             "ip_prefix": "52.144.194.0\/26",
-            "region": "eu-west-2",
+            "region": "us-east-1",
             "service": "AMAZON"
         },
         {
