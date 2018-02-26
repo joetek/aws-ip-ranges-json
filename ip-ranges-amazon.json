@@ -1766,6 +1766,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.144.224.64\/26",
+            "region": "ap-southeast-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.144.224.128\/26",
             "region": "ap-southeast-1",
             "service": "AMAZON"
