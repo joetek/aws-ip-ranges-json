@@ -1608,6 +1608,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2600:1f00:5000::\/40",
+            "region": "us-gov-east-1",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2600:1f00:6000::\/40",
             "region": "us-east-2",
             "service": "EC2"
