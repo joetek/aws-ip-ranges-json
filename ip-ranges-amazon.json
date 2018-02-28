@@ -3518,6 +3518,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2600:1f15::\/32",
+            "region": "us-gov-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2600:1f16::\/36",
             "region": "us-east-2",
             "service": "AMAZON"
@@ -3588,6 +3593,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2600:1ff8:5000::\/36",
+            "region": "us-gov-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2600:1ff8:6000::\/40",
             "region": "us-east-2",
             "service": "AMAZON"
@@ -3620,6 +3630,11 @@
         {
             "ipv6_prefix": "2600:1ff9:4000::\/40",
             "region": "us-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2600:1ff9:5000::\/40",
+            "region": "us-gov-east-1",
             "service": "AMAZON"
         },
         {
@@ -3658,6 +3673,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2600:1ffa:5000::\/40",
+            "region": "us-gov-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2600:1ffa:6000::\/40",
             "region": "us-east-2",
             "service": "AMAZON"
@@ -3690,6 +3710,11 @@
         {
             "ipv6_prefix": "2600:1ffc:4000::\/40",
             "region": "us-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2600:1ffc:5000::\/40",
+            "region": "us-gov-east-1",
             "service": "AMAZON"
         },
         {
@@ -3728,6 +3753,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2600:1ffe:5000::\/40",
+            "region": "us-gov-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2600:1ffe:6000::\/40",
             "region": "us-east-2",
             "service": "AMAZON"
@@ -3760,6 +3790,11 @@
         {
             "ipv6_prefix": "2600:1fff:4000::\/40",
             "region": "us-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2600:1fff:5000::\/40",
+            "region": "us-gov-east-1",
             "service": "AMAZON"
         },
         {
