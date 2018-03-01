@@ -61,6 +61,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "13.208.0.0\/16",
+            "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "13.209.0.0\/16",
             "region": "ap-northeast-2",
             "service": "AMAZON"
@@ -88,6 +93,26 @@
         {
             "ip_prefix": "13.236.0.0\/14",
             "region": "ap-southeast-2",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "13.248.0.0\/20",
+            "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "13.248.16.0\/21",
+            "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "13.248.24.0\/22",
+            "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "13.248.28.0\/22",
+            "region": "ap-northeast-3",
             "service": "AMAZON"
         },
         {
@@ -961,6 +986,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.94.19.0\/24",
+            "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.94.20.0\/24",
             "region": "ap-south-1",
             "service": "AMAZON"
@@ -1266,6 +1296,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.94.249.96\/28",
+            "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.94.249.112\/28",
             "region": "us-gov-east-1",
             "service": "AMAZON"
@@ -1456,6 +1491,16 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.95.157.0\/24",
+            "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.95.158.0\/23",
+            "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.95.163.0\/24",
             "region": "sa-east-1",
             "service": "AMAZON"
@@ -1483,6 +1528,11 @@
         {
             "ip_prefix": "52.95.212.0\/22",
             "region": "ap-southeast-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.95.225.0\/24",
+            "region": "ap-northeast-3",
             "service": "AMAZON"
         },
         {
@@ -2481,6 +2531,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "54.239.1.48\/28",
+            "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "54.239.1.64\/28",
             "region": "us-gov-east-1",
             "service": "AMAZON"
@@ -3163,6 +3218,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2406:da00:6000::\/40",
+            "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2406:da00:8000::\/40",
             "region": "ap-southeast-1",
             "service": "AMAZON"
@@ -3193,6 +3253,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2406:da16::\/36",
+            "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2406:da18::\/36",
             "region": "ap-southeast-1",
             "service": "AMAZON"
@@ -3215,6 +3280,11 @@
         {
             "ipv6_prefix": "2406:daa0:4000::\/40",
             "region": "ap-northeast-1",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2406:daa0:6000::\/40",
+            "region": "ap-northeast-3",
             "service": "AMAZON"
         },
         {
@@ -3243,6 +3313,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2406:daf8:6000::\/40",
+            "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2406:daf8:8000::\/40",
             "region": "ap-southeast-1",
             "service": "AMAZON"
@@ -3265,6 +3340,11 @@
         {
             "ipv6_prefix": "2406:daf9:4000::\/40",
             "region": "ap-northeast-1",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2406:daf9:6000::\/40",
+            "region": "ap-northeast-3",
             "service": "AMAZON"
         },
         {
@@ -3293,6 +3373,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2406:dafa:6000::\/40",
+            "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2406:dafa:8000::\/40",
             "region": "ap-southeast-1",
             "service": "AMAZON"
@@ -3315,6 +3400,11 @@
         {
             "ipv6_prefix": "2406:dafc:4000::\/40",
             "region": "ap-northeast-1",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2406:dafc:6000::\/40",
+            "region": "ap-northeast-3",
             "service": "AMAZON"
         },
         {
@@ -3343,6 +3433,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2406:dafe:6000::\/40",
+            "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2406:dafe:8000::\/40",
             "region": "ap-southeast-1",
             "service": "AMAZON"
@@ -3365,6 +3460,11 @@
         {
             "ipv6_prefix": "2406:daff:4000::\/40",
             "region": "ap-northeast-1",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2406:daff:6000::\/40",
+            "region": "ap-northeast-3",
             "service": "AMAZON"
         },
         {

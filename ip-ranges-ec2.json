@@ -51,6 +51,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "13.208.0.0\/16",
+            "region": "ap-northeast-3",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "13.209.0.0\/16",
             "region": "ap-northeast-2",
             "service": "EC2"
@@ -711,8 +716,18 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "52.94.249.96\/28",
+            "region": "ap-northeast-3",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "52.94.249.112\/28",
             "region": "us-gov-east-1",
+            "service": "EC2"
+        },
+        {
+            "ip_prefix": "52.95.225.0\/24",
+            "region": "ap-northeast-3",
             "service": "EC2"
         },
         {
@@ -1493,6 +1508,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2406:da00:6000::\/40",
+            "region": "ap-northeast-3",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2406:da00:8000::\/40",
             "region": "ap-southeast-1",
             "service": "EC2"
@@ -1523,6 +1543,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2406:da16::\/36",
+            "region": "ap-northeast-3",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2406:da18::\/36",
             "region": "ap-southeast-1",
             "service": "EC2"
@@ -1545,6 +1570,11 @@
         {
             "ipv6_prefix": "2406:daff:4000::\/40",
             "region": "ap-northeast-1",
+            "service": "EC2"
+        },
+        {
+            "ipv6_prefix": "2406:daff:6000::\/40",
+            "region": "ap-northeast-3",
             "service": "EC2"
         },
         {

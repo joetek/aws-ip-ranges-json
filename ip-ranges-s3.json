@@ -151,6 +151,16 @@
             "service": "S3"
         },
         {
+            "ip_prefix": "52.95.157.0\/24",
+            "region": "ap-northeast-3",
+            "service": "S3"
+        },
+        {
+            "ip_prefix": "52.95.158.0\/23",
+            "region": "ap-northeast-3",
+            "service": "S3"
+        },
+        {
             "ip_prefix": "52.95.163.0\/24",
             "region": "sa-east-1",
             "service": "S3"
@@ -333,6 +343,11 @@
             "service": "S3"
         },
         {
+            "ipv6_prefix": "2406:daa0:6000::\/40",
+            "region": "ap-northeast-3",
+            "service": "S3"
+        },
+        {
             "ipv6_prefix": "2406:daa0:8000::\/40",
             "region": "ap-southeast-1",
             "service": "S3"
@@ -355,6 +370,11 @@
         {
             "ipv6_prefix": "2406:daf8:4000::\/40",
             "region": "ap-northeast-1",
+            "service": "S3"
+        },
+        {
+            "ipv6_prefix": "2406:daf8:6000::\/40",
+            "region": "ap-northeast-3",
             "service": "S3"
         },
         {
@@ -383,6 +403,11 @@
             "service": "S3"
         },
         {
+            "ipv6_prefix": "2406:daf9:6000::\/40",
+            "region": "ap-northeast-3",
+            "service": "S3"
+        },
+        {
             "ipv6_prefix": "2406:daf9:8000::\/40",
             "region": "ap-southeast-1",
             "service": "S3"
@@ -405,6 +430,11 @@
         {
             "ipv6_prefix": "2406:dafa:4000::\/40",
             "region": "ap-northeast-1",
+            "service": "S3"
+        },
+        {
+            "ipv6_prefix": "2406:dafa:6000::\/40",
+            "region": "ap-northeast-3",
             "service": "S3"
         },
         {
