@@ -891,6 +891,16 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.18.178\/32",
+            "region": "eu-west-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.93.18.179\/32",
+            "region": "eu-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.93.19.236\/32",
             "region": "ap-southeast-1",
             "service": "AMAZON"
@@ -1856,6 +1866,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.144.196.192\/26",
+            "region": "us-east-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.144.208.64\/26",
             "region": "eu-west-1",
             "service": "AMAZON"
@@ -1878,6 +1893,11 @@
         {
             "ip_prefix": "52.144.209.128\/26",
             "region": "eu-west-3",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.144.209.192\/26",
+            "region": "eu-west-2",
             "service": "AMAZON"
         },
         {
@@ -2906,16 +2926,6 @@
             "service": "AMAZON"
         },
         {
-            "ip_prefix": "103.4.8.0\/22",
-            "region": "ap-northeast-1",
-            "service": "AMAZON"
-        },
-        {
-            "ip_prefix": "103.4.12.0\/22",
-            "region": "ap-northeast-1",
-            "service": "AMAZON"
-        },
-        {
             "ip_prefix": "103.8.172.0\/22",
             "region": "ap-southeast-2",
             "service": "AMAZON"
@@ -3720,6 +3730,11 @@
         {
             "ipv6_prefix": "2600:1fa0:4000::\/40",
             "region": "us-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2600:1fa0:5000::\/40",
+            "region": "us-gov-east-1",
             "service": "AMAZON"
         },
         {
