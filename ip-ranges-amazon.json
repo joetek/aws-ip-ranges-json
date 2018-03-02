@@ -881,6 +881,26 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.20.16\/32",
+            "region": "us-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.93.20.17\/32",
+            "region": "us-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.93.34.56\/32",
+            "region": "us-west-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.93.34.57\/32",
+            "region": "us-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.93.37.222\/32",
             "region": "us-west-1",
             "service": "AMAZON"
