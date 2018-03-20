@@ -966,6 +966,16 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.112.34\/32",
+            "region": "eu-west-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.93.112.35\/32",
+            "region": "eu-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.93.249.0\/24",
             "region": "us-east-1",
             "service": "AMAZON"
