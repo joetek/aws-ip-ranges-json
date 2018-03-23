@@ -521,6 +521,16 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.46.168.0\/23",
+            "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.46.170.0\/23",
+            "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.46.172.0\/22",
             "region": "sa-east-1",
             "service": "AMAZON"
