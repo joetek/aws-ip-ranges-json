@@ -2737,7 +2737,7 @@
         },
         {
             "ip_prefix": "54.239.100.0\/23",
-            "region": "eu-west-1",
+            "region": "eu-west-2",
             "service": "AMAZON"
         },
         {
