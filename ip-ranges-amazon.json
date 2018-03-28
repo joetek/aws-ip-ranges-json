@@ -2981,6 +2981,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "71.152.0.0\/17",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "72.21.192.0\/19",
             "region": "us-east-1",
             "service": "AMAZON"

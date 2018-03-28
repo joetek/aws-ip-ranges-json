@@ -181,6 +181,11 @@
             "service": "CLOUDFRONT"
         },
         {
+            "ip_prefix": "71.152.0.0\/17",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
             "ip_prefix": "143.204.0.0\/16",
             "region": "GLOBAL",
             "service": "CLOUDFRONT"
