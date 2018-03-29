@@ -4198,6 +4198,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2a05:d000:6000::\/40",
+            "region": "eu-north-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2a05:d000:8000::\/40",
             "region": "eu-west-1",
             "service": "AMAZON"
@@ -4215,6 +4220,11 @@
         {
             "ipv6_prefix": "2a05:d014::\/36",
             "region": "eu-central-1",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2a05:d016::\/36",
+            "region": "eu-north-1",
             "service": "AMAZON"
         },
         {
@@ -4258,6 +4268,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2a05:d078:6000::\/40",
+            "region": "eu-north-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2a05:d078:8000::\/40",
             "region": "eu-west-1",
             "service": "AMAZON"
@@ -4275,6 +4290,11 @@
         {
             "ipv6_prefix": "2a05:d079:4000::\/40",
             "region": "eu-central-1",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2a05:d079:6000::\/40",
+            "region": "eu-north-1",
             "service": "AMAZON"
         },
         {
@@ -4298,6 +4318,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2a05:d07a:6000::\/40",
+            "region": "eu-north-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2a05:d07a:8000::\/40",
             "region": "eu-west-1",
             "service": "AMAZON"
@@ -4315,6 +4340,11 @@
         {
             "ipv6_prefix": "2a05:d07c:4000::\/40",
             "region": "eu-central-1",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2a05:d07c:6000::\/40",
+            "region": "eu-north-1",
             "service": "AMAZON"
         },
         {
@@ -4338,6 +4368,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2a05:d07e:6000::\/40",
+            "region": "eu-north-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2a05:d07e:8000::\/40",
             "region": "eu-west-1",
             "service": "AMAZON"
@@ -4355,6 +4390,11 @@
         {
             "ipv6_prefix": "2a05:d07f:4000::\/40",
             "region": "eu-central-1",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2a05:d07f:6000::\/40",
+            "region": "eu-north-1",
             "service": "AMAZON"
         },
         {

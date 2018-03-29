@@ -1793,6 +1793,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2a05:d000:6000::\/40",
+            "region": "eu-north-1",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2a05:d000:8000::\/40",
             "region": "eu-west-1",
             "service": "EC2"
@@ -1813,6 +1818,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2a05:d016::\/36",
+            "region": "eu-north-1",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2a05:d018::\/36",
             "region": "eu-west-1",
             "service": "EC2"
@@ -1830,6 +1840,11 @@
         {
             "ipv6_prefix": "2a05:d07f:4000::\/40",
             "region": "eu-central-1",
+            "service": "EC2"
+        },
+        {
+            "ipv6_prefix": "2a05:d07f:6000::\/40",
+            "region": "eu-north-1",
             "service": "EC2"
         },
         {

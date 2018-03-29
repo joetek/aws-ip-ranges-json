@@ -693,6 +693,11 @@
             "service": "S3"
         },
         {
+            "ipv6_prefix": "2a05:d078:6000::\/40",
+            "region": "eu-north-1",
+            "service": "S3"
+        },
+        {
             "ipv6_prefix": "2a05:d078:8000::\/40",
             "region": "eu-west-1",
             "service": "S3"
@@ -713,6 +718,11 @@
             "service": "S3"
         },
         {
+            "ipv6_prefix": "2a05:d079:6000::\/40",
+            "region": "eu-north-1",
+            "service": "S3"
+        },
+        {
             "ipv6_prefix": "2a05:d079:8000::\/40",
             "region": "eu-west-1",
             "service": "S3"
@@ -730,6 +740,11 @@
         {
             "ipv6_prefix": "2a05:d07a:4000::\/40",
             "region": "eu-central-1",
+            "service": "S3"
+        },
+        {
+            "ipv6_prefix": "2a05:d07a:6000::\/40",
+            "region": "eu-north-1",
             "service": "S3"
         },
         {
