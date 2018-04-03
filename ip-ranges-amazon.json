@@ -2306,6 +2306,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "54.180.0.0\/15",
+            "region": "ap-northeast-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "54.182.0.0\/16",
             "region": "GLOBAL",
             "service": "AMAZON"
