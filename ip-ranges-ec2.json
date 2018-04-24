@@ -1391,6 +1391,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "99.79.0.0\/16",
+            "region": "ca-central-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "103.4.8.0\/21",
             "region": "ap-northeast-1",
             "service": "EC2"
