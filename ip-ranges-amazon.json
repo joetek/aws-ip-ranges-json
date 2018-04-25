@@ -3016,6 +3016,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "64.252.64.0\/18",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "67.202.0.0\/18",
             "region": "us-east-1",
             "service": "AMAZON"
