@@ -3076,6 +3076,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "100.20.0.0\/14",
+            "region": "us-west-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "100.24.0.0\/13",
             "region": "us-east-1",
             "service": "AMAZON"
