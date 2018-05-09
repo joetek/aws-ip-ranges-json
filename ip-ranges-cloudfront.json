@@ -121,6 +121,11 @@
             "service": "CLOUDFRONT"
         },
         {
+            "ip_prefix": "52.124.128.0\/17",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
             "ip_prefix": "52.199.127.192\/26",
             "region": "ap-northeast-1",
             "service": "CLOUDFRONT"

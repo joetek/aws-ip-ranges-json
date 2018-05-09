@@ -1876,6 +1876,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.124.128.0\/17",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.144.192.0\/26",
             "region": "us-east-1",
             "service": "AMAZON"
