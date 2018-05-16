@@ -1016,6 +1016,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.149.0\/24",
+            "region": "us-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.93.249.0\/24",
             "region": "us-east-1",
             "service": "AMAZON"
