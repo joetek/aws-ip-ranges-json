@@ -1436,6 +1436,21 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "76.223.188.0\/24",
+            "region": "ap-south-1",
+            "service": "EC2"
+        },
+        {
+            "ip_prefix": "76.223.189.0\/24",
+            "region": "ap-south-1",
+            "service": "EC2"
+        },
+        {
+            "ip_prefix": "76.223.190.0\/24",
+            "region": "ap-south-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "76.223.191.0\/24",
             "region": "us-east-1",
             "service": "EC2"
