@@ -2016,6 +2016,36 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.144.211.192\/31",
+            "region": "eu-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.144.211.194\/31",
+            "region": "eu-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.144.211.196\/31",
+            "region": "eu-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.144.211.198\/31",
+            "region": "eu-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.144.211.200\/31",
+            "region": "eu-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.144.211.202\/31",
+            "region": "eu-west-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.144.224.64\/26",
             "region": "ap-southeast-2",
             "service": "AMAZON"
