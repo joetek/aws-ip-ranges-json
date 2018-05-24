@@ -1016,6 +1016,26 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.138.252\/32",
+            "region": "eu-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.93.138.253\/32",
+            "region": "eu-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.93.139.252\/32",
+            "region": "eu-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.93.139.253\/32",
+            "region": "eu-west-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.93.149.0\/24",
             "region": "us-west-1",
             "service": "AMAZON"
