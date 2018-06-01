@@ -3111,16 +3111,6 @@
             "service": "AMAZON"
         },
         {
-            "ip_prefix": "76.223.191.0\/25",
-            "region": "us-east-1",
-            "service": "AMAZON"
-        },
-        {
-            "ip_prefix": "76.223.191.128\/25",
-            "region": "us-east-1",
-            "service": "AMAZON"
-        },
-        {
             "ip_prefix": "79.125.0.0\/17",
             "region": "eu-west-1",
             "service": "AMAZON"
