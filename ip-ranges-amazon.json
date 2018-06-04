@@ -586,6 +586,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.46.216.0\/22",
+            "region": "us-west-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.46.220.0\/22",
             "region": "eu-north-1",
             "service": "AMAZON"
