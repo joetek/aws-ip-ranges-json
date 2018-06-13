@@ -1436,6 +1436,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "157.175.0.0\/16",
+            "region": "me-south-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "174.129.0.0\/16",
             "region": "us-east-1",
             "service": "EC2"
