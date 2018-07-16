@@ -3648,6 +3648,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2a05:d050:e000::\/40",
+            "region": "me-south-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2a05:d07c:e000::\/40",
             "region": "me-south-1",
             "service": "AMAZON"
