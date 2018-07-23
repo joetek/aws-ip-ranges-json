@@ -3524,6 +3524,16 @@
             "ip_prefix": "203.83.220.0\/22",
             "region": "ap-southeast-1",
             "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "13.251.113.64\/26",
+            "region": "ap-southeast-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "13.251.116.0\/23",
+            "region": "ap-southeast-1",
+            "service": "AMAZON"
         }
     ],
     "ipv6_prefixes": [
