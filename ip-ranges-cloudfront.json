@@ -126,6 +126,11 @@
             "service": "CLOUDFRONT"
         },
         {
+            "ip_prefix": "204.246.172.0\/23",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
             "ip_prefix": "204.246.164.0\/22",
             "region": "GLOBAL",
             "service": "CLOUDFRONT"
