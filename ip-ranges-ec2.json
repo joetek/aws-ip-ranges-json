@@ -391,6 +391,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "162.213.232.0\/24",
+            "region": "eu-west-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "54.200.0.0\/15",
             "region": "us-west-2",
             "service": "EC2"
