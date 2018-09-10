@@ -3076,11 +3076,6 @@
             "service": "AMAZON"
         },
         {
-            "ip_prefix": "99.82.156.0\/22",
-            "region": "GLOBAL",
-            "service": "AMAZON"
-        },
-        {
             "ip_prefix": "52.94.199.0\/24",
             "region": "us-east-2",
             "service": "AMAZON"
