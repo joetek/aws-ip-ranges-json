@@ -278,7 +278,47 @@
     ],
     "ipv6_prefixes": [
         {
-            "ipv6_prefix": "2600:9000::\/28",
+            "ipv6_prefix": "2600:9000:eee::\/48",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
+            "ipv6_prefix": "2600:9000:4000::\/36",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
+            "ipv6_prefix": "2600:9000:3000::\/36",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
+            "ipv6_prefix": "2600:9000:f000::\/36",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
+            "ipv6_prefix": "2600:9000:fff::\/48",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
+            "ipv6_prefix": "2600:9000:2000::\/36",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
+            "ipv6_prefix": "2600:9000:1000::\/36",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
+            "ipv6_prefix": "2600:9000:ddd::\/48",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
+            "ipv6_prefix": "2600:9000:5300::\/40",
             "region": "GLOBAL",
             "service": "CLOUDFRONT"
         }

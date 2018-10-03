@@ -3968,6 +3968,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2600:9000:eee::\/48",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2406:daa0:6000::\/40",
             "region": "ap-northeast-3",
             "service": "AMAZON"
@@ -4148,11 +4153,6 @@
             "service": "AMAZON"
         },
         {
-            "ipv6_prefix": "2600:9000::\/28",
-            "region": "GLOBAL",
-            "service": "AMAZON"
-        },
-        {
             "ipv6_prefix": "2600:1f01:4830::\/47",
             "region": "eu-central-1",
             "service": "AMAZON"
@@ -4253,6 +4253,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2600:9000:4000::\/36",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2a05:d012::\/36",
             "region": "eu-west-3",
             "service": "AMAZON"
@@ -4328,6 +4333,16 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2600:9000:3000::\/36",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2600:9000:f000::\/36",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2804:800:0:7000::\/56",
             "region": "sa-east-1",
             "service": "AMAZON"
@@ -4345,6 +4360,11 @@
         {
             "ipv6_prefix": "2600:1f01:48a0::\/47",
             "region": "us-west-1",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2600:9000:fff::\/48",
+            "region": "GLOBAL",
             "service": "AMAZON"
         },
         {
@@ -4513,6 +4533,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2600:9000:2000::\/36",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2600:1ffa:1000::\/40",
             "region": "ca-central-1",
             "service": "AMAZON"
@@ -4520,6 +4545,11 @@
         {
             "ipv6_prefix": "2400:6500:0:7400::\/56",
             "region": "ap-northeast-2",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2600:9000:1000::\/36",
+            "region": "GLOBAL",
             "service": "AMAZON"
         },
         {
@@ -4718,6 +4748,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2600:9000:ddd::\/48",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2406:da1c::\/36",
             "region": "ap-southeast-2",
             "service": "AMAZON"
@@ -4890,6 +4925,11 @@
         {
             "ipv6_prefix": "2406:da00:ff00::\/64",
             "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2600:9000:5300::\/40",
+            "region": "GLOBAL",
             "service": "AMAZON"
         },
         {
