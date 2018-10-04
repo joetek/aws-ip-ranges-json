@@ -26,6 +26,11 @@
             "service": "CLOUDFRONT"
         },
         {
+            "ip_prefix": "52.82.128.0\/19",
+            "region": "cn-northwest-1",
+            "service": "CLOUDFRONT"
+        },
+        {
             "ip_prefix": "99.84.0.0\/16",
             "region": "GLOBAL",
             "service": "CLOUDFRONT"
