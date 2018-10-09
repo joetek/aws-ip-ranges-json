@@ -2471,6 +2471,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.237.0\/24",
+            "region": "us-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "54.239.107.253\/32",
             "region": "eu-central-1",
             "service": "AMAZON"
