@@ -1166,6 +1166,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "108.128.0.0\/13",
+            "region": "eu-west-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "13.56.0.0\/16",
             "region": "us-west-1",
             "service": "EC2"

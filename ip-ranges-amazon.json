@@ -2721,6 +2721,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "108.128.0.0\/13",
+            "region": "eu-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.95.61.0\/24",
             "region": "eu-west-1",
             "service": "AMAZON"
