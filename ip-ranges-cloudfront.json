@@ -131,6 +131,11 @@
             "service": "CLOUDFRONT"
         },
         {
+            "ip_prefix": "34.223.12.224\/27",
+            "region": "us-west-2",
+            "service": "CLOUDFRONT"
+        },
+        {
             "ip_prefix": "13.35.0.0\/16",
             "region": "GLOBAL",
             "service": "CLOUDFRONT"
@@ -212,6 +217,11 @@
         },
         {
             "ip_prefix": "204.246.174.0\/23",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
+            "ip_prefix": "64.252.128.0\/18",
             "region": "GLOBAL",
             "service": "CLOUDFRONT"
         },
