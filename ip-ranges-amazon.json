@@ -296,6 +296,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "13.248.99.0\/24",
+            "region": "us-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.93.37.223\/32",
             "region": "us-west-1",
             "service": "AMAZON"
