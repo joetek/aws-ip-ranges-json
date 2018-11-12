@@ -851,11 +851,6 @@
             "service": "AMAZON"
         },
         {
-            "ip_prefix": "3.40.0.0\/14",
-            "region": "eu-west-1",
-            "service": "AMAZON"
-        },
-        {
             "ip_prefix": "13.248.97.0\/24",
             "region": "eu-central-1",
             "service": "AMAZON"
