@@ -2751,6 +2751,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "15.164.0.0\/15",
+            "region": "ap-northeast-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.46.96.0\/19",
             "region": "us-gov-east-1",
             "service": "AMAZON"
