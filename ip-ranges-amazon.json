@@ -3191,6 +3191,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "3.124.0.0\/14",
+            "region": "eu-central-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.82.176.0\/22",
             "region": "cn-northwest-1",
             "service": "AMAZON"
