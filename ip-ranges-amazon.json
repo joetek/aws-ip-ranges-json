@@ -801,6 +801,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.95.216.0\/22",
+            "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.119.232.0\/21",
             "region": "us-east-1",
             "service": "AMAZON"
