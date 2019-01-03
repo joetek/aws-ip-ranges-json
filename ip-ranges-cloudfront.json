@@ -116,6 +116,11 @@
             "service": "CLOUDFRONT"
         },
         {
+            "ip_prefix": "13.224.0.0\/14",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
             "ip_prefix": "13.113.203.0\/24",
             "region": "ap-northeast-1",
             "service": "CLOUDFRONT"

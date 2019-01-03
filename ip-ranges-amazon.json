@@ -1731,6 +1731,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "13.224.0.0\/14",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.119.240.0\/21",
             "region": "eu-west-1",
             "service": "AMAZON"
