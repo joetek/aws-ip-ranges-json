@@ -126,6 +126,11 @@
             "service": "S3"
         },
         {
+            "ip_prefix": "52.219.120.0\/22",
+            "region": "us-west-1",
+            "service": "S3"
+        },
+        {
             "ip_prefix": "54.222.48.0\/22",
             "region": "cn-north-1",
             "service": "S3"
