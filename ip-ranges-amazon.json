@@ -5138,6 +5138,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2620:107:4000:7a00::\/56",
+            "region": "us-gov-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2600:1ffa:e000::\/40",
             "region": "sa-east-1",
             "service": "AMAZON"
