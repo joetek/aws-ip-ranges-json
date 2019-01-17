@@ -4093,6 +4093,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2600:1f01:4822::\/56",
+            "region": "eu-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2400:6500:0:7500::\/56",
             "region": "ap-south-1",
             "service": "AMAZON"
