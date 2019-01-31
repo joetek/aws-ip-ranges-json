@@ -716,6 +716,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "140.179.0.0\/16",
+            "region": "cn-north-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "13.53.0.0\/16",
             "region": "eu-north-1",
             "service": "EC2"
