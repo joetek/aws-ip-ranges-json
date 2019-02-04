@@ -6,6 +6,16 @@
             "service": "ROUTE53_HEALTHCHECKS"
         },
         {
+            "ip_prefix": "15.177.0.0\/21",
+            "region": "us-east-1",
+            "service": "ROUTE53_HEALTHCHECKS"
+        },
+        {
+            "ip_prefix": "15.177.40.0\/21",
+            "region": "ap-northeast-1",
+            "service": "ROUTE53_HEALTHCHECKS"
+        },
+        {
             "ip_prefix": "54.243.31.192\/26",
             "region": "us-east-1",
             "service": "ROUTE53_HEALTHCHECKS"
@@ -17,6 +27,16 @@
         },
         {
             "ip_prefix": "54.255.254.192\/26",
+            "region": "ap-southeast-1",
+            "service": "ROUTE53_HEALTHCHECKS"
+        },
+        {
+            "ip_prefix": "15.177.32.0\/21",
+            "region": "eu-west-1",
+            "service": "ROUTE53_HEALTHCHECKS"
+        },
+        {
+            "ip_prefix": "15.177.48.0\/21",
             "region": "ap-southeast-1",
             "service": "ROUTE53_HEALTHCHECKS"
         },
@@ -37,6 +57,26 @@
         },
         {
             "ip_prefix": "54.183.255.128\/26",
+            "region": "us-west-1",
+            "service": "ROUTE53_HEALTHCHECKS"
+        },
+        {
+            "ip_prefix": "15.177.56.0\/21",
+            "region": "ap-southeast-2",
+            "service": "ROUTE53_HEALTHCHECKS"
+        },
+        {
+            "ip_prefix": "15.177.24.0\/21",
+            "region": "sa-east-1",
+            "service": "ROUTE53_HEALTHCHECKS"
+        },
+        {
+            "ip_prefix": "15.177.16.0\/21",
+            "region": "us-west-2",
+            "service": "ROUTE53_HEALTHCHECKS"
+        },
+        {
+            "ip_prefix": "15.177.8.0\/21",
             "region": "us-west-1",
             "service": "ROUTE53_HEALTHCHECKS"
         },
