@@ -91,6 +91,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "13.248.106.0\/24",
+            "region": "me-south-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.119.224.0\/21",
             "region": "us-east-1",
             "service": "AMAZON"
