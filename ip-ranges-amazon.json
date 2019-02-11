@@ -4096,6 +4096,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "3.91.171.128\/25",
+            "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "34.223.24.0\/22",
             "region": "us-west-2",
             "service": "AMAZON"
