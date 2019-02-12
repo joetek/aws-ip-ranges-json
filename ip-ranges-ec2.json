@@ -821,6 +821,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "162.250.236.0\/24",
+            "region": "us-east-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "34.240.0.0\/13",
             "region": "eu-west-1",
             "service": "EC2"

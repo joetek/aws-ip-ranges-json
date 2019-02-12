@@ -1961,6 +1961,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "162.250.236.0\/24",
+            "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "13.35.0.0\/16",
             "region": "GLOBAL",
             "service": "AMAZON"
