@@ -2811,6 +2811,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.82.160.0\/22",
+            "region": "cn-northwest-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.144.215.194\/31",
             "region": "eu-north-1",
             "service": "AMAZON"
@@ -5005,6 +5010,11 @@
         {
             "ipv6_prefix": "2406:dafc:6000::\/40",
             "region": "ap-northeast-3",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2600:1f01:48e0::\/47",
+            "region": "me-south-1",
             "service": "AMAZON"
         },
         {
