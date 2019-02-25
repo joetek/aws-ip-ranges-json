@@ -421,6 +421,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.99.0\/24",
+            "region": "ap-south-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.95.40.0\/24",
             "region": "us-west-2",
             "service": "AMAZON"
