@@ -76,6 +76,11 @@
             "service": "S3"
         },
         {
+            "ip_prefix": "54.222.52.0\/22",
+            "region": "cn-north-1",
+            "service": "S3"
+        },
+        {
             "ip_prefix": "54.231.128.0\/19",
             "region": "eu-west-1",
             "service": "S3"
@@ -88,6 +93,11 @@
         {
             "ip_prefix": "52.95.157.0\/24",
             "region": "ap-northeast-3",
+            "service": "S3"
+        },
+        {
+            "ip_prefix": "52.82.164.0\/22",
+            "region": "cn-northwest-1",
             "service": "S3"
         },
         {
