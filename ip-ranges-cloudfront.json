@@ -1,11 +1,6 @@
 {
     "prefixes": [
         {
-            "ip_prefix": "52.82.131.0\/24",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT"
-        },
-        {
             "ip_prefix": "13.124.199.0\/24",
             "region": "ap-northeast-2",
             "service": "CLOUDFRONT"
@@ -27,6 +22,11 @@
         },
         {
             "ip_prefix": "54.239.128.0\/18",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
+            "ip_prefix": "52.82.128.0\/19",
             "region": "GLOBAL",
             "service": "CLOUDFRONT"
         },
@@ -101,11 +101,6 @@
             "service": "CLOUDFRONT"
         },
         {
-            "ip_prefix": "52.82.144.0\/20",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT"
-        },
-        {
             "ip_prefix": "54.239.192.0\/19",
             "region": "GLOBAL",
             "service": "CLOUDFRONT"
@@ -126,18 +121,8 @@
             "service": "CLOUDFRONT"
         },
         {
-            "ip_prefix": "52.82.133.0\/24",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT"
-        },
-        {
             "ip_prefix": "13.113.203.0\/24",
             "region": "ap-northeast-1",
-            "service": "CLOUDFRONT"
-        },
-        {
-            "ip_prefix": "52.82.134.0\/24",
-            "region": "GLOBAL",
             "service": "CLOUDFRONT"
         },
         {
@@ -202,11 +187,6 @@
         },
         {
             "ip_prefix": "205.251.249.0\/24",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT"
-        },
-        {
-            "ip_prefix": "52.82.129.0\/24",
             "region": "GLOBAL",
             "service": "CLOUDFRONT"
         },
@@ -286,11 +266,6 @@
             "service": "CLOUDFRONT"
         },
         {
-            "ip_prefix": "52.82.128.0\/24",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT"
-        },
-        {
             "ip_prefix": "54.240.128.0\/18",
             "region": "GLOBAL",
             "service": "CLOUDFRONT"
@@ -318,16 +293,6 @@
         {
             "ip_prefix": "34.232.163.208\/29",
             "region": "us-east-1",
-            "service": "CLOUDFRONT"
-        },
-        {
-            "ip_prefix": "52.82.132.0\/24",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT"
-        },
-        {
-            "ip_prefix": "52.82.135.0\/24",
-            "region": "GLOBAL",
             "service": "CLOUDFRONT"
         }
     ],
