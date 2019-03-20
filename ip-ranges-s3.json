@@ -528,11 +528,6 @@
             "service": "S3"
         },
         {
-            "ipv6_prefix": "2600:1ff0:6040::\/48",
-            "region": "us-east-2",
-            "service": "S3"
-        },
-        {
             "ipv6_prefix": "2600:1ff8:4000::\/40",
             "region": "us-west-2",
             "service": "S3"
@@ -785,6 +780,11 @@
         {
             "ipv6_prefix": "240f:80f8:8000::\/40",
             "region": "cn-north-1",
+            "service": "S3"
+        },
+        {
+            "ipv6_prefix": "2600:1ff0:6000::\/40",
+            "region": "us-east-2",
             "service": "S3"
         },
         {
