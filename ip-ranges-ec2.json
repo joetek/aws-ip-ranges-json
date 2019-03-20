@@ -2028,6 +2028,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2600:1ff0:6000::\/40",
+            "region": "us-east-2",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2a05:d014::\/36",
             "region": "eu-central-1",
             "service": "EC2"
