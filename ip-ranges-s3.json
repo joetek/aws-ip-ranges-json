@@ -1,6 +1,11 @@
 {
     "prefixes": [
         {
+            "ip_prefix": "3.5.128.0\/23",
+            "region": "us-east-2",
+            "service": "S3"
+        },
+        {
             "ip_prefix": "52.95.154.0\/23",
             "region": "eu-west-3",
             "service": "S3"
@@ -108,6 +113,11 @@
         {
             "ip_prefix": "54.231.253.0\/24",
             "region": "sa-east-1",
+            "service": "S3"
+        },
+        {
+            "ip_prefix": "3.5.130.0\/23",
+            "region": "us-east-2",
             "service": "S3"
         },
         {
