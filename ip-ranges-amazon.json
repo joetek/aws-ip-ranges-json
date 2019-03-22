@@ -1816,6 +1816,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "3.5.132.0\/23",
+            "region": "us-east-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "13.53.0.0\/16",
             "region": "eu-north-1",
             "service": "AMAZON"
