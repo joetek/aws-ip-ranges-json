@@ -1928,6 +1928,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2600:1f60:6000::\/40",
+            "region": "us-east-2",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2406:daff:a000::\/40",
             "region": "ap-south-1",
             "service": "EC2"
