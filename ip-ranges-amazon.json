@@ -3021,6 +3021,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "130.176.0.0\/16",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "13.56.0.0\/16",
             "region": "us-west-1",
             "service": "AMAZON"
