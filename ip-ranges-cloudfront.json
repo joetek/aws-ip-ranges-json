@@ -6,6 +6,11 @@
             "service": "CLOUDFRONT"
         },
         {
+            "ip_prefix": "144.220.0.0\/16",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT"
+        },
+        {
             "ip_prefix": "34.226.14.0\/24",
             "region": "us-east-1",
             "service": "CLOUDFRONT"

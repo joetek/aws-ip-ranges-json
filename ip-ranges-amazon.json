@@ -281,6 +281,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "144.220.0.0\/16",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.92.39.0\/24",
             "region": "sa-east-1",
             "service": "AMAZON"
