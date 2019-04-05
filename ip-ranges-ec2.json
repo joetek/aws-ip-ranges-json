@@ -406,11 +406,6 @@
             "service": "EC2"
         },
         {
-            "ip_prefix": "3.5.133.0\/24",
-            "region": "us-east-2",
-            "service": "EC2"
-        },
-        {
             "ip_prefix": "54.216.0.0\/15",
             "region": "eu-west-1",
             "service": "EC2"
@@ -761,6 +756,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "3.5.132.0\/23",
+            "region": "us-east-2",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "13.53.0.0\/16",
             "region": "eu-north-1",
             "service": "EC2"
@@ -1046,11 +1046,6 @@
             "service": "EC2"
         },
         {
-            "ip_prefix": "3.5.130.0\/24",
-            "region": "us-east-2",
-            "service": "EC2"
-        },
-        {
             "ip_prefix": "50.16.0.0\/15",
             "region": "us-east-1",
             "service": "EC2"
@@ -1231,11 +1226,6 @@
             "service": "EC2"
         },
         {
-            "ip_prefix": "3.5.132.0\/24",
-            "region": "us-east-2",
-            "service": "EC2"
-        },
-        {
             "ip_prefix": "13.230.0.0\/15",
             "region": "ap-northeast-1",
             "service": "EC2"
@@ -1266,11 +1256,6 @@
             "service": "EC2"
         },
         {
-            "ip_prefix": "3.5.128.0\/24",
-            "region": "us-east-2",
-            "service": "EC2"
-        },
-        {
             "ip_prefix": "54.178.0.0\/16",
             "region": "ap-northeast-1",
             "service": "EC2"
@@ -1288,6 +1273,11 @@
         {
             "ip_prefix": "18.184.0.0\/15",
             "region": "eu-central-1",
+            "service": "EC2"
+        },
+        {
+            "ip_prefix": "3.5.128.0\/22",
+            "region": "us-east-2",
             "service": "EC2"
         },
         {
@@ -1406,11 +1396,6 @@
             "service": "EC2"
         },
         {
-            "ip_prefix": "3.5.129.0\/24",
-            "region": "us-east-2",
-            "service": "EC2"
-        },
-        {
             "ip_prefix": "54.234.0.0\/15",
             "region": "us-east-1",
             "service": "EC2"
@@ -1498,11 +1483,6 @@
         {
             "ip_prefix": "46.137.224.0\/19",
             "region": "ap-southeast-1",
-            "service": "EC2"
-        },
-        {
-            "ip_prefix": "3.5.131.0\/24",
-            "region": "us-east-2",
             "service": "EC2"
         },
         {

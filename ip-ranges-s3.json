@@ -101,11 +101,6 @@
             "service": "S3"
         },
         {
-            "ip_prefix": "3.5.133.0\/24",
-            "region": "us-east-2",
-            "service": "S3"
-        },
-        {
             "ip_prefix": "52.219.76.0\/22",
             "region": "ap-southeast-1",
             "service": "S3"
@@ -181,6 +176,11 @@
             "service": "S3"
         },
         {
+            "ip_prefix": "3.5.132.0\/23",
+            "region": "us-east-2",
+            "service": "S3"
+        },
+        {
             "ip_prefix": "52.92.16.0\/20",
             "region": "us-east-1",
             "service": "S3"
@@ -236,11 +236,6 @@
             "service": "S3"
         },
         {
-            "ip_prefix": "3.5.130.0\/24",
-            "region": "us-east-2",
-            "service": "S3"
-        },
-        {
             "ip_prefix": "52.92.80.0\/22",
             "region": "ap-northeast-1",
             "service": "S3"
@@ -281,11 +276,6 @@
             "service": "S3"
         },
         {
-            "ip_prefix": "3.5.132.0\/24",
-            "region": "us-east-2",
-            "service": "S3"
-        },
-        {
             "ip_prefix": "52.219.112.0\/21",
             "region": "us-west-1",
             "service": "S3"
@@ -296,7 +286,7 @@
             "service": "S3"
         },
         {
-            "ip_prefix": "3.5.128.0\/24",
+            "ip_prefix": "3.5.128.0\/22",
             "region": "us-east-2",
             "service": "S3"
         },
@@ -331,18 +321,8 @@
             "service": "S3"
         },
         {
-            "ip_prefix": "3.5.129.0\/24",
-            "region": "us-east-2",
-            "service": "S3"
-        },
-        {
             "ip_prefix": "52.92.248.0\/22",
             "region": "ap-south-1",
-            "service": "S3"
-        },
-        {
-            "ip_prefix": "3.5.131.0\/24",
-            "region": "us-east-2",
             "service": "S3"
         },
         {
