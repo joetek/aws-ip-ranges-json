@@ -1396,6 +1396,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "161.189.0.0\/16",
+            "region": "cn-northwest-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "13.52.0.0\/16",
             "region": "us-west-1",
             "service": "EC2"
