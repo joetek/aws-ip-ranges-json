@@ -1721,6 +1721,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "3.130.0.0\/16",
+            "region": "us-east-2",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "13.57.0.0\/16",
             "region": "us-west-1",
             "service": "EC2"
