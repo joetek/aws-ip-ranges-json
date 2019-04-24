@@ -1441,6 +1441,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "52.94.249.176\/28",
+            "region": "af-south-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "54.153.0.0\/17",
             "region": "us-west-1",
             "service": "EC2"
