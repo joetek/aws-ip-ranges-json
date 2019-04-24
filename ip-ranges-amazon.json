@@ -2081,6 +2081,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "54.239.1.128\/28",
+            "region": "af-south-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "162.250.236.0\/24",
             "region": "us-east-1",
             "service": "AMAZON"
