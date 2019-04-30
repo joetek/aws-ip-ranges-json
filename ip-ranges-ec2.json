@@ -2083,8 +2083,18 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2406:daff:1000::\/40",
+            "region": "af-south-1",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2a05:d000:2000::\/40",
             "region": "eu-west-3",
+            "service": "EC2"
+        },
+        {
+            "ipv6_prefix": "2406:da00:1000::\/40",
+            "region": "af-south-1",
             "service": "EC2"
         },
         {
@@ -2110,6 +2120,11 @@
         {
             "ipv6_prefix": "2406:da00:4000::\/40",
             "region": "ap-northeast-1",
+            "service": "EC2"
+        },
+        {
+            "ipv6_prefix": "2406:da11::\/36",
+            "region": "af-south-1",
             "service": "EC2"
         },
         {
