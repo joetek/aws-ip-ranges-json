@@ -4618,6 +4618,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2404:c2c0:a00::\/40",
+            "region": "cn-northwest-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2a05:d050:c000::\/40",
             "region": "eu-west-2",
             "service": "AMAZON"
@@ -5110,6 +5115,11 @@
         {
             "ipv6_prefix": "240f:80f9:8000::\/40",
             "region": "cn-north-1",
+            "service": "AMAZON"
+        },
+        {
+            "ipv6_prefix": "2404:c2c0:e00::\/40",
+            "region": "cn-northwest-1",
             "service": "AMAZON"
         },
         {

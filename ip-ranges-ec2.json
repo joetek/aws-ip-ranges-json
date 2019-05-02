@@ -1818,6 +1818,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2404:c2c0:a00::\/40",
+            "region": "cn-northwest-1",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2a05:d07f:c000::\/40",
             "region": "eu-west-2",
             "service": "EC2"
