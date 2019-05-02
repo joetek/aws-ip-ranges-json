@@ -5603,6 +5603,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2406:dafc:1000::\/40",
+            "region": "af-south-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2406:da14::\/36",
             "region": "ap-northeast-1",
             "service": "AMAZON"
