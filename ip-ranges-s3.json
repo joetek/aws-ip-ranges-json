@@ -603,11 +603,6 @@
             "service": "S3"
         },
         {
-            "ipv6_prefix": "2404:c2c0:e00::\/40",
-            "region": "cn-northwest-1",
-            "service": "S3"
-        },
-        {
             "ipv6_prefix": "2406:dafa:e000::\/40",
             "region": "ap-east-1",
             "service": "S3"
@@ -685,6 +680,11 @@
         {
             "ipv6_prefix": "2406:daa0:2000::\/40",
             "region": "ap-northeast-2",
+            "service": "S3"
+        },
+        {
+            "ipv6_prefix": "2404:c2c0:200::\/40",
+            "region": "cn-northwest-1",
             "service": "S3"
         },
         {
@@ -770,6 +770,11 @@
         {
             "ipv6_prefix": "2406:daf8:6000::\/40",
             "region": "ap-northeast-3",
+            "service": "S3"
+        },
+        {
+            "ipv6_prefix": "2400:7fc0:200::\/40",
+            "region": "cn-north-1",
             "service": "S3"
         },
         {
