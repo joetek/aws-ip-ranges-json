@@ -4553,6 +4553,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2400:7fc0:8000::\/36",
+            "region": "cn-north-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "240f:80ff:4000::\/40",
             "region": "cn-northwest-1",
             "service": "AMAZON"
