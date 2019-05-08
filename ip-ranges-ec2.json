@@ -586,6 +586,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "162.250.238.0\/23",
+            "region": "us-east-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "35.176.0.0\/15",
             "region": "eu-west-2",
             "service": "EC2"
@@ -1007,6 +1012,11 @@
         },
         {
             "ip_prefix": "52.95.255.64\/28",
+            "region": "eu-west-1",
+            "service": "EC2"
+        },
+        {
+            "ip_prefix": "162.213.234.0\/23",
             "region": "eu-west-1",
             "service": "EC2"
         },
