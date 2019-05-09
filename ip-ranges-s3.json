@@ -848,6 +848,11 @@
             "service": "S3"
         },
         {
+            "ipv6_prefix": "2404:c2c0:2400::\/40",
+            "region": "cn-northwest-1",
+            "service": "S3"
+        },
+        {
             "ipv6_prefix": "2600:1ffa:e000::\/40",
             "region": "sa-east-1",
             "service": "S3"
