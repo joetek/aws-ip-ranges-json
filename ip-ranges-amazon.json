@@ -2886,6 +2886,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "13.248.107.0\/24",
+            "region": "ap-southeast-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.94.240.0\/22",
             "region": "us-east-1",
             "service": "AMAZON"
