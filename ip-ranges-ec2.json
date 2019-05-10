@@ -1883,6 +1883,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2400:7fc0:2200::\/40",
+            "region": "cn-north-1",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2600:1fff:1000::\/40",
             "region": "ca-central-1",
             "service": "EC2"

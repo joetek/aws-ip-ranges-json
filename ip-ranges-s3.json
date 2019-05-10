@@ -558,6 +558,11 @@
             "service": "S3"
         },
         {
+            "ipv6_prefix": "2400:7fc0:2400::\/40",
+            "region": "cn-north-1",
+            "service": "S3"
+        },
+        {
             "ipv6_prefix": "2600:1ffa:c000::\/40",
             "region": "us-west-1",
             "service": "S3"
