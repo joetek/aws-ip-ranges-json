@@ -731,6 +731,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "52.95.230.0\/24",
+            "region": "us-west-2",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "18.182.0.0\/16",
             "region": "ap-northeast-1",
             "service": "EC2"
