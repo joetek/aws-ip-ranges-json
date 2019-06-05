@@ -2321,6 +2321,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "54.239.64.0\/21",
+            "region": "eu-central-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.95.24.0\/22",
             "region": "us-east-2",
             "service": "AMAZON"
