@@ -2986,6 +2986,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "150.222.116.32\/31",
+            "region": "ap-northeast-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "13.248.104.0\/24",
             "region": "sa-east-1",
             "service": "AMAZON"
