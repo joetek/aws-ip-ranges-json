@@ -3241,6 +3241,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "13.248.111.0\/24",
+            "region": "us-east-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.93.4.0\/24",
             "region": "us-east-1",
             "service": "AMAZON"
