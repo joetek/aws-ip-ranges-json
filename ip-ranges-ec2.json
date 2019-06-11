@@ -1923,6 +1923,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2400:7fc0:2100::\/40",
+            "region": "cn-north-1",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2400:7fc0:2200::\/40",
             "region": "cn-north-1",
             "service": "EC2"
@@ -1993,6 +1998,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2404:c2c0:2f00::\/40",
+            "region": "cn-northwest-1",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2a05:d07f:6000::\/40",
             "region": "eu-north-1",
             "service": "EC2"
@@ -2058,8 +2068,18 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2404:c2c0:2100::\/40",
+            "region": "cn-northwest-1",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2600:1f00:8000::\/40",
             "region": "us-east-1",
+            "service": "EC2"
+        },
+        {
+            "ipv6_prefix": "2400:7fc0:2f00::\/40",
+            "region": "cn-north-1",
             "service": "EC2"
         },
         {
