@@ -5593,6 +5593,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2600:1f01:4844::\/47",
+            "region": "us-east-2",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2600:1fa0:c000::\/40",
             "region": "us-west-1",
             "service": "AMAZON"
