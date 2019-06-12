@@ -3836,6 +3836,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "150.222.91.0\/24",
+            "region": "ap-northeast-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "18.231.0.0\/16",
             "region": "sa-east-1",
             "service": "AMAZON"
