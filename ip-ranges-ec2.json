@@ -366,6 +366,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "162.250.237.0\/24",
+            "region": "us-east-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "18.144.0.0\/15",
             "region": "us-west-1",
             "service": "EC2"
@@ -458,6 +463,11 @@
         {
             "ip_prefix": "204.236.128.0\/18",
             "region": "us-west-1",
+            "service": "EC2"
+        },
+        {
+            "ip_prefix": "162.213.233.0\/24",
+            "region": "eu-west-1",
             "service": "EC2"
         },
         {
