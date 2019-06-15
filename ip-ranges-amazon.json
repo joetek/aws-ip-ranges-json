@@ -401,6 +401,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "150.222.136.0\/24",
+            "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "3.80.0.0\/12",
             "region": "us-east-1",
             "service": "AMAZON"
