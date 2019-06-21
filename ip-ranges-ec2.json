@@ -2163,6 +2163,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "240f:8018::\/36",
+            "region": "cn-north-1",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2a01:578:13::\/64",
             "region": "eu-central-1",
             "service": "EC2"
