@@ -2211,6 +2211,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "150.222.11.0\/31",
+            "region": "eu-central-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "172.96.97.0\/24",
             "region": "us-east-1",
             "service": "AMAZON"
