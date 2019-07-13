@@ -5908,6 +5908,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2620:107:4000:40::\/64",
+            "region": "us-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2400:6500:0:7700::\/56",
             "region": "af-south-1",
             "service": "AMAZON"
