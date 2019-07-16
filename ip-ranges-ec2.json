@@ -96,6 +96,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "99.77.128.0\/24",
+            "region": "us-east-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "54.180.0.0\/15",
             "region": "ap-northeast-2",
             "service": "EC2"
@@ -948,6 +953,11 @@
         {
             "ip_prefix": "54.223.0.0\/16",
             "region": "cn-north-1",
+            "service": "EC2"
+        },
+        {
+            "ip_prefix": "99.77.129.0\/24",
+            "region": "us-east-1",
             "service": "EC2"
         },
         {
