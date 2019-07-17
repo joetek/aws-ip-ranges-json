@@ -1271,6 +1271,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "99.77.191.0\/24",
+            "region": "us-east-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "3.112.0.0\/14",
             "region": "ap-northeast-1",
             "service": "EC2"
