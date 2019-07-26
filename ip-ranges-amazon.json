@@ -411,6 +411,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.219.132.0\/22",
+            "region": "ap-southeast-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "184.73.0.0\/16",
             "region": "us-east-1",
             "service": "AMAZON"
@@ -3556,6 +3561,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.219.124.0\/22",
+            "region": "ap-southeast-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "54.240.241.0\/24",
             "region": "ap-east-1",
             "service": "AMAZON"
@@ -3773,6 +3783,11 @@
         {
             "ip_prefix": "52.144.216.4\/31",
             "region": "eu-north-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.219.128.0\/22",
+            "region": "ap-southeast-1",
             "service": "AMAZON"
         },
         {
