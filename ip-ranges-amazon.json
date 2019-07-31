@@ -226,11 +226,6 @@
             "service": "AMAZON"
         },
         {
-            "ip_prefix": "52.144.228.192\/31",
-            "region": "ap-northeast-2",
-            "service": "AMAZON"
-        },
-        {
             "ip_prefix": "99.77.128.0\/24",
             "region": "us-east-1",
             "service": "AMAZON"
@@ -1628,6 +1623,11 @@
         {
             "ip_prefix": "35.176.0.0\/15",
             "region": "eu-west-2",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.144.228.192\/27",
+            "region": "ap-northeast-2",
             "service": "AMAZON"
         },
         {
