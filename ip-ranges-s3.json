@@ -231,6 +231,11 @@
             "service": "S3"
         },
         {
+            "ip_prefix": "52.219.48.0\/22",
+            "region": "ap-southeast-1",
+            "service": "S3"
+        },
+        {
             "ip_prefix": "52.219.62.0\/23",
             "region": "ap-south-1",
             "service": "S3"
