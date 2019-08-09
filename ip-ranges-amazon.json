@@ -1966,6 +1966,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.146.5\/32",
+            "region": "sa-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.93.1.0\/24",
             "region": "us-east-1",
             "service": "AMAZON"
