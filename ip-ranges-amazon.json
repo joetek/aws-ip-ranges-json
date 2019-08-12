@@ -1101,6 +1101,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "13.248.113.0\/24",
+            "region": "eu-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "15.188.0.0\/16",
             "region": "eu-west-3",
             "service": "AMAZON"
