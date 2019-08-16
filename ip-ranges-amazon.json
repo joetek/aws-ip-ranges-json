@@ -2191,6 +2191,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "13.248.114.0\/24",
+            "region": "sa-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.94.48.0\/20",
             "region": "eu-west-2",
             "service": "AMAZON"
