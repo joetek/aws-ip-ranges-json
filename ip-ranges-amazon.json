@@ -1986,6 +1986,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.73.0\/26",
+            "region": "ap-northeast-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.94.198.144\/28",
             "region": "eu-west-2",
             "service": "AMAZON"
