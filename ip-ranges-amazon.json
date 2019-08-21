@@ -956,6 +956,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "108.175.52.0\/22",
+            "region": "us-gov-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.10.0.0\/15",
             "region": "us-west-2",
             "service": "AMAZON"
@@ -1633,6 +1638,11 @@
         {
             "ip_prefix": "52.94.192.0\/22",
             "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "108.175.48.0\/22",
+            "region": "us-gov-west-1",
             "service": "AMAZON"
         },
         {
