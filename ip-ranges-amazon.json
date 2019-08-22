@@ -1887,7 +1887,7 @@
         },
         {
             "ip_prefix": "150.222.31.0\/24",
-            "region": "GLOBAL",
+            "region": "me-south-1",
             "service": "AMAZON"
         },
         {
