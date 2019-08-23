@@ -1886,11 +1886,6 @@
             "service": "AMAZON"
         },
         {
-            "ip_prefix": "150.222.31.0\/24",
-            "region": "me-south-1",
-            "service": "AMAZON"
-        },
-        {
             "ip_prefix": "52.29.0.0\/16",
             "region": "eu-central-1",
             "service": "AMAZON"
