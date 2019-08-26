@@ -856,6 +856,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "150.222.7.0\/24",
+            "region": "me-south-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "18.200.0.0\/16",
             "region": "eu-west-1",
             "service": "AMAZON"
