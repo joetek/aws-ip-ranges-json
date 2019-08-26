@@ -1,0 +1,75 @@
+{
+    "prefixes": [
+        {
+            "ip_prefix": "13.250.186.128\/27",
+            "region": "ap-southeast-1",
+            "service": "CLOUD9"
+        },
+        {
+            "ip_prefix": "13.250.186.160\/27",
+            "region": "ap-southeast-1",
+            "service": "CLOUD9"
+        },
+        {
+            "ip_prefix": "18.179.48.128\/27",
+            "region": "ap-northeast-1",
+            "service": "CLOUD9"
+        },
+        {
+            "ip_prefix": "18.179.48.96\/27",
+            "region": "ap-northeast-1",
+            "service": "CLOUD9"
+        },
+        {
+            "ip_prefix": "18.184.138.224\/27",
+            "region": "eu-central-1",
+            "service": "CLOUD9"
+        },
+        {
+            "ip_prefix": "18.184.203.128\/27",
+            "region": "eu-central-1",
+            "service": "CLOUD9"
+        },
+        {
+            "ip_prefix": "18.188.9.0\/27",
+            "region": "us-east-2",
+            "service": "CLOUD9"
+        },
+        {
+            "ip_prefix": "18.188.9.32\/27",
+            "region": "us-east-2",
+            "service": "CLOUD9"
+        },
+        {
+            "ip_prefix": "34.217.141.224\/27",
+            "region": "us-west-2",
+            "service": "CLOUD9"
+        },
+        {
+            "ip_prefix": "34.218.119.32\/27",
+            "region": "us-west-2",
+            "service": "CLOUD9"
+        },
+        {
+            "ip_prefix": "34.245.205.0\/27",
+            "region": "eu-west-1",
+            "service": "CLOUD9"
+        },
+        {
+            "ip_prefix": "34.245.205.64\/27",
+            "region": "eu-west-1",
+            "service": "CLOUD9"
+        },
+        {
+            "ip_prefix": "35.172.155.192\/27",
+            "region": "us-east-1",
+            "service": "CLOUD9"
+        },
+        {
+            "ip_prefix": "35.172.155.96\/27",
+            "region": "us-east-1",
+            "service": "CLOUD9"
+        }
+    ],
+    "ipv6_prefixes": []
+}
