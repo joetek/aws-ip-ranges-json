@@ -5111,6 +5111,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "3.227.250.128\/25",
+            "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "3.8.168.0\/23",
             "region": "eu-west-2",
             "service": "AMAZON"
