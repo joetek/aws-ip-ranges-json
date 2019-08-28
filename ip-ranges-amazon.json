@@ -3426,6 +3426,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.122.131\/32",
+            "region": "us-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.94.248.144\/28",
             "region": "ap-south-1",
             "service": "AMAZON"
