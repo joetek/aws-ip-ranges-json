@@ -1811,6 +1811,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "15.193.0.0\/24",
+            "region": "ap-south-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "52.66.0.0\/16",
             "region": "ap-south-1",
             "service": "EC2"
