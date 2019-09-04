@@ -4,10 +4,14 @@ Amazon AWS provides a list of IP Addresses used by their various services throug
 
 Specifically, this file tracks the IPv4 and IPv6 IP Addresses for the following services:
 
+ * Amazon Connect
+ * Cloud9
  * CloudFront
  * EC2
+ * Global Accelerator
  * Route53
  * S3
+ * Workspaces
 
 This Git repository tracks this file so that changes are easy to identify.  I've also split out the various services so that you can see the frequency of changes for each service.  With these updates, you can see how often and how significant changes are over time.
 
