@@ -166,6 +166,11 @@
             "service": "GLOBALACCELERATOR"
         },
         {
+            "ip_prefix": "13.248.111.0\/24",
+            "region": "us-east-2",
+            "service": "GLOBALACCELERATOR"
+        },
+        {
             "ip_prefix": "99.82.168.0\/24",
             "region": "ap-northeast-2",
             "service": "GLOBALACCELERATOR"
