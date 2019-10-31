@@ -1936,6 +1936,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.62.0\/24",
+            "region": "us-east-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.119.248.0\/24",
             "region": "ap-east-1",
             "service": "AMAZON"
