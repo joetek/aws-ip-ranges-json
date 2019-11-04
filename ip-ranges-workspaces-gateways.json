@@ -16,6 +16,11 @@
             "service": "EC2_INSTANCE_CONNECT"
         },
         {
+            "ip_prefix": "13.48.4.200\/30",
+            "region": "eu-north-1",
+            "service": "EC2_INSTANCE_CONNECT"
+        },
+        {
             "ip_prefix": "13.52.6.112\/29",
             "region": "us-west-1",
             "service": "EC2_INSTANCE_CONNECT"
