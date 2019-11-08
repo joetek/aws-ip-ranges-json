@@ -6088,6 +6088,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2600:1f1f::\/36",
+            "region": "us-west-2",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2a05:d078:2000::\/40",
             "region": "eu-west-3",
             "service": "AMAZON"
