@@ -1297,7 +1297,7 @@
         },
         {
             "ip_prefix": "52.46.249.0\/24",
-            "region": "us-west-1",
+            "region": "us-west-2",
             "service": "AMAZON"
         },
         {
