@@ -2468,6 +2468,11 @@
             "service": "EC2"
         },
         {
+            "ipv6_prefix": "2600:1fff:3000::\/40",
+            "region": "us-west-2",
+            "service": "EC2"
+        },
+        {
             "ipv6_prefix": "2406:da14::\/36",
             "region": "ap-northeast-1",
             "service": "EC2"
