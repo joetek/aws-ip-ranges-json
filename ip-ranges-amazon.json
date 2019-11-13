@@ -1866,6 +1866,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "15.197.4.0\/22",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.94.16.0\/24",
             "region": "eu-west-3",
             "service": "AMAZON"
