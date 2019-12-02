@@ -26,6 +26,11 @@
             "service": "GLOBALACCELERATOR"
         },
         {
+            "ip_prefix": "13.248.123.0\/24",
+            "region": "eu-central-1",
+            "service": "GLOBALACCELERATOR"
+        },
+        {
             "ip_prefix": "13.248.99.0\/24",
             "region": "us-west-1",
             "service": "GLOBALACCELERATOR"
