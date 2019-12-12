@@ -3101,6 +3101,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.254.0\/24",
+            "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.95.175.0\/24",
             "region": "af-south-1",
             "service": "AMAZON"
