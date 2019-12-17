@@ -1,46 +1,6 @@
 {
     "prefixes": [
         {
-            "ip_prefix": "15.193.2.0\/24",
-            "region": "ap-southeast-1",
-            "service": "AMAZON_CONNECT"
-        },
-        {
-            "ip_prefix": "15.193.4.0\/24",
-            "region": "eu-central-1",
-            "service": "AMAZON_CONNECT"
-        },
-        {
-            "ip_prefix": "15.193.7.0\/24",
-            "region": "us-west-2",
-            "service": "AMAZON_CONNECT"
-        },
-        {
-            "ip_prefix": "15.193.5.0\/24",
-            "region": "eu-west-2",
-            "service": "AMAZON_CONNECT"
-        },
-        {
-            "ip_prefix": "15.193.3.0\/24",
-            "region": "ap-southeast-2",
-            "service": "AMAZON_CONNECT"
-        },
-        {
-            "ip_prefix": "15.193.0.0\/24",
-            "region": "ap-south-1",
-            "service": "AMAZON_CONNECT"
-        },
-        {
-            "ip_prefix": "15.193.6.0\/24",
-            "region": "us-east-1",
-            "service": "AMAZON_CONNECT"
-        },
-        {
-            "ip_prefix": "15.193.1.0\/24",
-            "region": "ap-northeast-1",
-            "service": "AMAZON_CONNECT"
-        },
-        {
             "ip_prefix": "13.210.2.192\/26",
             "region": "ap-southeast-2",
             "service": "AMAZON_CONNECT"
