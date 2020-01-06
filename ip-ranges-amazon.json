@@ -5371,6 +5371,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "150.222.85.0\/32",
+            "region": "eu-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.95.255.80\/28",
             "region": "us-east-1",
             "service": "AMAZON"
