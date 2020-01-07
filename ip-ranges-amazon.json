@@ -2577,7 +2577,7 @@
         },
         {
             "ip_prefix": "150.222.11.0\/31",
-            "region": "eu-central-1",
+            "region": "eu-west-1",
             "service": "AMAZON"
         },
         {
