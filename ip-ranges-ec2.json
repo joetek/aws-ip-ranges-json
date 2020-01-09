@@ -411,6 +411,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "3.34.0.0\/15",
+            "region": "ap-northeast-2",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "52.65.0.0\/16",
             "region": "ap-southeast-2",
             "service": "EC2"
@@ -788,6 +793,11 @@
         {
             "ip_prefix": "52.57.0.0\/16",
             "region": "eu-central-1",
+            "service": "EC2"
+        },
+        {
+            "ip_prefix": "18.132.0.0\/14",
+            "region": "eu-west-2",
             "service": "EC2"
         },
         {
