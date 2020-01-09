@@ -91,6 +91,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "3.5.16.0\/21",
+            "region": "us-east-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "13.125.0.0\/16",
             "region": "ap-northeast-2",
             "service": "EC2"
@@ -1393,6 +1398,11 @@
         {
             "ip_prefix": "185.48.120.0\/22",
             "region": "eu-west-1",
+            "service": "EC2"
+        },
+        {
+            "ip_prefix": "3.5.0.0\/20",
+            "region": "us-east-1",
             "service": "EC2"
         },
         {
