@@ -3751,6 +3751,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "150.222.110.0\/24",
+            "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.95.255.32\/28",
             "region": "ap-southeast-1",
             "service": "AMAZON"
