@@ -4026,6 +4026,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "150.222.221.0\/24",
+            "region": "us-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.95.61.0\/24",
             "region": "eu-west-1",
             "service": "AMAZON"
