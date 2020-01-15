@@ -76,6 +76,11 @@
             "service": "ROUTE53_HEALTHCHECKS"
         },
         {
+            "ip_prefix": "15.177.89.0\/24",
+            "region": "eu-west-1",
+            "service": "ROUTE53_HEALTHCHECKS"
+        },
+        {
             "ip_prefix": "54.244.52.192\/26",
             "region": "us-west-2",
             "service": "ROUTE53_HEALTHCHECKS"
