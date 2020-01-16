@@ -1316,11 +1316,6 @@
             "service": "AMAZON"
         },
         {
-            "ip_prefix": "52.93.112.35\/32",
-            "region": "eu-west-1",
-            "service": "AMAZON"
-        },
-        {
             "ip_prefix": "52.95.29.0\/26",
             "region": "us-east-2",
             "service": "AMAZON"
@@ -3141,6 +3136,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.112.0\/24",
+            "region": "eu-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "54.239.0.224\/28",
             "region": "us-east-2",
             "service": "AMAZON"
@@ -4212,11 +4212,6 @@
         },
         {
             "ip_prefix": "52.93.18.179\/32",
-            "region": "eu-west-1",
-            "service": "AMAZON"
-        },
-        {
-            "ip_prefix": "52.93.112.34\/32",
             "region": "eu-west-1",
             "service": "AMAZON"
         },
