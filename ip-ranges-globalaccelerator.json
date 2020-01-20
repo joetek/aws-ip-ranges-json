@@ -6,6 +6,11 @@
             "service": "GLOBALACCELERATOR"
         },
         {
+            "ip_prefix": "13.248.124.0\/24",
+            "region": "us-east-1",
+            "service": "GLOBALACCELERATOR"
+        },
+        {
             "ip_prefix": "13.248.106.0\/24",
             "region": "me-south-1",
             "service": "GLOBALACCELERATOR"
