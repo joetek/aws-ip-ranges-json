@@ -376,11 +376,6 @@
             "service": "AMAZON"
         },
         {
-            "ip_prefix": "52.92.39.0\/24",
-            "region": "sa-east-1",
-            "service": "AMAZON"
-        },
-        {
             "ip_prefix": "52.95.150.0\/24",
             "region": "eu-west-2",
             "service": "AMAZON"
@@ -1238,11 +1233,6 @@
         {
             "ip_prefix": "54.78.0.0\/16",
             "region": "eu-west-1",
-            "service": "AMAZON"
-        },
-        {
-            "ip_prefix": "54.231.253.0\/24",
-            "region": "sa-east-1",
             "service": "AMAZON"
         },
         {
