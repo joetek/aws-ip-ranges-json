@@ -1156,6 +1156,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "150.222.242.214\/31",
+            "region": "eu-west-3",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "3.104.0.0\/14",
             "region": "ap-southeast-2",
             "service": "AMAZON"
