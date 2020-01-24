@@ -601,6 +601,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "15.177.91.0\/24",
+            "region": "af-south-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "35.155.0.0\/16",
             "region": "us-west-2",
             "service": "EC2"
