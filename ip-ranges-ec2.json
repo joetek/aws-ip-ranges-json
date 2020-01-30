@@ -236,6 +236,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "3.101.0.0\/16",
+            "region": "us-west-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "52.40.0.0\/14",
             "region": "us-west-2",
             "service": "EC2"
