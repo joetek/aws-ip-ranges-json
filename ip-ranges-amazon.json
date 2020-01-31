@@ -5316,11 +5316,6 @@
             "service": "AMAZON"
         },
         {
-            "ip_prefix": "52.92.84.0\/22",
-            "region": "ca-central-1",
-            "service": "AMAZON"
-        },
-        {
             "ip_prefix": "54.240.128.0\/18",
             "region": "GLOBAL",
             "service": "AMAZON"
