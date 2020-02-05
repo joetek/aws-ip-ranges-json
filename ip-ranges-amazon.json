@@ -5686,6 +5686,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "15.193.0.0\/19",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "13.208.170.0\/23",
             "region": "ap-northeast-3",
             "service": "AMAZON"
