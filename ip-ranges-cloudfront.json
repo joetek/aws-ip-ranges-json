@@ -321,6 +321,11 @@
             "service": "CLOUDFRONT"
         },
         {
+            "ip_prefix": "3.234.232.224\/27",
+            "region": "us-east-1",
+            "service": "CLOUDFRONT"
+        },
+        {
             "ip_prefix": "52.78.247.128\/26",
             "region": "ap-northeast-2",
             "service": "CLOUDFRONT"
