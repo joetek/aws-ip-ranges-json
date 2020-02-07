@@ -4886,6 +4886,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "150.222.236.0\/24",
+            "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "3.5.212.0\/23",
             "region": "ap-south-1",
             "service": "AMAZON"
