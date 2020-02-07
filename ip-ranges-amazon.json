@@ -1741,6 +1741,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "54.222.66.0\/23",
+            "region": "cn-north-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "54.240.232.0\/22",
             "region": "us-east-1",
             "service": "AMAZON"
