@@ -4336,6 +4336,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "64.252.64.0\/18",
+            "region": "GLOBAL",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.92.52.0\/22",
             "region": "ap-southeast-2",
             "service": "AMAZON"
