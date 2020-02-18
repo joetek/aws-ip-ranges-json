@@ -116,11 +116,6 @@
             "service": "CLOUDFRONT"
         },
         {
-            "ip_prefix": "64.252.64.0\/18",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT"
-        },
-        {
             "ip_prefix": "204.246.174.0\/23",
             "region": "GLOBAL",
             "service": "CLOUDFRONT"
@@ -313,6 +308,11 @@
         {
             "ip_prefix": "18.200.212.0\/23",
             "region": "eu-west-1",
+            "service": "CLOUDFRONT"
+        },
+        {
+            "ip_prefix": "64.252.64.0\/18",
+            "region": "GLOBAL",
             "service": "CLOUDFRONT"
         },
         {
