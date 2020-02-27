@@ -3696,6 +3696,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "15.221.24.0\/21",
+            "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "18.220.0.0\/14",
             "region": "us-east-2",
             "service": "AMAZON"
