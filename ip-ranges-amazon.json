@@ -4421,6 +4421,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "15.230.22.0\/24",
+            "region": "ap-southeast-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "18.138.0.0\/15",
             "region": "ap-southeast-1",
             "service": "AMAZON"
