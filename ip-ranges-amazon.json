@@ -161,6 +161,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "150.222.121.0\/24",
+            "region": "eu-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "172.96.98.0\/24",
             "region": "eu-west-1",
             "service": "AMAZON"
