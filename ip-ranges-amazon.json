@@ -3591,11 +3591,6 @@
             "service": "AMAZON"
         },
         {
-            "ip_prefix": "52.92.80.0\/22",
-            "region": "ap-northeast-1",
-            "service": "AMAZON"
-        },
-        {
             "ip_prefix": "52.93.248.0\/24",
             "region": "ap-northeast-2",
             "service": "AMAZON"
