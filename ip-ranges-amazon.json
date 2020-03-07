@@ -6698,6 +6698,11 @@
             "service": "AMAZON"
         },
         {
+            "ipv6_prefix": "2620:107:4008::\/45",
+            "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
             "ipv6_prefix": "2404:c2c0:2600::\/40",
             "region": "cn-northwest-1",
             "service": "AMAZON"
