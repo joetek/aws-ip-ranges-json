@@ -1871,6 +1871,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "150.222.118.0\/24",
+            "region": "eu-north-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "157.175.0.0\/16",
             "region": "me-south-1",
             "service": "AMAZON"
