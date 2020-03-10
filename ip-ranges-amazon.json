@@ -5311,6 +5311,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "15.230.28.0\/24",
+            "region": "us-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.94.198.128\/28",
             "region": "ca-central-1",
             "service": "AMAZON"
