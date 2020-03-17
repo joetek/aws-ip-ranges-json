@@ -501,11 +501,6 @@
             "service": "AMAZON"
         },
         {
-            "ip_prefix": "52.93.75.0\/32",
-            "region": "ca-central-1",
-            "service": "AMAZON"
-        },
-        {
             "ip_prefix": "52.92.0.0\/20",
             "region": "ap-northeast-2",
             "service": "AMAZON"
@@ -3103,6 +3098,11 @@
         {
             "ip_prefix": "176.32.125.252\/31",
             "region": "us-east-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.93.75.0\/24",
+            "region": "ca-central-1",
             "service": "AMAZON"
         },
         {
