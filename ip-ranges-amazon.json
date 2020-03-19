@@ -4831,6 +4831,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "64.252.65.0\/24",
+            "region": "us-west-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.82.192.0\/18",
             "region": "cn-northwest-1",
             "service": "AMAZON"
