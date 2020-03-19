@@ -81,6 +81,11 @@
             "service": "CLOUD9"
         },
         {
+            "ip_prefix": "18.188.9.0\/27",
+            "region": "us-east-2",
+            "service": "CLOUD9"
+        },
+        {
             "ip_prefix": "18.188.9.32\/27",
             "region": "us-east-2",
             "service": "CLOUD9"
