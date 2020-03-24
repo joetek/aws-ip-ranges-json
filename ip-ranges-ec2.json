@@ -126,6 +126,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "68.79.0.0\/18",
+            "region": "cn-northwest-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "99.77.128.0\/24",
             "region": "us-east-1",
             "service": "EC2"
