@@ -3746,6 +3746,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.153.80\/32",
+            "region": "eu-west-2",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.95.148.0\/23",
             "region": "eu-west-2",
             "service": "AMAZON"
