@@ -51,6 +51,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "15.230.31.0\/24",
+            "region": "eu-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.94.22.0\/24",
             "region": "us-gov-east-1",
             "service": "AMAZON"
@@ -1988,6 +1993,11 @@
         {
             "ip_prefix": "108.175.48.0\/22",
             "region": "us-gov-west-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "15.230.32.0\/24",
+            "region": "eu-west-1",
             "service": "AMAZON"
         },
         {
