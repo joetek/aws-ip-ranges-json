@@ -736,6 +736,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.219.140.0\/24",
+            "region": "eu-central-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "54.230.0.0\/16",
             "region": "GLOBAL",
             "service": "AMAZON"
