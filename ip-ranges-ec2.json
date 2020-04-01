@@ -531,6 +531,11 @@
             "service": "EC2"
         },
         {
+            "ip_prefix": "3.96.0.0\/15",
+            "region": "ca-central-1",
+            "service": "EC2"
+        },
+        {
             "ip_prefix": "54.216.0.0\/15",
             "region": "eu-west-1",
             "service": "EC2"
@@ -1458,6 +1463,11 @@
         {
             "ip_prefix": "99.77.130.0\/24",
             "region": "us-west-2",
+            "service": "EC2"
+        },
+        {
+            "ip_prefix": "3.32.0.0\/16",
+            "region": "us-gov-west-1",
             "service": "EC2"
         },
         {
