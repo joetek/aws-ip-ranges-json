@@ -881,6 +881,11 @@
             "service": "AMAZON"
         },
         {
+            "ip_prefix": "52.93.126.144\/32",
+            "region": "us-west-1",
+            "service": "AMAZON"
+        },
+        {
             "ip_prefix": "52.95.252.0\/24",
             "region": "ap-northeast-2",
             "service": "AMAZON"
@@ -5417,6 +5422,11 @@
         },
         {
             "ip_prefix": "52.8.0.0\/16",
+            "region": "us-west-1",
+            "service": "AMAZON"
+        },
+        {
+            "ip_prefix": "52.93.126.145\/32",
             "region": "us-west-1",
             "service": "AMAZON"
         },
