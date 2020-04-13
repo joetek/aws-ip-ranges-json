@@ -25,12 +25,6 @@
             "network_border_group": "us-east-1"
         },
         {
-            "ip_prefix": "52.92.64.0\/22",
-            "region": "sa-east-1",
-            "service": "S3",
-            "network_border_group": "sa-east-1"
-        },
-        {
             "ip_prefix": "52.95.156.0\/24",
             "region": "eu-west-3",
             "service": "S3",
