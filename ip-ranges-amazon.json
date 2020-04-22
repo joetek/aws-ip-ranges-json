@@ -3187,6 +3187,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ip_prefix": "15.230.38.0\/24",
+            "region": "eu-north-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-north-1"
+        },
+        {
             "ip_prefix": "52.93.126.139\/32",
             "region": "ap-southeast-2",
             "service": "AMAZON",
