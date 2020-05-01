@@ -95,6 +95,18 @@
             "region": "ca-central-1",
             "service": "EC2_INSTANCE_CONNECT",
             "network_border_group": "ca-central-1"
+        },
+        {
+            "ip_prefix": "18.252.4.0\/30",
+            "region": "us-gov-east-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "us-gov-east-1"
+        },
+        {
+            "ip_prefix": "15.200.28.80\/30",
+            "region": "us-gov-west-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "us-gov-west-1"
         }
     ],
     "ipv6_prefixes": []
