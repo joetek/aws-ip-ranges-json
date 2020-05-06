@@ -3613,6 +3613,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "15.230.39.0\/31",
+            "region": "us-east-2",
+            "service": "AMAZON",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ip_prefix": "52.93.75.0\/24",
             "region": "ca-central-1",
             "service": "AMAZON",
