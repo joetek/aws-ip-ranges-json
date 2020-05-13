@@ -91,12 +91,6 @@
             "network_border_group": "ap-south-1"
         },
         {
-            "ip_prefix": "3.5.216.0\/24",
-            "region": "cn-northwest-1",
-            "service": "S3",
-            "network_border_group": "cn-northwest-1"
-        },
-        {
             "ip_prefix": "3.5.128.0\/22",
             "region": "us-east-2",
             "service": "S3",
@@ -191,12 +185,6 @@
             "region": "ap-south-1",
             "service": "S3",
             "network_border_group": "ap-south-1"
-        },
-        {
-            "ip_prefix": "3.5.214.0\/23",
-            "region": "cn-northwest-1",
-            "service": "S3",
-            "network_border_group": "cn-northwest-1"
         },
         {
             "ip_prefix": "52.95.151.0\/24",
