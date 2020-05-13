@@ -481,12 +481,6 @@
             "network_border_group": "ap-southeast-1"
         },
         {
-            "ip_prefix": "3.5.216.0\/24",
-            "region": "cn-northwest-1",
-            "service": "EC2",
-            "network_border_group": "cn-northwest-1"
-        },
-        {
             "ip_prefix": "15.228.0.0\/15",
             "region": "sa-east-1",
             "service": "EC2",
@@ -1037,12 +1031,6 @@
             "region": "me-south-1",
             "service": "EC2",
             "network_border_group": "me-south-1"
-        },
-        {
-            "ip_prefix": "3.5.214.0\/23",
-            "region": "cn-northwest-1",
-            "service": "EC2",
-            "network_border_group": "cn-northwest-1"
         },
         {
             "ip_prefix": "54.223.0.0\/16",
