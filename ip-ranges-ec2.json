@@ -1423,6 +1423,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "15.184.0.0\/16",
+            "region": "me-south-1",
+            "service": "EC2",
+            "network_border_group": "me-south-1"
+        },
+        {
             "ip_prefix": "184.72.128.0\/17",
             "region": "us-east-1",
             "service": "EC2",
