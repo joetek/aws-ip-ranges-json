@@ -9541,6 +9541,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "99.77.128.0\/18",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "13.208.170.0\/23",
             "region": "ap-northeast-3",
             "service": "AMAZON",
