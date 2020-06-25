@@ -2672,9 +2672,9 @@
         },
         {
             "ip_prefix": "64.252.116.0\/24",
-            "region": "eu-west-1",
+            "region": "us-west-2",
             "service": "EC2",
-            "network_border_group": "eu-west-1"
+            "network_border_group": "us-west-2"
         },
         {
             "ip_prefix": "34.240.0.0\/13",
