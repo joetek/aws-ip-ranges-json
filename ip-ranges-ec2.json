@@ -1190,9 +1190,9 @@
         },
         {
             "ip_prefix": "64.252.117.0\/24",
-            "region": "us-west-2",
+            "region": "eu-west-1",
             "service": "EC2",
-            "network_border_group": "us-west-2"
+            "network_border_group": "eu-west-1"
         },
         {
             "ip_prefix": "99.80.0.0\/15",
@@ -2498,9 +2498,9 @@
         },
         {
             "ip_prefix": "64.252.115.0\/24",
-            "region": "us-west-2",
+            "region": "eu-west-1",
             "service": "EC2",
-            "network_border_group": "us-west-2"
+            "network_border_group": "eu-west-1"
         },
         {
             "ip_prefix": "99.77.161.0\/24",
@@ -2942,9 +2942,9 @@
         },
         {
             "ip_prefix": "64.252.114.0\/24",
-            "region": "us-west-2",
+            "region": "eu-west-1",
             "service": "EC2",
-            "network_border_group": "us-west-2"
+            "network_border_group": "eu-west-1"
         },
         {
             "ip_prefix": "15.177.85.0\/24",
