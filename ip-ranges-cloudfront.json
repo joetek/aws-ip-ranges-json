@@ -587,6 +587,12 @@
             "region": "eu-west-3",
             "service": "CLOUDFRONT",
             "network_border_group": "eu-west-3"
+        },
+        {
+            "ip_prefix": "3.236.48.0\/23",
+            "region": "us-east-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "us-east-1"
         }
     ],
     "ipv6_prefixes": [
