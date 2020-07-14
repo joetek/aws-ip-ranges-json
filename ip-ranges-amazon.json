@@ -12609,6 +12609,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ipv6_prefix": "2600:1ffd:80cb::\/48",
+            "region": "eu-central-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2a05:d07c:c000::\/40",
             "region": "eu-west-2",
             "service": "AMAZON",
