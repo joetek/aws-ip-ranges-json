@@ -301,6 +301,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ip_prefix": "13.248.126.0\/24",
+            "region": "ca-central-1",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "ca-central-1"
+        },
+        {
             "ip_prefix": "13.248.116.0\/24",
             "region": "us-east-1",
             "service": "GLOBALACCELERATOR",
