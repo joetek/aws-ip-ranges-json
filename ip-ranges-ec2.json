@@ -3345,6 +3345,12 @@
             "network_border_group": "cn-northwest-1"
         },
         {
+            "ipv6_prefix": "2600:1ffd:80e1::\/48",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2600:1f00:5000::\/40",
             "region": "us-gov-east-1",
             "service": "EC2",
