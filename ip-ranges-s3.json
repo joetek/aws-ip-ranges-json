@@ -469,6 +469,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "52.92.128.0\/17",
+            "region": "us-west-2",
+            "service": "S3",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "52.82.188.0\/22",
             "region": "cn-northwest-1",
             "service": "S3",
