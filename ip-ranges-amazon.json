@@ -7183,6 +7183,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "54.239.1.144\/28",
+            "region": "ap-southeast-3",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-3"
+        },
+        {
             "ip_prefix": "120.232.236.0\/25",
             "region": "GLOBAL",
             "service": "AMAZON",
