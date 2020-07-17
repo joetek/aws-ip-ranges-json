@@ -3345,12 +3345,6 @@
             "network_border_group": "us-west-2"
         },
         {
-            "ipv6_prefix": "2600:1ffd:8402::\/48",
-            "region": "ap-east-1",
-            "service": "EC2",
-            "network_border_group": "ap-east-1"
-        },
-        {
             "ipv6_prefix": "2600:1ffd:807f::\/48",
             "region": "us-east-1",
             "service": "EC2",
