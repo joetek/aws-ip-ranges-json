@@ -3609,6 +3609,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ipv6_prefix": "2600:1ffd:80d0::\/48",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2a05:d01a::\/36",
             "region": "eu-south-1",
             "service": "EC2",
