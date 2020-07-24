@@ -1615,6 +1615,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "15.152.0.0\/16",
+            "region": "ap-northeast-3",
+            "service": "EC2",
+            "network_border_group": "ap-northeast-3"
+        },
+        {
             "ip_prefix": "52.95.228.0\/24",
             "region": "me-south-1",
             "service": "EC2",
