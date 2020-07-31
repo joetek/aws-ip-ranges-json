@@ -367,6 +367,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "69.235.128.0\/18",
+            "region": "cn-northwest-1",
+            "service": "EC2",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
             "ip_prefix": "204.236.128.0\/18",
             "region": "us-west-1",
             "service": "EC2",
