@@ -3417,6 +3417,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ipv6_prefix": "2600:1ffd:8492::\/48",
+            "region": "eu-west-2",
+            "service": "EC2",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ipv6_prefix": "2600:1f70:c000::\/40",
             "region": "us-west-1",
             "service": "EC2",
@@ -3561,6 +3567,12 @@
             "network_border_group": "af-south-1"
         },
         {
+            "ipv6_prefix": "2600:1ffd:812f::\/48",
+            "region": "ap-northeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-northeast-1"
+        },
+        {
             "ipv6_prefix": "2a05:d000:2000::\/40",
             "region": "eu-west-3",
             "service": "EC2",
@@ -3601,6 +3613,12 @@
             "region": "eu-west-2",
             "service": "EC2",
             "network_border_group": "eu-west-2"
+        },
+        {
+            "ipv6_prefix": "2600:1ffd:85e8::\/48",
+            "region": "ap-southeast-2",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-2"
         },
         {
             "ipv6_prefix": "2600:1ffd:8188::\/48",
@@ -3771,6 +3789,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ipv6_prefix": "2600:1ffd:81c2::\/48",
+            "region": "ca-central-1",
+            "service": "EC2",
+            "network_border_group": "ca-central-1"
+        },
+        {
             "ipv6_prefix": "2600:1ffd:84bd::\/48",
             "region": "eu-west-2",
             "service": "EC2",
@@ -3919,6 +3943,12 @@
             "region": "ca-central-1",
             "service": "EC2",
             "network_border_group": "ca-central-1"
+        },
+        {
+            "ipv6_prefix": "2600:1ffd:833b::\/48",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
         },
         {
             "ipv6_prefix": "2600:1fff:3000::\/40",
