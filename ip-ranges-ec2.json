@@ -2251,6 +2251,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "3.98.0.0\/15",
+            "region": "ca-central-1",
+            "service": "EC2",
+            "network_border_group": "ca-central-1"
+        },
+        {
             "ip_prefix": "54.66.0.0\/16",
             "region": "ap-southeast-2",
             "service": "EC2",
