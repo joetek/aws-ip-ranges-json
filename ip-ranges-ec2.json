@@ -2677,6 +2677,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "15.156.0.0\/15",
+            "region": "ca-central-1",
+            "service": "EC2",
+            "network_border_group": "ca-central-1"
+        },
+        {
             "ip_prefix": "15.254.0.0\/16",
             "region": "us-west-2",
             "service": "EC2",
