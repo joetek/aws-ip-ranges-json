@@ -1609,6 +1609,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ip_prefix": "18.168.0.0\/14",
+            "region": "eu-west-2",
+            "service": "EC2",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "34.208.0.0\/12",
             "region": "us-west-2",
             "service": "EC2",

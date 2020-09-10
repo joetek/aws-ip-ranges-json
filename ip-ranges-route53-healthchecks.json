@@ -31,6 +31,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ip_prefix": "52.80.197.0\/25",
+            "region": "cn-north-1",
+            "service": "ROUTE53_HEALTHCHECKS",
+            "network_border_group": "cn-north-1"
+        },
+        {
             "ip_prefix": "54.241.32.64\/26",
             "region": "us-west-1",
             "service": "ROUTE53_HEALTHCHECKS",
