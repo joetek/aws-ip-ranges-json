@@ -487,6 +487,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "18.192.142.0\/23",
+            "region": "eu-central-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ip_prefix": "35.158.136.0\/24",
             "region": "eu-central-1",
             "service": "CLOUDFRONT",
