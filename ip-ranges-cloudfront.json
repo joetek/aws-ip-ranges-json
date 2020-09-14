@@ -427,6 +427,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ip_prefix": "3.35.130.128\/25",
+            "region": "ap-northeast-2",
+            "service": "CLOUDFRONT",
+            "network_border_group": "ap-northeast-2"
+        },
+        {
             "ip_prefix": "52.78.247.128\/26",
             "region": "ap-northeast-2",
             "service": "CLOUDFRONT",
