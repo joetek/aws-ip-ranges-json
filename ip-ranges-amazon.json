@@ -1609,6 +1609,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "54.230.200.0\/21",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "162.250.237.0\/24",
             "region": "us-east-1",
             "service": "AMAZON",
@@ -4441,6 +4447,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ip_prefix": "54.230.208.0\/20",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "54.244.0.0\/16",
             "region": "us-west-2",
             "service": "AMAZON",
@@ -5105,6 +5117,12 @@
             "region": "eu-west-2",
             "service": "AMAZON",
             "network_border_group": "eu-west-2"
+        },
+        {
+            "ip_prefix": "54.230.224.0\/19",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
         },
         {
             "ip_prefix": "54.240.236.61\/32",
@@ -6815,6 +6833,18 @@
             "region": "ap-northeast-2",
             "service": "AMAZON",
             "network_border_group": "ap-northeast-2"
+        },
+        {
+            "ip_prefix": "54.230.0.0\/17",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "54.230.128.0\/18",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
         },
         {
             "ip_prefix": "13.34.26.32\/27",
@@ -8921,12 +8951,6 @@
             "region": "eu-central-1",
             "service": "AMAZON",
             "network_border_group": "eu-central-1"
-        },
-        {
-            "ip_prefix": "54.230.0.0\/16",
-            "region": "GLOBAL",
-            "service": "AMAZON",
-            "network_border_group": "GLOBAL"
         },
         {
             "ip_prefix": "54.240.236.21\/32",
