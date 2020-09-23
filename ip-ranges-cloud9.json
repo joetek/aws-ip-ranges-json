@@ -1,6 +1,30 @@
 {
     "prefixes": [
         {
+            "ip_prefix": "140.179.1.64\/27",
+            "region": "cn-north-1",
+            "service": "CLOUD9",
+            "network_border_group": "cn-north-1"
+        },
+        {
+            "ip_prefix": "140.179.1.96\/27",
+            "region": "cn-north-1",
+            "service": "CLOUD9",
+            "network_border_group": "cn-north-1"
+        },
+        {
+            "ip_prefix": "52.83.25.128\/27",
+            "region": "cn-northwest-1",
+            "service": "CLOUD9",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
+            "ip_prefix": "52.83.25.160\/27",
+            "region": "cn-northwest-1",
+            "service": "CLOUD9",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
             "ip_prefix": "18.163.139.32\/27",
             "region": "ap-east-1",
             "service": "CLOUD9",
