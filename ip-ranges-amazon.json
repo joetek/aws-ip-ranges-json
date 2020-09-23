@@ -2179,6 +2179,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "54.230.192.0\/21",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "99.77.191.0\/24",
             "region": "us-east-1",
             "service": "AMAZON",
