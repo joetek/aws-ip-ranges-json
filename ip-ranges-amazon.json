@@ -751,6 +751,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "99.150.8.0\/21",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "3.5.136.0\/22",
             "region": "eu-central-1",
             "service": "AMAZON",
