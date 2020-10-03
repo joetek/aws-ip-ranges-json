@@ -7,6 +7,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ip_prefix": "52.219.168.0\/24",
+            "region": "eu-central-1",
+            "service": "S3",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ip_prefix": "52.95.150.0\/24",
             "region": "eu-west-2",
             "service": "S3",
