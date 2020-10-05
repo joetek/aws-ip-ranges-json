@@ -10021,12 +10021,6 @@
             "network_border_group": "us-east-1"
         },
         {
-            "ip_prefix": "130.137.180.0\/23",
-            "region": "us-east-1",
-            "service": "AMAZON",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ip_prefix": "3.5.148.0\/22",
             "region": "ap-southeast-1",
             "service": "AMAZON",
