@@ -553,12 +553,6 @@
             "network_border_group": "sa-east-1"
         },
         {
-            "ip_prefix": "52.92.88.0\/22",
-            "region": "eu-west-2",
-            "service": "S3",
-            "network_border_group": "eu-west-2"
-        },
-        {
             "ip_prefix": "54.231.192.0\/20",
             "region": "eu-central-1",
             "service": "S3",
