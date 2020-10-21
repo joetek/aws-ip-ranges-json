@@ -735,12 +735,6 @@
             "network_border_group": "GLOBAL"
         },
         {
-            "ipv6_prefix": "2600:9000:cce:9::\/64",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ipv6_prefix": "2600:9000:cce:3::\/64",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
@@ -754,12 +748,6 @@
         },
         {
             "ipv6_prefix": "2600:9000:cce:6::\/64",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
-        },
-        {
-            "ipv6_prefix": "2600:9000:ccd::\/58",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
@@ -784,12 +772,6 @@
         },
         {
             "ipv6_prefix": "2600:9000:cce:8::\/64",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
-        },
-        {
-            "ipv6_prefix": "2600:9000:cce::\/64",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
@@ -820,12 +802,6 @@
         },
         {
             "ipv6_prefix": "2600:9000:f000::\/36",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
-        },
-        {
-            "ipv6_prefix": "2600:9000:cce:1::\/64",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
