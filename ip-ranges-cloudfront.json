@@ -753,12 +753,6 @@
             "network_border_group": "GLOBAL"
         },
         {
-            "ipv6_prefix": "2600:9000:ccc::\/48",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ipv6_prefix": "2600:9000:cce:6::\/64",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
