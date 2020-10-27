@@ -3507,6 +3507,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ipv6_prefix": "2406:da15::\/36",
+            "region": "ap-northeast-2",
+            "service": "EC2",
+            "network_border_group": "ap-northeast-2-wl1-cjj-wlz-1"
+        },
+        {
             "ipv6_prefix": "2406:da70:8000::\/40",
             "region": "ap-southeast-1",
             "service": "EC2",
