@@ -747,6 +747,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ipv6_prefix": "2400:7fc0:500::\/40",
+            "region": "cn-north-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "cn-north-1"
+        },
+        {
             "ipv6_prefix": "2600:9000:4000::\/36",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
@@ -757,6 +763,12 @@
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
+        },
+        {
+            "ipv6_prefix": "2404:c2c0:500::\/40",
+            "region": "cn-northwest-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "cn-northwest-1"
         },
         {
             "ipv6_prefix": "2600:9000:f000::\/36",
