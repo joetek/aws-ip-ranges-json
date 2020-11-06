@@ -6457,6 +6457,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "15.230.54.0\/24",
+            "region": "ap-south-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ip_prefix": "15.230.131.4\/32",
             "region": "eu-central-1",
             "service": "AMAZON",
