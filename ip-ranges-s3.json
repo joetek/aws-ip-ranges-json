@@ -445,6 +445,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ip_prefix": "52.95.186.0\/24",
+            "region": "ap-south-2",
+            "service": "S3",
+            "network_border_group": "ap-south-2"
+        },
+        {
             "ip_prefix": "76.223.95.0\/24",
             "region": "GLOBAL",
             "service": "S3",
@@ -527,6 +533,12 @@
             "region": "us-gov-west-1",
             "service": "S3",
             "network_border_group": "us-gov-west-1"
+        },
+        {
+            "ip_prefix": "52.95.184.0\/23",
+            "region": "ap-south-2",
+            "service": "S3",
+            "network_border_group": "ap-south-2"
         },
         {
             "ip_prefix": "76.223.100.0\/24",
