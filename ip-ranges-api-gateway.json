@@ -325,6 +325,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "15.228.97.0\/24",
+            "region": "sa-east-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "sa-east-1"
+        },
+        {
             "ip_prefix": "18.229.100.0\/26",
             "region": "sa-east-1",
             "service": "API_GATEWAY",
