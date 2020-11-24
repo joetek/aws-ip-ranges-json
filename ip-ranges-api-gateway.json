@@ -385,6 +385,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "3.238.212.0\/22",
+            "region": "us-east-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "3.12.216.0\/22",
             "region": "us-east-2",
             "service": "API_GATEWAY",
