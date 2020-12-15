@@ -3325,6 +3325,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "72.41.0.0\/20",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-iah-1"
+        },
+        {
             "ip_prefix": "15.177.91.0\/24",
             "region": "af-south-1",
             "service": "EC2",
