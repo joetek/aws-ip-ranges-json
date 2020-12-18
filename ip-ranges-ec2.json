@@ -1903,6 +1903,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ip_prefix": "99.150.120.0\/21",
+            "region": "me-central-1",
+            "service": "EC2",
+            "network_border_group": "me-central-1"
+        },
+        {
             "ip_prefix": "18.132.0.0\/14",
             "region": "eu-west-2",
             "service": "EC2",
@@ -3443,6 +3449,12 @@
             "region": "sa-east-1",
             "service": "EC2",
             "network_border_group": "sa-east-1"
+        },
+        {
+            "ip_prefix": "3.28.0.0\/15",
+            "region": "me-central-1",
+            "service": "EC2",
+            "network_border_group": "me-central-1"
         },
         {
             "ip_prefix": "54.79.0.0\/16",
