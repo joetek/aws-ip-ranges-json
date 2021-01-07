@@ -79,6 +79,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "52.93.127.163\/32",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "52.93.240.164\/31",
             "region": "us-west-2",
             "service": "AMAZON",
@@ -7573,6 +7579,12 @@
             "network_border_group": "ap-northeast-1"
         },
         {
+            "ip_prefix": "52.93.127.162\/32",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "52.93.156.0\/22",
             "region": "ap-east-1",
             "service": "AMAZON",
@@ -10021,6 +10033,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "52.93.127.164\/32",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "52.93.245.0\/24",
             "region": "ap-northeast-1",
             "service": "AMAZON",
@@ -11167,6 +11185,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ip_prefix": "52.93.127.165\/32",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "52.94.198.128\/28",
             "region": "ca-central-1",
             "service": "AMAZON",
@@ -11528,6 +11552,12 @@
         },
         {
             "ip_prefix": "52.46.128.0\/19",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "52.93.127.166\/32",
             "region": "us-east-1",
             "service": "AMAZON",
             "network_border_group": "us-east-1"
@@ -12611,6 +12641,12 @@
             "region": "ap-southeast-1",
             "service": "AMAZON",
             "network_border_group": "ap-southeast-1"
+        },
+        {
+            "ip_prefix": "52.93.127.168\/32",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
         },
         {
             "ip_prefix": "52.119.184.0\/22",
