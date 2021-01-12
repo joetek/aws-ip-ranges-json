@@ -2326,7 +2326,7 @@
             "ip_prefix": "3.3.5.0\/24",
             "region": "us-east-1",
             "service": "EC2",
-            "network_border_group": "us-east-1"
+            "network_border_group": "us-east-1-pilot-4"
         },
         {
             "ip_prefix": "54.78.0.0\/16",
@@ -3454,7 +3454,7 @@
             "ip_prefix": "3.4.4.0\/24",
             "region": "us-west-2",
             "service": "EC2",
-            "network_border_group": "us-west-2"
+            "network_border_group": "us-west-2-pilot-2"
         },
         {
             "ip_prefix": "99.150.64.0\/21",
