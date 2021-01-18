@@ -1,4 +1,65 @@
 {
-    "prefixes": [],
+    "prefixes": [
+        {
+            "ip_prefix": "15.193.0.0\/19",
+            "region": "GLOBAL",
+            "service": "AMAZON_CONNECT",
+            "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "18.182.96.64\/26",
+            "region": "ap-northeast-1",
+            "service": "AMAZON_CONNECT",
+            "network_border_group": "ap-northeast-1"
+        },
+        {
+            "ip_prefix": "13.210.2.192\/26",
+            "region": "ap-southeast-2",
+            "service": "AMAZON_CONNECT",
+            "network_border_group": "ap-southeast-2"
+        },
+        {
+            "ip_prefix": "13.236.8.0\/25",
+            "region": "ap-southeast-2",
+            "service": "AMAZON_CONNECT",
+            "network_border_group": "ap-southeast-2"
+        },
+        {
+            "ip_prefix": "18.184.2.128\/25",
+            "region": "eu-central-1",
+            "service": "AMAZON_CONNECT",
+            "network_border_group": "eu-central-1"
+        },
+        {
+            "ip_prefix": "35.158.127.64\/26",
+            "region": "eu-central-1",
+            "service": "AMAZON_CONNECT",
+            "network_border_group": "eu-central-1"
+        },
+        {
+            "ip_prefix": "18.233.213.128\/25",
+            "region": "us-east-1",
+            "service": "AMAZON_CONNECT",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "52.55.191.224\/27",
+            "region": "us-east-1",
+            "service": "AMAZON_CONNECT",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "18.236.61.0\/25",
+            "region": "us-west-2",
+            "service": "AMAZON_CONNECT",
+            "network_border_group": "us-west-2"
+        },
+        {
+            "ip_prefix": "54.190.198.32\/28",
+            "region": "us-west-2",
+            "service": "AMAZON_CONNECT",
+            "network_border_group": "us-west-2"
+        }
+    ],
     "ipv6_prefixes": []
 }
