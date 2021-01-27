@@ -7783,6 +7783,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ip_prefix": "15.197.128.0\/17",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "15.230.39.114\/31",
             "region": "us-east-2",
             "service": "AMAZON",
