@@ -8395,6 +8395,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ip_prefix": "52.94.249.240\/28",
+            "region": "eu-south-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-south-2"
+        },
+        {
             "ip_prefix": "52.95.40.0\/24",
             "region": "us-west-2",
             "service": "AMAZON",
