@@ -115,6 +115,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "52.95.139.0\/24",
+            "region": "eu-central-2",
+            "service": "S3",
+            "network_border_group": "eu-central-2"
+        },
+        {
             "ip_prefix": "52.95.128.0\/21",
             "region": "ap-southeast-2",
             "service": "S3",
@@ -251,6 +257,12 @@
             "region": "GLOBAL",
             "service": "S3",
             "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "52.95.140.0\/23",
+            "region": "eu-central-2",
+            "service": "S3",
+            "network_border_group": "eu-central-2"
         },
         {
             "ip_prefix": "52.95.156.0\/24",
