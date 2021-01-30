@@ -31,6 +31,12 @@
             "network_border_group": "cn-northwest-1"
         },
         {
+            "ip_prefix": "69.230.219.0\/24",
+            "region": "cn-northwest-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
             "ip_prefix": "18.252.56.0\/23",
             "region": "us-gov-east-1",
             "service": "API_GATEWAY",
