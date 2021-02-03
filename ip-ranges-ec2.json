@@ -1999,6 +1999,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ip_prefix": "52.95.238.0\/24",
+            "region": "eu-central-2",
+            "service": "EC2",
+            "network_border_group": "eu-central-2"
+        },
+        {
             "ip_prefix": "54.193.0.0\/16",
             "region": "us-west-1",
             "service": "EC2",
@@ -3383,6 +3389,12 @@
             "region": "me-south-1",
             "service": "EC2",
             "network_border_group": "me-south-1"
+        },
+        {
+            "ip_prefix": "52.94.250.0\/28",
+            "region": "eu-central-2",
+            "service": "EC2",
+            "network_border_group": "eu-central-2"
         },
         {
             "ip_prefix": "64.252.71.0\/24",
