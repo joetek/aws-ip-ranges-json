@@ -4827,6 +4827,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ipv6_prefix": "2a05:d019::\/36",
+            "region": "eu-central-2",
+            "service": "EC2",
+            "network_border_group": "eu-central-2"
+        },
+        {
             "ipv6_prefix": "2406:da70:2000::\/40",
             "region": "ap-northeast-2",
             "service": "EC2",
