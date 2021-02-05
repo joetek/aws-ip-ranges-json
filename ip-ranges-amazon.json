@@ -11911,6 +11911,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "3.3.0.0\/23",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "52.32.0.0\/14",
             "region": "us-west-2",
             "service": "AMAZON",
