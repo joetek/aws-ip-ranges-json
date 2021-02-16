@@ -1873,6 +1873,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "195.17.0.0\/24",
+            "region": "eu-west-1",
+            "service": "EC2",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ip_prefix": "18.220.0.0\/14",
             "region": "us-east-2",
             "service": "EC2",
