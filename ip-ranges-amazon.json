@@ -18915,6 +18915,24 @@
             "network_border_group": "cn-northwest-1"
         },
         {
+            "ipv6_prefix": "2406:da70:1000:100::\/56",
+            "region": "af-south-1",
+            "service": "AMAZON",
+            "network_border_group": "af-south-1"
+        },
+        {
+            "ipv6_prefix": "2406:da70:1000:200::\/56",
+            "region": "af-south-1",
+            "service": "AMAZON",
+            "network_border_group": "af-south-1"
+        },
+        {
+            "ipv6_prefix": "2406:da70:1000:400::\/56",
+            "region": "af-south-1",
+            "service": "AMAZON",
+            "network_border_group": "af-south-1"
+        },
+        {
             "ipv6_prefix": "2406:da70:1000::\/56",
             "region": "af-south-1",
             "service": "AMAZON",
