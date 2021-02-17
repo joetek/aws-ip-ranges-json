@@ -571,12 +571,6 @@
             "network_border_group": "GLOBAL"
         },
         {
-            "ip_prefix": "52.95.142.0\/23",
-            "region": "us-gov-west-1",
-            "service": "S3",
-            "network_border_group": "us-gov-west-1"
-        },
-        {
             "ip_prefix": "54.231.232.0\/21",
             "region": "us-west-1",
             "service": "S3",
