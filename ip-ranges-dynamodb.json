@@ -193,12 +193,6 @@
             "network_border_group": "ap-southeast-1"
         },
         {
-            "ip_prefix": "13.248.66.0\/24",
-            "region": "me-central-1",
-            "service": "DYNAMODB",
-            "network_border_group": "me-central-1"
-        },
-        {
             "ip_prefix": "52.94.4.0\/24",
             "region": "us-east-2",
             "service": "DYNAMODB",
