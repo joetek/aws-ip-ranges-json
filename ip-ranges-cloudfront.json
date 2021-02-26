@@ -337,6 +337,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "18.64.0.0\/14",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "120.52.12.64\/26",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
