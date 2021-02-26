@@ -2137,6 +2137,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ip_prefix": "52.94.128.0\/22",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "52.95.244.0\/24",
             "region": "eu-west-1",
             "service": "AMAZON",
