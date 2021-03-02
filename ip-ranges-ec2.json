@@ -373,6 +373,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ip_prefix": "18.116.0.0\/14",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ip_prefix": "54.200.0.0\/15",
             "region": "us-west-2",
             "service": "EC2",
@@ -1991,6 +1997,12 @@
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2"
+        },
+        {
+            "ip_prefix": "16.170.0.0\/15",
+            "region": "eu-north-1",
+            "service": "EC2",
+            "network_border_group": "eu-north-1"
         },
         {
             "ip_prefix": "18.132.0.0\/14",
