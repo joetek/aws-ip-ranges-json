@@ -15523,6 +15523,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "209.54.184.0\/21",
+            "region": "eu-west-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ip_prefix": "3.5.224.0\/22",
             "region": "eu-west-3",
             "service": "AMAZON",
