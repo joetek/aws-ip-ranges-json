@@ -18351,6 +18351,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ipv6_prefix": "2600:1f01:1::\/48",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ipv6_prefix": "2804:800:ff00::\/64",
             "region": "sa-east-1",
             "service": "AMAZON",
