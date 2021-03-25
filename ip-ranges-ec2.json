@@ -1447,6 +1447,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "15.181.0.0\/20",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2-sea-1"
+        },
+        {
             "ip_prefix": "64.252.117.0\/24",
             "region": "eu-west-1",
             "service": "EC2",
@@ -2549,6 +2555,12 @@
             "region": "eu-central-1",
             "service": "EC2",
             "network_border_group": "eu-central-1"
+        },
+        {
+            "ip_prefix": "15.181.252.0\/24",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2-sea-1"
         },
         {
             "ip_prefix": "18.198.0.0\/15",
