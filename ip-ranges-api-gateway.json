@@ -289,6 +289,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "18.168.133.0\/24",
+            "region": "eu-west-2",
+            "service": "API_GATEWAY",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "3.10.17.0\/25",
             "region": "eu-west-2",
             "service": "API_GATEWAY",
@@ -305,6 +311,12 @@
             "region": "eu-west-2",
             "service": "API_GATEWAY",
             "network_border_group": "eu-west-2"
+        },
+        {
+            "ip_prefix": "13.36.155.0\/24",
+            "region": "eu-west-3",
+            "service": "API_GATEWAY",
+            "network_border_group": "eu-west-3"
         },
         {
             "ip_prefix": "15.236.80.0\/23",
