@@ -15163,6 +15163,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "15.230.61.0\/24",
+            "region": "eu-west-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ip_prefix": "52.93.58.32\/28",
             "region": "eu-west-1",
             "service": "AMAZON",
