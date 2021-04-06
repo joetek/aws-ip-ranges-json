@@ -13,6 +13,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ip_prefix": "3.108.0.0\/14",
+            "region": "ap-south-1",
+            "service": "EC2",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ip_prefix": "3.2.0.0\/24",
             "region": "us-east-1",
             "service": "EC2",
