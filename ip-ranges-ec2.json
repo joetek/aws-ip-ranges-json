@@ -2167,6 +2167,12 @@
             "network_border_group": "eu-south-2"
         },
         {
+            "ip_prefix": "99.151.96.0\/21",
+            "region": "us-gov-east-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-east-1"
+        },
+        {
             "ip_prefix": "3.5.0.0\/18",
             "region": "us-east-1",
             "service": "EC2",
