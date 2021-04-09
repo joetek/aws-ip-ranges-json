@@ -1165,6 +1165,12 @@
             "network_border_group": "cn-north-1"
         },
         {
+            "ip_prefix": "208.110.48.0\/20",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "52.95.255.128\/28",
             "region": "eu-central-1",
             "service": "EC2",
