@@ -127,6 +127,12 @@
             "network_border_group": "ap-northeast-3"
         },
         {
+            "ip_prefix": "15.152.10.0\/24",
+            "region": "ap-northeast-3",
+            "service": "API_GATEWAY",
+            "network_border_group": "ap-northeast-3"
+        },
+        {
             "ip_prefix": "13.235.228.0\/24",
             "region": "ap-south-1",
             "service": "API_GATEWAY",
@@ -224,6 +230,12 @@
         },
         {
             "ip_prefix": "3.127.74.0\/23",
+            "region": "eu-central-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "eu-central-1"
+        },
+        {
+            "ip_prefix": "3.66.172.0\/24",
             "region": "eu-central-1",
             "service": "API_GATEWAY",
             "network_border_group": "eu-central-1"
