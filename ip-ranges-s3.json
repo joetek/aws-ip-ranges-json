@@ -559,6 +559,12 @@
             "network_border_group": "af-south-1"
         },
         {
+            "ip_prefix": "52.95.144.0\/24",
+            "region": "eu-west-2",
+            "service": "S3",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "52.95.184.0\/23",
             "region": "ap-south-2",
             "service": "S3",
