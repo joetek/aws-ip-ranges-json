@@ -8521,12 +8521,6 @@
             "network_border_group": "us-east-1"
         },
         {
-            "ip_prefix": "150.222.217.232\/30",
-            "region": "ap-south-1",
-            "service": "AMAZON",
-            "network_border_group": "ap-south-1"
-        },
-        {
             "ip_prefix": "176.32.125.240\/31",
             "region": "us-east-1",
             "service": "AMAZON",
@@ -14345,6 +14339,12 @@
             "region": "sa-east-1",
             "service": "AMAZON",
             "network_border_group": "sa-east-1"
+        },
+        {
+            "ip_prefix": "150.222.217.232\/31",
+            "region": "ap-south-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-south-1"
         },
         {
             "ip_prefix": "15.230.4.176\/28",
