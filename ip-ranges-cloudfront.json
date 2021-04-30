@@ -109,6 +109,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "15.158.0.0\/16",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "13.249.0.0\/16",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
