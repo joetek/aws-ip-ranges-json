@@ -2557,6 +2557,12 @@
             "network_border_group": "cn-north-1"
         },
         {
+            "ip_prefix": "99.77.56.0\/21",
+            "region": "ap-northeast-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-northeast-1"
+        },
+        {
             "ip_prefix": "150.222.120.248\/31",
             "region": "eu-central-1",
             "service": "AMAZON",
