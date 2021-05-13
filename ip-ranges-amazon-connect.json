@@ -37,12 +37,6 @@
             "network_border_group": "eu-central-1"
         },
         {
-            "ip_prefix": "18.233.213.128\/25",
-            "region": "us-east-1",
-            "service": "AMAZON_CONNECT",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ip_prefix": "52.55.191.224\/27",
             "region": "us-east-1",
             "service": "AMAZON_CONNECT",
