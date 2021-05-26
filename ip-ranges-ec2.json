@@ -2941,6 +2941,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "162.222.148.0\/22",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2-lax-1"
+        },
+        {
             "ip_prefix": "15.177.75.0\/24",
             "region": "eu-west-1",
             "service": "EC2",
