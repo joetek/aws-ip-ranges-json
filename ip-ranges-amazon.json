@@ -13519,6 +13519,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "15.230.86.0\/24",
+            "region": "eu-west-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "52.93.124.210\/32",
             "region": "eu-south-1",
             "service": "AMAZON",
