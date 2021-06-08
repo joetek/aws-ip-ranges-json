@@ -554,9 +554,9 @@
         },
         {
             "ip_prefix": "15.181.253.0\/24",
-            "region": "us-east-1",
+            "region": "us-west-2",
             "service": "EC2",
-            "network_border_group": "us-east-1-pilot-5"
+            "network_border_group": "us-west-2-sea-1"
         },
         {
             "ip_prefix": "54.226.0.0\/15",
@@ -2335,12 +2335,6 @@
             "network_border_group": "us-gov-east-1"
         },
         {
-            "ip_prefix": "3.5.0.0\/18",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ip_prefix": "52.8.0.0\/16",
             "region": "us-west-1",
             "service": "EC2",
@@ -3785,6 +3779,12 @@
             "region": "cn-northwest-1",
             "service": "EC2",
             "network_border_group": "cn-northwest-1"
+        },
+        {
+            "ip_prefix": "3.5.0.0\/19",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ip_prefix": "54.178.0.0\/16",

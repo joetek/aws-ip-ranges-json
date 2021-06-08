@@ -147,10 +147,22 @@
             "network_border_group": "cn-north-1"
         },
         {
+            "ipv6_prefix": "2400:7fc0:83cc:cd00::\/56",
+            "region": "cn-north-1",
+            "service": "ROUTE53_HEALTHCHECKS",
+            "network_border_group": "cn-north-1"
+        },
+        {
             "ipv6_prefix": "2400:7fc0:83cc:ce00::\/56",
             "region": "cn-north-1",
             "service": "ROUTE53_HEALTHCHECKS",
             "network_border_group": "cn-north-1"
+        },
+        {
+            "ipv6_prefix": "2404:c2c0:83cc:cc00::\/56",
+            "region": "cn-northwest-1",
+            "service": "ROUTE53_HEALTHCHECKS",
+            "network_border_group": "cn-northwest-1"
         },
         {
             "ipv6_prefix": "2404:c2c0:83cc:cd00::\/56",
@@ -163,18 +175,6 @@
             "region": "cn-northwest-1",
             "service": "ROUTE53_HEALTHCHECKS",
             "network_border_group": "cn-northwest-1"
-        },
-        {
-            "ipv6_prefix": "2404:c2c0:83cc:cc00::\/56",
-            "region": "cn-northwest-1",
-            "service": "ROUTE53_HEALTHCHECKS",
-            "network_border_group": "cn-northwest-1"
-        },
-        {
-            "ipv6_prefix": "2400:7fc0:83cc:cd00::\/56",
-            "region": "cn-north-1",
-            "service": "ROUTE53_HEALTHCHECKS",
-            "network_border_group": "cn-north-1"
         },
         {
             "ipv6_prefix": "2406:da14:7ff:f800::\/56",
