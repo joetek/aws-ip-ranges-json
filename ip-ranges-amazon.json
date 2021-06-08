@@ -17935,6 +17935,12 @@
             "network_border_group": "ap-northeast-3"
         },
         {
+            "ip_prefix": "15.152.24.64\/26",
+            "region": "ap-northeast-3",
+            "service": "AMAZON",
+            "network_border_group": "ap-northeast-3"
+        },
+        {
             "ip_prefix": "15.152.8.192\/26",
             "region": "ap-northeast-3",
             "service": "AMAZON",
