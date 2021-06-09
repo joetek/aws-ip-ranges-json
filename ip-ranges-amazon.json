@@ -2611,6 +2611,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ip_prefix": "150.222.28.142\/31",
+            "region": "sa-east-1",
+            "service": "AMAZON",
+            "network_border_group": "sa-east-1"
+        },
+        {
             "ip_prefix": "150.222.79.0\/24",
             "region": "us-east-1",
             "service": "AMAZON",
