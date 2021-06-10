@@ -2965,12 +2965,6 @@
             "network_border_group": "ap-southeast-2"
         },
         {
-            "ip_prefix": "54.240.96.0\/19",
-            "region": "GLOBAL",
-            "service": "EC2",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ip_prefix": "162.222.148.0\/22",
             "region": "us-west-2",
             "service": "EC2",

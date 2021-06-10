@@ -85,6 +85,18 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ip_prefix": "15.152.24.0\/27",
+            "region": "ap-northeast-3",
+            "service": "CLOUD9",
+            "network_border_group": "ap-northeast-3"
+        },
+        {
+            "ip_prefix": "15.152.24.32\/27",
+            "region": "ap-northeast-3",
+            "service": "CLOUD9",
+            "network_border_group": "ap-northeast-3"
+        },
+        {
             "ip_prefix": "13.232.67.128\/27",
             "region": "ap-south-1",
             "service": "CLOUD9",
