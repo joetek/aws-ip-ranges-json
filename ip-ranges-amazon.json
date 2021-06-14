@@ -11641,6 +11641,12 @@
             "network_border_group": "me-south-1"
         },
         {
+            "ip_prefix": "15.251.0.8\/32",
+            "region": "ap-southeast-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-2"
+        },
+        {
             "ip_prefix": "27.0.0.0\/22",
             "region": "ap-northeast-1",
             "service": "AMAZON",
