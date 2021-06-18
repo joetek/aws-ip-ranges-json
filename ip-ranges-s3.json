@@ -1929,6 +1929,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ipv6_prefix": "2a05:d070:1000::\/40",
+            "region": "eu-south-2",
+            "service": "S3",
+            "network_border_group": "eu-south-2"
+        },
+        {
             "ipv6_prefix": "2406:daa0:f000::\/40",
             "region": "ap-southeast-4",
             "service": "S3",
