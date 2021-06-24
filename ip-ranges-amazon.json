@@ -14053,12 +14053,6 @@
             "network_border_group": "eu-west-3"
         },
         {
-            "ip_prefix": "15.230.131.162\/31",
-            "region": "eu-central-1",
-            "service": "AMAZON",
-            "network_border_group": "eu-central-1"
-        },
-        {
             "ip_prefix": "52.93.149.0\/24",
             "region": "us-west-1",
             "service": "AMAZON",
