@@ -25,6 +25,12 @@
             "network_border_group": "us-east-1-iah-1"
         },
         {
+            "ip_prefix": "161.188.154.0\/23",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-chi-1"
+        },
+        {
             "ip_prefix": "52.4.0.0\/14",
             "region": "us-east-1",
             "service": "EC2",
@@ -3485,6 +3491,12 @@
             "region": "sa-east-1",
             "service": "EC2",
             "network_border_group": "sa-east-1"
+        },
+        {
+            "ip_prefix": "161.188.152.0\/23",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2-las-1"
         },
         {
             "ip_prefix": "184.73.0.0\/16",
