@@ -121,12 +121,6 @@
             "network_border_group": "ap-south-2"
         },
         {
-            "ip_prefix": "52.92.72.0\/22",
-            "region": "sa-east-1",
-            "service": "S3",
-            "network_border_group": "sa-east-1"
-        },
-        {
             "ip_prefix": "52.95.139.0\/24",
             "region": "eu-central-2",
             "service": "S3",
