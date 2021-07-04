@@ -1,4 +1,179 @@
 {
-    "prefixes": [],
+    "prefixes": [
+        {
+            "ip_prefix": "52.80.198.136\/29",
+            "region": "cn-north-1",
+            "service": "CODEBUILD",
+            "network_border_group": "cn-north-1"
+        },
+        {
+            "ip_prefix": "52.82.1.0\/29",
+            "region": "cn-northwest-1",
+            "service": "CODEBUILD",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
+            "ip_prefix": "18.252.4.16\/29",
+            "region": "us-gov-east-1",
+            "service": "CODEBUILD",
+            "network_border_group": "us-gov-east-1"
+        },
+        {
+            "ip_prefix": "52.61.40.104\/29",
+            "region": "us-gov-west-1",
+            "service": "CODEBUILD",
+            "network_border_group": "us-gov-west-1"
+        },
+        {
+            "ip_prefix": "13.244.202.40\/29",
+            "region": "af-south-1",
+            "service": "CODEBUILD",
+            "network_border_group": "af-south-1"
+        },
+        {
+            "ip_prefix": "13.112.191.184\/29",
+            "region": "ap-northeast-1",
+            "service": "CODEBUILD",
+            "network_border_group": "ap-northeast-1"
+        },
+        {
+            "ip_prefix": "13.124.145.16\/29",
+            "region": "ap-northeast-2",
+            "service": "CODEBUILD",
+            "network_border_group": "ap-northeast-2"
+        },
+        {
+            "ip_prefix": "13.127.70.136\/29",
+            "region": "ap-south-1",
+            "service": "CODEBUILD",
+            "network_border_group": "ap-south-1"
+        },
+        {
+            "ip_prefix": "13.213.75.224\/29",
+            "region": "ap-southeast-1",
+            "service": "CODEBUILD",
+            "network_border_group": "ap-southeast-1"
+        },
+        {
+            "ip_prefix": "52.221.221.128\/29",
+            "region": "ap-southeast-1",
+            "service": "CODEBUILD",
+            "network_border_group": "ap-southeast-1"
+        },
+        {
+            "ip_prefix": "13.55.255.216\/29",
+            "region": "ap-southeast-2",
+            "service": "CODEBUILD",
+            "network_border_group": "ap-southeast-2"
+        },
+        {
+            "ip_prefix": "35.182.14.48\/29",
+            "region": "ca-central-1",
+            "service": "CODEBUILD",
+            "network_border_group": "ca-central-1"
+        },
+        {
+            "ip_prefix": "35.157.127.248\/29",
+            "region": "eu-central-1",
+            "service": "CODEBUILD",
+            "network_border_group": "eu-central-1"
+        },
+        {
+            "ip_prefix": "13.48.4.192\/29",
+            "region": "eu-north-1",
+            "service": "CODEBUILD",
+            "network_border_group": "eu-north-1"
+        },
+        {
+            "ip_prefix": "15.161.192.240\/28",
+            "region": "eu-south-1",
+            "service": "CODEBUILD",
+            "network_border_group": "eu-south-1"
+        },
+        {
+            "ip_prefix": "3.251.148.120\/29",
+            "region": "eu-west-1",
+            "service": "CODEBUILD",
+            "network_border_group": "eu-west-1"
+        },
+        {
+            "ip_prefix": "34.250.63.248\/29",
+            "region": "eu-west-1",
+            "service": "CODEBUILD",
+            "network_border_group": "eu-west-1"
+        },
+        {
+            "ip_prefix": "35.176.92.32\/29",
+            "region": "eu-west-2",
+            "service": "CODEBUILD",
+            "network_border_group": "eu-west-2"
+        },
+        {
+            "ip_prefix": "52.47.73.72\/29",
+            "region": "eu-west-3",
+            "service": "CODEBUILD",
+            "network_border_group": "eu-west-3"
+        },
+        {
+            "ip_prefix": "18.231.194.8\/29",
+            "region": "sa-east-1",
+            "service": "CODEBUILD",
+            "network_border_group": "sa-east-1"
+        },
+        {
+            "ip_prefix": "34.228.4.208\/28",
+            "region": "us-east-1",
+            "service": "CODEBUILD",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "44.192.245.160\/28",
+            "region": "us-east-1",
+            "service": "CODEBUILD",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "44.192.255.128\/28",
+            "region": "us-east-1",
+            "service": "CODEBUILD",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "3.143.206.104\/29",
+            "region": "us-east-2",
+            "service": "CODEBUILD",
+            "network_border_group": "us-east-2"
+        },
+        {
+            "ip_prefix": "52.15.247.208\/29",
+            "region": "us-east-2",
+            "service": "CODEBUILD",
+            "network_border_group": "us-east-2"
+        },
+        {
+            "ip_prefix": "13.56.32.200\/29",
+            "region": "us-west-1",
+            "service": "CODEBUILD",
+            "network_border_group": "us-west-1"
+        },
+        {
+            "ip_prefix": "35.82.136.192\/29",
+            "region": "us-west-2",
+            "service": "CODEBUILD",
+            "network_border_group": "us-west-2"
+        },
+        {
+            "ip_prefix": "35.83.248.40\/29",
+            "region": "us-west-2",
+            "service": "CODEBUILD",
+            "network_border_group": "us-west-2"
+        },
+        {
+            "ip_prefix": "52.43.76.88\/29",
+            "region": "us-west-2",
+            "service": "CODEBUILD",
+            "network_border_group": "us-west-2"
+        }
+    ],
     "ipv6_prefixes": []
 }
