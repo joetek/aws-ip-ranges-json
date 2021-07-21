@@ -1,6 +1,24 @@
 {
     "prefixes": [
         {
+            "ip_prefix": "13.245.127.232\/30",
+            "region": "af-south-1",
+            "service": "AMAZON_APPFLOW",
+            "network_border_group": "af-south-1"
+        },
+        {
+            "ip_prefix": "13.245.166.128\/30",
+            "region": "af-south-1",
+            "service": "AMAZON_APPFLOW",
+            "network_border_group": "af-south-1"
+        },
+        {
+            "ip_prefix": "13.245.166.132\/30",
+            "region": "af-south-1",
+            "service": "AMAZON_APPFLOW",
+            "network_border_group": "af-south-1"
+        },
+        {
             "ip_prefix": "18.176.203.120\/30",
             "region": "ap-northeast-1",
             "service": "AMAZON_APPFLOW",
