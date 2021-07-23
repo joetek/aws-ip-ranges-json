@@ -961,6 +961,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "70.232.86.125\/32",
+            "region": "ap-southeast-4",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-4"
+        },
+        {
             "ip_prefix": "99.77.152.0\/24",
             "region": "us-west-2",
             "service": "EC2",
@@ -3467,6 +3473,12 @@
             "region": "cn-north-1",
             "service": "EC2",
             "network_border_group": "cn-north-1"
+        },
+        {
+            "ip_prefix": "70.232.86.124\/32",
+            "region": "ap-southeast-4",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-4"
         },
         {
             "ip_prefix": "99.77.157.0\/24",
