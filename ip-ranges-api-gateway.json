@@ -55,6 +55,18 @@
             "network_border_group": "us-gov-west-1"
         },
         {
+            "ip_prefix": "15.205.82.0\/23",
+            "region": "us-gov-west-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "us-gov-west-1"
+        },
+        {
+            "ip_prefix": "15.205.84.0\/23",
+            "region": "us-gov-west-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "us-gov-west-1"
+        },
+        {
             "ip_prefix": "160.1.128.0\/24",
             "region": "us-gov-west-1",
             "service": "API_GATEWAY",
