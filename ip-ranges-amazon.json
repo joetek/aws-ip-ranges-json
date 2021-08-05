@@ -1873,6 +1873,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ip_prefix": "15.230.0.12\/31",
+            "region": "sa-east-1",
+            "service": "AMAZON",
+            "network_border_group": "sa-east-1"
+        },
+        {
             "ip_prefix": "15.230.87.0\/24",
             "region": "us-east-1",
             "service": "AMAZON",
