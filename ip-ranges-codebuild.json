@@ -31,6 +31,12 @@
             "network_border_group": "af-south-1"
         },
         {
+            "ip_prefix": "13.245.166.176\/29",
+            "region": "af-south-1",
+            "service": "CODEBUILD",
+            "network_border_group": "af-south-1"
+        },
+        {
             "ip_prefix": "13.112.191.184\/29",
             "region": "ap-northeast-1",
             "service": "CODEBUILD",
