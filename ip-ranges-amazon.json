@@ -4027,6 +4027,12 @@
             "network_border_group": "eu-south-1"
         },
         {
+            "ip_prefix": "15.230.14.252\/31",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "15.230.32.0\/24",
             "region": "eu-west-1",
             "service": "AMAZON",
