@@ -3565,6 +3565,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "15.197.16.0\/23",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "15.230.39.24\/31",
             "region": "us-east-2",
             "service": "AMAZON",
