@@ -5697,6 +5697,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ipv6_prefix": "2a05:d018:1000::\/36",
+            "region": "eu-west-1",
+            "service": "EC2",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ipv6_prefix": "2600:1f11::\/36",
             "region": "ca-central-1",
             "service": "EC2",
