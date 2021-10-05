@@ -92,9 +92,9 @@
         },
         {
             "ip_prefix": "43.206.0.0\/15",
-            "region": "ap-southeast-2",
+            "region": "ap-northeast-1",
             "service": "EC2",
-            "network_border_group": "ap-southeast-2"
+            "network_border_group": "ap-northeast-1"
         },
         {
             "ip_prefix": "52.95.226.0\/24",
@@ -1526,9 +1526,9 @@
         },
         {
             "ip_prefix": "43.204.0.0\/15",
-            "region": "ap-southeast-1",
+            "region": "ap-south-1",
             "service": "EC2",
-            "network_border_group": "ap-southeast-1"
+            "network_border_group": "ap-south-1"
         },
         {
             "ip_prefix": "46.51.224.0\/19",
