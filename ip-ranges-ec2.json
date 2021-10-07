@@ -5739,6 +5739,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ipv6_prefix": "2406:da70:b000::\/40",
+            "region": "ap-south-2",
+            "service": "EC2",
+            "network_border_group": "ap-south-2"
+        },
+        {
             "ipv6_prefix": "2600:1f60:8000::\/39",
             "region": "us-east-1",
             "service": "EC2",
