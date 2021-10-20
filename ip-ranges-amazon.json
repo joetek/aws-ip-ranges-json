@@ -18745,6 +18745,12 @@
             "network_border_group": "eu-south-1"
         },
         {
+            "ip_prefix": "15.197.20.0\/22",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "43.224.79.220\/31",
             "region": "eu-west-2",
             "service": "AMAZON",
