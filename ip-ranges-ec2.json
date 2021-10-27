@@ -4054,7 +4054,7 @@
             "ip_prefix": "142.4.160.112\/29",
             "region": "us-east-1",
             "service": "EC2",
-            "network_border_group": "us-east-1-pilot-6"
+            "network_border_group": "us-east-1-pilot-5"
         },
         {
             "ip_prefix": "161.188.160.0\/23",
