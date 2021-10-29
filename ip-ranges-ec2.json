@@ -2335,12 +2335,6 @@
             "network_border_group": "us-gov-west-1"
         },
         {
-            "ip_prefix": "43.250.194.0\/24",
-            "region": "ap-northeast-3",
-            "service": "EC2",
-            "network_border_group": "ap-northeast-3"
-        },
-        {
             "ip_prefix": "68.79.0.0\/18",
             "region": "cn-northwest-1",
             "service": "EC2",
