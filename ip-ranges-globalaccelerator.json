@@ -479,6 +479,12 @@
             "region": "ap-southeast-2",
             "service": "GLOBALACCELERATOR",
             "network_border_group": "ap-southeast-2"
+        },
+        {
+            "ip_prefix": "15.197.30.0\/23",
+            "region": "GLOBAL",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "GLOBAL"
         }
     ],
     "ipv6_prefixes": []
