@@ -819,12 +819,6 @@
             "network_border_group": "GLOBAL"
         },
         {
-            "ipv6_prefix": "2600:9000:f530::\/46",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ipv6_prefix": "2600:9000:2000::\/36",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
