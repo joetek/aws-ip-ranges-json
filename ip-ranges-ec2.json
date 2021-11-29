@@ -733,6 +733,12 @@
             "network_border_group": "us-east-1-bos-1"
         },
         {
+            "ip_prefix": "157.241.0.0\/16",
+            "region": "me-south-1",
+            "service": "EC2",
+            "network_border_group": "me-south-1"
+        },
+        {
             "ip_prefix": "15.181.112.0\/22",
             "region": "us-east-1",
             "service": "EC2",
@@ -1763,6 +1769,12 @@
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2"
+        },
+        {
+            "ip_prefix": "16.168.0.0\/15",
+            "region": "eu-north-1",
+            "service": "EC2",
+            "network_border_group": "eu-north-1"
         },
         {
             "ip_prefix": "64.252.78.0\/24",
