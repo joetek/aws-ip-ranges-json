@@ -9505,6 +9505,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "15.230.174.0\/24",
+            "region": "me-south-1",
+            "service": "AMAZON",
+            "network_border_group": "me-south-1"
+        },
+        {
             "ip_prefix": "52.46.189.168\/30",
             "region": "us-east-1",
             "service": "AMAZON",
