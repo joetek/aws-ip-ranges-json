@@ -805,6 +805,12 @@
             "network_border_group": "us-east-1-phl-1"
         },
         {
+            "ip_prefix": "3.4.7.0\/24",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "99.77.155.0\/24",
             "region": "eu-west-1",
             "service": "EC2",
@@ -3845,6 +3851,12 @@
             "region": "ap-east-1",
             "service": "EC2",
             "network_border_group": "ap-east-1"
+        },
+        {
+            "ip_prefix": "71.137.4.0\/24",
+            "region": "cn-north-1",
+            "service": "EC2",
+            "network_border_group": "cn-north-1"
         },
         {
             "ip_prefix": "99.150.104.0\/21",
