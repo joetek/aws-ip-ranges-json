@@ -259,6 +259,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "3.99.196.0\/22",
+            "region": "ca-central-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "ca-central-1"
+        },
+        {
             "ip_prefix": "99.79.126.0\/24",
             "region": "ca-central-1",
             "service": "API_GATEWAY",
@@ -404,6 +410,12 @@
         },
         {
             "ip_prefix": "13.36.155.0\/24",
+            "region": "eu-west-3",
+            "service": "API_GATEWAY",
+            "network_border_group": "eu-west-3"
+        },
+        {
+            "ip_prefix": "13.38.132.0\/22",
             "region": "eu-west-3",
             "service": "API_GATEWAY",
             "network_border_group": "eu-west-3"
