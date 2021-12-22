@@ -31,6 +31,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "15.197.32.0\/23",
+            "region": "GLOBAL",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "15.197.0.0\/23",
             "region": "GLOBAL",
             "service": "GLOBALACCELERATOR",
