@@ -4537,12 +4537,6 @@
             "network_border_group": "ca-central-1"
         },
         {
-            "ip_prefix": "43.224.76.24\/30",
-            "region": "eu-west-2",
-            "service": "AMAZON",
-            "network_border_group": "eu-west-2"
-        },
-        {
             "ip_prefix": "43.224.77.44\/30",
             "region": "us-east-1",
             "service": "AMAZON",
