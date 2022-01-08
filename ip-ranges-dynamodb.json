@@ -91,6 +91,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "35.71.120.0\/24",
+            "region": "eu-south-2",
+            "service": "DYNAMODB",
+            "network_border_group": "eu-south-2"
+        },
+        {
             "ip_prefix": "52.94.5.0\/24",
             "region": "eu-west-1",
             "service": "DYNAMODB",
@@ -221,6 +227,12 @@
             "region": "ap-southeast-1",
             "service": "DYNAMODB",
             "network_border_group": "ap-southeast-1"
+        },
+        {
+            "ip_prefix": "35.71.121.0\/24",
+            "region": "eu-central-2",
+            "service": "DYNAMODB",
+            "network_border_group": "eu-central-2"
         },
         {
             "ip_prefix": "13.248.66.0\/24",
