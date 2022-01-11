@@ -361,6 +361,12 @@
             "network_border_group": "eu-south-1"
         },
         {
+            "ip_prefix": "18.102.2.0\/23",
+            "region": "eu-south-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "eu-south-1"
+        },
+        {
             "ip_prefix": "108.128.160.0\/23",
             "region": "eu-west-1",
             "service": "API_GATEWAY",
