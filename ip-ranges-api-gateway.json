@@ -193,6 +193,12 @@
             "network_border_group": "ap-northeast-3"
         },
         {
+            "ip_prefix": "15.152.174.0\/23",
+            "region": "ap-northeast-3",
+            "service": "API_GATEWAY",
+            "network_border_group": "ap-northeast-3"
+        },
+        {
             "ip_prefix": "15.152.176.0\/22",
             "region": "ap-northeast-3",
             "service": "API_GATEWAY",
@@ -505,6 +511,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ip_prefix": "13.38.140.0\/23",
+            "region": "eu-west-3",
+            "service": "API_GATEWAY",
+            "network_border_group": "eu-west-3"
+        },
+        {
             "ip_prefix": "15.236.80.0\/23",
             "region": "eu-west-3",
             "service": "API_GATEWAY",
@@ -530,6 +542,12 @@
         },
         {
             "ip_prefix": "157.175.255.0\/24",
+            "region": "me-south-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "me-south-1"
+        },
+        {
+            "ip_prefix": "157.241.2.0\/23",
             "region": "me-south-1",
             "service": "API_GATEWAY",
             "network_border_group": "me-south-1"
@@ -566,6 +584,12 @@
         },
         {
             "ip_prefix": "15.229.36.0\/23",
+            "region": "sa-east-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "sa-east-1"
+        },
+        {
+            "ip_prefix": "15.229.40.0\/23",
             "region": "sa-east-1",
             "service": "API_GATEWAY",
             "network_border_group": "sa-east-1"
