@@ -97,6 +97,12 @@
             "network_border_group": "ap-east-1"
         },
         {
+            "ip_prefix": "16.163.206.0\/23",
+            "region": "ap-east-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "ap-east-1"
+        },
+        {
             "ip_prefix": "18.162.189.0\/24",
             "region": "ap-east-1",
             "service": "API_GATEWAY",
@@ -307,6 +313,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "3.99.194.0\/23",
+            "region": "ca-central-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "ca-central-1"
+        },
+        {
             "ip_prefix": "3.99.196.0\/22",
             "region": "ca-central-1",
             "service": "API_GATEWAY",
@@ -380,6 +392,12 @@
         },
         {
             "ip_prefix": "13.51.120.0\/24",
+            "region": "eu-north-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "eu-north-1"
+        },
+        {
+            "ip_prefix": "16.16.2.0\/23",
             "region": "eu-north-1",
             "service": "API_GATEWAY",
             "network_border_group": "eu-north-1"
