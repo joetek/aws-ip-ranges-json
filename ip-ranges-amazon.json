@@ -559,6 +559,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "15.197.34.0\/23",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "15.205.0.0\/16",
             "region": "us-gov-west-1",
             "service": "AMAZON",

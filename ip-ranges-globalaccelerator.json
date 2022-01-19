@@ -7,6 +7,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ip_prefix": "15.197.34.0\/23",
+            "region": "GLOBAL",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "13.248.124.0\/24",
             "region": "us-east-1",
             "service": "GLOBALACCELERATOR",
