@@ -3823,6 +3823,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ip_prefix": "71.136.64.0\/18",
+            "region": "cn-north-1",
+            "service": "EC2",
+            "network_border_group": "cn-north-1"
+        },
+        {
             "ip_prefix": "15.200.0.0\/16",
             "region": "us-gov-west-1",
             "service": "EC2",
