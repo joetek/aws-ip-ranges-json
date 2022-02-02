@@ -7525,6 +7525,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ip_prefix": "15.230.210.0\/23",
+            "region": "ap-southeast-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-2"
+        },
+        {
             "ip_prefix": "16.12.2.0\/24",
             "region": "sa-east-1",
             "service": "AMAZON",
