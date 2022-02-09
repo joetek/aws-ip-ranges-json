@@ -265,6 +265,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "15.220.207.0\/24",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2-sea-1"
+        },
+        {
             "ip_prefix": "18.102.0.0\/16",
             "region": "eu-south-1",
             "service": "EC2",
@@ -587,12 +593,6 @@
             "region": "af-south-1",
             "service": "EC2",
             "network_border_group": "af-south-1"
-        },
-        {
-            "ip_prefix": "15.220.207.0\/26",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2-sea-1"
         },
         {
             "ip_prefix": "52.95.240.0\/24",
