@@ -817,6 +817,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "16.12.14.0\/24",
+            "region": "il-central-1",
+            "service": "S3",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ip_prefix": "52.219.56.0\/22",
             "region": "ap-northeast-2",
             "service": "S3",
