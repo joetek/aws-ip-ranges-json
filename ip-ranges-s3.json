@@ -775,6 +775,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "16.12.12.0\/23",
+            "region": "il-central-1",
+            "service": "S3",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ip_prefix": "76.223.103.0\/24",
             "region": "GLOBAL",
             "service": "S3",
