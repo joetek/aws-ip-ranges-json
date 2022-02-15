@@ -1341,6 +1341,12 @@
             "network_border_group": "me-south-1"
         },
         {
+            "ipv6_prefix": "2a05:d034:5000::\/40",
+            "region": "il-central-1",
+            "service": "S3",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ipv6_prefix": "240f:80f8:4000::\/40",
             "region": "cn-northwest-1",
             "service": "S3",
@@ -1737,10 +1743,22 @@
             "network_border_group": "ap-northeast-3"
         },
         {
+            "ipv6_prefix": "2a05:d050:5000::\/40",
+            "region": "il-central-1",
+            "service": "S3",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ipv6_prefix": "240f:80fa:4000::\/40",
             "region": "cn-northwest-1",
             "service": "S3",
             "network_border_group": "cn-northwest-1"
+        },
+        {
+            "ipv6_prefix": "2a05:d070:5000::\/40",
+            "region": "il-central-1",
+            "service": "S3",
+            "network_border_group": "il-central-1"
         },
         {
             "ipv6_prefix": "2a05:d050:a000::\/40",
