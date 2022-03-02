@@ -1575,6 +1575,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ipv6_prefix": "2a05:d079:5000::\/40",
+            "region": "il-central-1",
+            "service": "S3",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ipv6_prefix": "2406:da68:9000::\/40",
             "region": "ap-southeast-3",
             "service": "S3",
@@ -1591,6 +1597,12 @@
             "region": "eu-west-1",
             "service": "S3",
             "network_border_group": "eu-west-1"
+        },
+        {
+            "ipv6_prefix": "2a05:d078:5000::\/40",
+            "region": "il-central-1",
+            "service": "S3",
+            "network_border_group": "il-central-1"
         },
         {
             "ipv6_prefix": "2600:1ffa:4000::\/40",
