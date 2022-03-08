@@ -5553,6 +5553,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ipv6_prefix": "2600:1ffb:60c0::\/48",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ipv6_prefix": "2600:1f60:4000::\/40",
             "region": "us-west-2",
             "service": "EC2",
@@ -6487,6 +6493,12 @@
             "region": "ap-east-1",
             "service": "EC2",
             "network_border_group": "ap-east-1"
+        },
+        {
+            "ipv6_prefix": "2600:1ffb:60c1::\/48",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
         },
         {
             "ipv6_prefix": "2600:1f00:8000::\/40",
