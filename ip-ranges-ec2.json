@@ -5811,6 +5811,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ipv6_prefix": "2600:1f10:4000::\/36",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2406:da60:a000::\/40",
             "region": "ap-south-1",
             "service": "EC2",
