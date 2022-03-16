@@ -6087,6 +6087,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ipv6_prefix": "2600:1ffb:80a0::\/46",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:1ffd:818f::\/48",
             "region": "ca-central-1",
             "service": "EC2",
