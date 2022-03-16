@@ -721,6 +721,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "3.145.230.0\/24",
+            "region": "us-east-2",
+            "service": "API_GATEWAY",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ip_prefix": "3.145.31.0\/26",
             "region": "us-east-2",
             "service": "API_GATEWAY",
