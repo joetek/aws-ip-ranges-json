@@ -199,6 +199,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "16.12.15.0\/24",
+            "region": "eu-west-2",
+            "service": "S3",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "18.34.72.0\/21",
             "region": "us-east-2",
             "service": "S3",
@@ -419,6 +425,12 @@
             "region": "us-east-1",
             "service": "S3",
             "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "52.219.210.0\/24",
+            "region": "eu-central-1",
+            "service": "S3",
+            "network_border_group": "eu-central-1"
         },
         {
             "ip_prefix": "52.219.96.0\/20",
