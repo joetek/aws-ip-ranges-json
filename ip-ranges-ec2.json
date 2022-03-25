@@ -5631,12 +5631,6 @@
             "network_border_group": "af-south-1"
         },
         {
-            "ipv6_prefix": "2a05:d014::\/36",
-            "region": "eu-central-1",
-            "service": "EC2",
-            "network_border_group": "eu-central-1"
-        },
-        {
             "ipv6_prefix": "2a05:d07f:9000::\/40",
             "region": "eu-central-2",
             "service": "EC2",
@@ -5707,6 +5701,12 @@
             "region": "ap-south-1",
             "service": "EC2",
             "network_border_group": "ap-south-1"
+        },
+        {
+            "ipv6_prefix": "2a05:d014::\/35",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
         },
         {
             "ipv6_prefix": "2600:1ff0:8000::\/39",
