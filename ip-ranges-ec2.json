@@ -6105,7 +6105,7 @@
             "network_border_group": "ap-southeast-2"
         },
         {
-            "ipv6_prefix": "2600:1ffb:80a0::\/46",
+            "ipv6_prefix": "2600:1ffb:80a1::\/48",
             "region": "us-east-1",
             "service": "EC2",
             "network_border_group": "us-east-1"
@@ -6757,6 +6757,12 @@
             "region": "ap-northeast-3",
             "service": "EC2",
             "network_border_group": "ap-northeast-3"
+        },
+        {
+            "ipv6_prefix": "2600:1ffb:80a0::\/48",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2600:1ff0:5000::\/40",
