@@ -24079,6 +24079,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "3.3.2.0\/24",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "3.5.134.0\/23",
             "region": "eu-central-1",
             "service": "AMAZON",
