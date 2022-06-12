@@ -25363,6 +25363,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "13.41.1.160\/27",
+            "region": "eu-west-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "18.132.146.192\/26",
             "region": "eu-west-2",
             "service": "AMAZON",
