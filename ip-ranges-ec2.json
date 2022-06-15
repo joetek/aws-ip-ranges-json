@@ -5083,6 +5083,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ip_prefix": "15.220.40.0\/22",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2-den-1"
+        },
+        {
             "ip_prefix": "52.94.248.96\/28",
             "region": "us-west-2",
             "service": "EC2",
