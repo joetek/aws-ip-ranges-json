@@ -9103,6 +9103,12 @@
             "network_border_group": "il-central-1"
         },
         {
+            "ip_prefix": "13.34.77.32\/27",
+            "region": "eu-west-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "15.230.39.32\/31",
             "region": "us-east-2",
             "service": "AMAZON",
@@ -19769,6 +19775,12 @@
             "region": "eu-west-1",
             "service": "AMAZON",
             "network_border_group": "eu-west-1"
+        },
+        {
+            "ip_prefix": "13.34.77.0\/27",
+            "region": "eu-west-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-2"
         },
         {
             "ip_prefix": "52.46.188.56\/30",
