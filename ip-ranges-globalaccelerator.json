@@ -385,6 +385,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "63.246.120.0\/21",
+            "region": "GLOBAL",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "99.83.99.0\/24",
             "region": "eu-central-1",
             "service": "GLOBALACCELERATOR",
