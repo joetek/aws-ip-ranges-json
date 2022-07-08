@@ -6021,6 +6021,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ipv6_prefix": "2600:f002::\/39",
+            "region": "eu-west-1",
+            "service": "EC2",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ipv6_prefix": "2406:daf0:6000::\/40",
             "region": "ap-northeast-3",
             "service": "EC2",
