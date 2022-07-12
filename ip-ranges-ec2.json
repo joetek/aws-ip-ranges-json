@@ -5113,6 +5113,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "3.3.2.0\/24",
+            "region": "GLOBAL",
+            "service": "EC2",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "3.5.134.0\/23",
             "region": "eu-central-1",
             "service": "EC2",
