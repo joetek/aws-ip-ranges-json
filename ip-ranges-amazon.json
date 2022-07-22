@@ -18787,6 +18787,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ip_prefix": "18.68.0.0\/16",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "43.224.76.44\/30",
             "region": "us-west-2",
             "service": "AMAZON",
