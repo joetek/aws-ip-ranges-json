@@ -829,12 +829,6 @@
             "network_border_group": "GLOBAL"
         },
         {
-            "ip_prefix": "16.12.32.0\/19",
-            "region": "us-east-1",
-            "service": "S3",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ip_prefix": "52.219.44.0\/22",
             "region": "eu-central-1",
             "service": "S3",
