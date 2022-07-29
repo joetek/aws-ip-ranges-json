@@ -1,29 +1,4 @@
 {
-    "prefixes": [
-        {
-            "ip_prefix": "99.77.253.0\/24",
-            "region": "us-west-2",
-            "service": "CHIME_VOICECONNECTOR",
-            "network_border_group": "us-west-2"
-        },
-        {
-            "ip_prefix": "99.77.254.0\/24",
-            "region": "us-east-1",
-            "service": "CHIME_VOICECONNECTOR",
-            "network_border_group": "us-east-1"
-        },
-        {
-            "ip_prefix": "99.77.247.0\/24",
-            "region": "eu-central-1",
-            "service": "CHIME_VOICECONNECTOR",
-            "network_border_group": "eu-central-1"
-        },
-        {
-            "ip_prefix": "99.77.250.0\/24",
-            "region": "eu-west-1",
-            "service": "CHIME_VOICECONNECTOR",
-            "network_border_group": "eu-west-1"
-        }
-    ],
+    "prefixes": [],
     "ipv6_prefixes": []
 }
