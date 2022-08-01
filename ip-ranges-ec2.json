@@ -6831,6 +6831,12 @@
             "network_border_group": "us-east-1-wl1-bos-wlz-1"
         },
         {
+            "ipv6_prefix": "2600:f000:8000::\/39",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "2a05:d072:9000::\/40",
             "region": "eu-central-2",
             "service": "EC2",
