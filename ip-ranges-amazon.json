@@ -1303,6 +1303,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ip_prefix": "142.4.160.144\/29",
+            "region": "ap-northeast-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-northeast-1-tpe-1"
+        },
+        {
             "ip_prefix": "13.34.54.224\/27",
             "region": "us-west-2",
             "service": "AMAZON",
