@@ -4165,6 +4165,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "142.4.160.152\/29",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1-waw-1"
+        },
+        {
             "ip_prefix": "185.48.120.0\/22",
             "region": "eu-west-1",
             "service": "EC2",
