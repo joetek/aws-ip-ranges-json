@@ -1,4 +1,11 @@
 {
-    "prefixes": [],
+    "prefixes": [
+        {
+            "ip_prefix": "99.77.128.0\/18",
+            "region": "GLOBAL",
+            "service": "CHIME_MEETINGS",
+            "network_border_group": "GLOBAL"
+        }
+    ],
     "ipv6_prefixes": []
 }
