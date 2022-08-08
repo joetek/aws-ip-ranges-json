@@ -4519,6 +4519,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "13.34.79.96\/27",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "15.181.241.0\/24",
             "region": "us-east-1",
             "service": "AMAZON",
@@ -9785,6 +9791,12 @@
             "region": "sa-east-1",
             "service": "AMAZON",
             "network_border_group": "sa-east-1"
+        },
+        {
+            "ip_prefix": "13.34.79.64\/27",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
         },
         {
             "ip_prefix": "13.248.121.0\/24",
