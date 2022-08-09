@@ -2977,6 +2977,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ip_prefix": "15.220.144.0\/21",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ip_prefix": "46.51.208.0\/22",
             "region": "us-east-1",
             "service": "EC2",
