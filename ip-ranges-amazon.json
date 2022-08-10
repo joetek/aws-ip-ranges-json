@@ -14251,6 +14251,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "52.93.139.250\/32",
+            "region": "eu-west-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "150.222.234.10\/31",
             "region": "us-west-1",
             "service": "AMAZON",
