@@ -5865,6 +5865,12 @@
             "network_border_group": "ap-east-1"
         },
         {
+            "ipv6_prefix": "2600:1f12:4000::\/36",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:1f1c::\/36",
             "region": "us-west-1",
             "service": "EC2",
