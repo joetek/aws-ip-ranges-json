@@ -1339,12 +1339,6 @@
             "network_border_group": "us-west-1"
         },
         {
-            "ip_prefix": "15.220.184.0\/21",
-            "region": "eu-north-1",
-            "service": "EC2",
-            "network_border_group": "eu-north-1"
-        },
-        {
             "ip_prefix": "18.184.0.0\/15",
             "region": "eu-central-1",
             "service": "EC2",
@@ -1643,12 +1637,6 @@
             "region": "eu-central-1",
             "service": "EC2",
             "network_border_group": "eu-central-1-waw-1"
-        },
-        {
-            "ip_prefix": "15.220.176.0\/21",
-            "region": "eu-north-1",
-            "service": "EC2",
-            "network_border_group": "eu-north-1"
         },
         {
             "ip_prefix": "52.0.0.0\/15",
