@@ -4645,6 +4645,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "142.4.160.192\/29",
+            "region": "eu-central-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-central-1-ham-1"
+        },
+        {
             "ip_prefix": "150.222.3.176\/32",
             "region": "ap-southeast-1",
             "service": "AMAZON",

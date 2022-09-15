@@ -1021,6 +1021,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "142.4.160.192\/29",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1-ham-1"
+        },
+        {
             "ip_prefix": "52.95.255.32\/28",
             "region": "ap-southeast-1",
             "service": "EC2",
