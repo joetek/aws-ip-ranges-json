@@ -4783,6 +4783,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "54.239.103.128\/26",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "64.252.70.0\/24",
             "region": "us-west-2",
             "service": "EC2",
