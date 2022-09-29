@@ -5564,9 +5564,9 @@
         },
         {
             "ip_prefix": "15.220.112.0\/21",
-            "region": "us-east-1",
+            "region": "sa-east-1",
             "service": "EC2",
-            "network_border_group": "us-east-1-bue-1"
+            "network_border_group": "sa-east-1"
         },
         {
             "ip_prefix": "52.77.0.0\/16",
