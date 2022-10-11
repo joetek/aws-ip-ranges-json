@@ -1267,6 +1267,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "16.62.56.224\/28",
+            "region": "eu-central-2",
+            "service": "S3",
+            "network_border_group": "eu-central-2"
+        },
+        {
             "ip_prefix": "13.51.71.176\/28",
             "region": "eu-north-1",
             "service": "S3",
