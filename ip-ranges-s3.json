@@ -985,6 +985,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "16.182.0.0\/16",
+            "region": "us-east-1",
+            "service": "S3",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "3.5.56.0\/22",
             "region": "il-central-1",
             "service": "S3",
