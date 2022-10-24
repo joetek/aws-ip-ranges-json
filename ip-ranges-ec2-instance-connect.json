@@ -13,58 +13,16 @@
             "network_border_group": "us-gov-west-1"
         },
         {
+            "ip_prefix": "13.244.121.196\/30",
+            "region": "af-south-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "af-south-1"
+        },
+        {
             "ip_prefix": "3.112.23.0\/29",
             "region": "ap-northeast-1",
             "service": "EC2_INSTANCE_CONNECT",
             "network_border_group": "ap-northeast-1"
-        },
-        {
-            "ip_prefix": "18.202.216.48\/29",
-            "region": "eu-west-1",
-            "service": "EC2_INSTANCE_CONNECT",
-            "network_border_group": "eu-west-1"
-        },
-        {
-            "ip_prefix": "18.206.107.24\/29",
-            "region": "us-east-1",
-            "service": "EC2_INSTANCE_CONNECT",
-            "network_border_group": "us-east-1"
-        },
-        {
-            "ip_prefix": "18.237.140.160\/29",
-            "region": "us-west-2",
-            "service": "EC2_INSTANCE_CONNECT",
-            "network_border_group": "us-west-2"
-        },
-        {
-            "ip_prefix": "13.52.6.112\/29",
-            "region": "us-west-1",
-            "service": "EC2_INSTANCE_CONNECT",
-            "network_border_group": "us-west-1"
-        },
-        {
-            "ip_prefix": "3.0.5.32\/29",
-            "region": "ap-southeast-1",
-            "service": "EC2_INSTANCE_CONNECT",
-            "network_border_group": "ap-southeast-1"
-        },
-        {
-            "ip_prefix": "13.233.177.0\/29",
-            "region": "ap-south-1",
-            "service": "EC2_INSTANCE_CONNECT",
-            "network_border_group": "ap-south-1"
-        },
-        {
-            "ip_prefix": "3.120.181.40\/29",
-            "region": "eu-central-1",
-            "service": "EC2_INSTANCE_CONNECT",
-            "network_border_group": "eu-central-1"
-        },
-        {
-            "ip_prefix": "18.228.70.32\/29",
-            "region": "sa-east-1",
-            "service": "EC2_INSTANCE_CONNECT",
-            "network_border_group": "sa-east-1"
         },
         {
             "ip_prefix": "13.209.1.56\/29",
@@ -73,34 +31,22 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ip_prefix": "13.233.177.0\/29",
+            "region": "ap-south-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "ap-south-1"
+        },
+        {
+            "ip_prefix": "3.0.5.32\/29",
+            "region": "ap-southeast-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "ap-southeast-1"
+        },
+        {
             "ip_prefix": "13.239.158.0\/29",
             "region": "ap-southeast-2",
             "service": "EC2_INSTANCE_CONNECT",
             "network_border_group": "ap-southeast-2"
-        },
-        {
-            "ip_prefix": "13.48.4.200\/30",
-            "region": "eu-north-1",
-            "service": "EC2_INSTANCE_CONNECT",
-            "network_border_group": "eu-north-1"
-        },
-        {
-            "ip_prefix": "35.180.112.80\/29",
-            "region": "eu-west-3",
-            "service": "EC2_INSTANCE_CONNECT",
-            "network_border_group": "eu-west-3"
-        },
-        {
-            "ip_prefix": "3.16.146.0\/29",
-            "region": "us-east-2",
-            "service": "EC2_INSTANCE_CONNECT",
-            "network_border_group": "us-east-2"
-        },
-        {
-            "ip_prefix": "3.8.37.24\/29",
-            "region": "eu-west-2",
-            "service": "EC2_INSTANCE_CONNECT",
-            "network_border_group": "eu-west-2"
         },
         {
             "ip_prefix": "35.183.92.176\/29",
@@ -109,16 +55,70 @@
             "network_border_group": "ca-central-1"
         },
         {
-            "ip_prefix": "13.244.121.196\/30",
-            "region": "af-south-1",
+            "ip_prefix": "3.120.181.40\/29",
+            "region": "eu-central-1",
             "service": "EC2_INSTANCE_CONNECT",
-            "network_border_group": "af-south-1"
+            "network_border_group": "eu-central-1"
+        },
+        {
+            "ip_prefix": "13.48.4.200\/30",
+            "region": "eu-north-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "eu-north-1"
         },
         {
             "ip_prefix": "15.161.135.164\/30",
             "region": "eu-south-1",
             "service": "EC2_INSTANCE_CONNECT",
             "network_border_group": "eu-south-1"
+        },
+        {
+            "ip_prefix": "18.202.216.48\/29",
+            "region": "eu-west-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "eu-west-1"
+        },
+        {
+            "ip_prefix": "3.8.37.24\/29",
+            "region": "eu-west-2",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "eu-west-2"
+        },
+        {
+            "ip_prefix": "35.180.112.80\/29",
+            "region": "eu-west-3",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "eu-west-3"
+        },
+        {
+            "ip_prefix": "18.228.70.32\/29",
+            "region": "sa-east-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "sa-east-1"
+        },
+        {
+            "ip_prefix": "18.206.107.24\/29",
+            "region": "us-east-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "3.16.146.0\/29",
+            "region": "us-east-2",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "us-east-2"
+        },
+        {
+            "ip_prefix": "13.52.6.112\/29",
+            "region": "us-west-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "us-west-1"
+        },
+        {
+            "ip_prefix": "18.237.140.160\/29",
+            "region": "us-west-2",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "us-west-2"
         }
     ],
     "ipv6_prefixes": []

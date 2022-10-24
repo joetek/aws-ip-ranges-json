@@ -6315,6 +6315,12 @@
             "network_border_group": "ap-southeast-3"
         },
         {
+            "ipv6_prefix": "2600:f0f0:0:100::\/56",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2a05:d071:9000::\/40",
             "region": "eu-central-2",
             "service": "EC2",
