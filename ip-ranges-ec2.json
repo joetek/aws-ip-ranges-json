@@ -6207,12 +6207,6 @@
             "network_border_group": "us-west-1"
         },
         {
-            "ipv6_prefix": "2606:f40:3::\/48",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ipv6_prefix": "2a05:d000:9000::\/40",
             "region": "eu-central-2",
             "service": "EC2",
@@ -6937,6 +6931,12 @@
             "region": "ap-south-1",
             "service": "EC2",
             "network_border_group": "ap-south-1"
+        },
+        {
+            "ipv6_prefix": "2606:f40:2400::\/38",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
         },
         {
             "ipv6_prefix": "2600:1fff:c000::\/40",
