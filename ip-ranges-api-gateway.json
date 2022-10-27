@@ -97,6 +97,12 @@
             "network_border_group": "us-gov-west-1"
         },
         {
+            "ip_prefix": "3.30.204.0\/24",
+            "region": "us-gov-west-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "us-gov-west-1"
+        },
+        {
             "ip_prefix": "13.244.132.0\/23",
             "region": "af-south-1",
             "service": "API_GATEWAY",
