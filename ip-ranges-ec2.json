@@ -1369,6 +1369,12 @@
             "network_border_group": "af-south-1"
         },
         {
+            "ip_prefix": "142.4.160.232\/29",
+            "region": "eu-north-1",
+            "service": "EC2",
+            "network_border_group": "eu-north-1-hel-1"
+        },
+        {
             "ip_prefix": "3.96.0.0\/15",
             "region": "ca-central-1",
             "service": "EC2",
