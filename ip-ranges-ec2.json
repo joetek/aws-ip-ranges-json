@@ -6405,12 +6405,6 @@
             "network_border_group": "ap-northeast-2"
         },
         {
-            "ipv6_prefix": "2606:f40:800::\/40",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ipv6_prefix": "2600:1ffd:8149::\/48",
             "region": "ap-northeast-1",
             "service": "EC2",
