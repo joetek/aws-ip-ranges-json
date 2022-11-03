@@ -7393,6 +7393,12 @@
             "network_border_group": "us-east-1-chi-1"
         },
         {
+            "ip_prefix": "15.190.8.0\/22",
+            "region": "ca-west-1",
+            "service": "AMAZON",
+            "network_border_group": "ca-west-1"
+        },
+        {
             "ip_prefix": "15.220.202.0\/23",
             "region": "us-west-2",
             "service": "AMAZON",
@@ -25535,6 +25541,12 @@
             "region": "ap-northeast-1",
             "service": "AMAZON",
             "network_border_group": "ap-northeast-1"
+        },
+        {
+            "ip_prefix": "15.190.48.0\/20",
+            "region": "ca-west-1",
+            "service": "AMAZON",
+            "network_border_group": "ca-west-1"
         },
         {
             "ip_prefix": "15.197.20.0\/22",
