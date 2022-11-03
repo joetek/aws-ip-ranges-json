@@ -1333,6 +1333,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "40.176.0.0\/15",
+            "region": "ca-west-1",
+            "service": "EC2",
+            "network_border_group": "ca-west-1"
+        },
+        {
             "ip_prefix": "52.58.0.0\/15",
             "region": "eu-central-1",
             "service": "EC2",
@@ -5771,6 +5777,12 @@
             "region": "eu-west-3",
             "service": "EC2",
             "network_border_group": "eu-west-3"
+        },
+        {
+            "ip_prefix": "99.151.168.0\/21",
+            "region": "ca-west-1",
+            "service": "EC2",
+            "network_border_group": "ca-west-1"
         },
         {
             "ip_prefix": "151.148.38.0\/24",
