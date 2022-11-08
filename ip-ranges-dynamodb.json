@@ -151,6 +151,12 @@
             "network_border_group": "eu-south-1"
         },
         {
+            "ip_prefix": "13.248.73.0\/24",
+            "region": "ca-west-1",
+            "service": "DYNAMODB",
+            "network_border_group": "ca-west-1"
+        },
+        {
             "ip_prefix": "35.71.120.0\/24",
             "region": "eu-south-2",
             "service": "DYNAMODB",
