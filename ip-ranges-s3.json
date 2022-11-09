@@ -451,6 +451,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "16.12.58.0\/24",
+            "region": "ca-west-1",
+            "service": "S3",
+            "network_border_group": "ca-west-1"
+        },
+        {
             "ip_prefix": "52.219.210.0\/24",
             "region": "eu-central-1",
             "service": "S3",
