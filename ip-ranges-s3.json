@@ -949,6 +949,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ip_prefix": "16.12.56.0\/23",
+            "region": "ca-west-1",
+            "service": "S3",
+            "network_border_group": "ca-west-1"
+        },
+        {
             "ip_prefix": "52.219.80.0\/20",
             "region": "us-east-2",
             "service": "S3",
