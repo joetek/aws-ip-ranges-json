@@ -6315,6 +6315,12 @@
             "network_border_group": "af-south-1"
         },
         {
+            "ipv6_prefix": "2600:f0f0:10::\/48",
+            "region": "eu-west-1",
+            "service": "EC2",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ipv6_prefix": "2406:da00:f000::\/40",
             "region": "ap-southeast-4",
             "service": "EC2",
