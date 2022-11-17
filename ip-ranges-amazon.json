@@ -27331,6 +27331,12 @@
             "network_border_group": "ap-southeast-3"
         },
         {
+            "ip_prefix": "16.50.70.0\/23",
+            "region": "ap-southeast-4",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-4"
+        },
+        {
             "ip_prefix": "15.156.38.0\/27",
             "region": "ca-central-1",
             "service": "AMAZON",
