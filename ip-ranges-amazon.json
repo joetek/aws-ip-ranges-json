@@ -2713,6 +2713,12 @@
             "network_border_group": "af-south-1-los-1"
         },
         {
+            "ip_prefix": "142.4.160.248\/29",
+            "region": "ap-south-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-south-1-ccu-1"
+        },
+        {
             "ip_prefix": "150.222.3.198\/31",
             "region": "ap-southeast-1",
             "service": "AMAZON",
@@ -20429,6 +20435,12 @@
             "region": "ap-south-1",
             "service": "AMAZON",
             "network_border_group": "ap-south-1-ccu-1"
+        },
+        {
+            "ip_prefix": "142.4.161.0\/29",
+            "region": "ap-southeast-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-1-bkk-1"
         },
         {
             "ip_prefix": "13.34.38.32\/27",
