@@ -4177,6 +4177,12 @@
             "network_border_group": "ap-south-1-del-1"
         },
         {
+            "ip_prefix": "142.4.161.8\/29",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-lim-1"
+        },
+        {
             "ip_prefix": "162.222.148.0\/22",
             "region": "us-west-2",
             "service": "EC2",
