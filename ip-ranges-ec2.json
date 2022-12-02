@@ -2926,7 +2926,7 @@
             "ip_prefix": "18.88.0.0\/18",
             "region": "us-east-1",
             "service": "EC2",
-            "network_border_group": "us-east-1"
+            "network_border_group": "us-east-1-dfw-2"
         },
         {
             "ip_prefix": "162.213.234.0\/23",
