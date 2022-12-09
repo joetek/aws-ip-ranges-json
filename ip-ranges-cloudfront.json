@@ -175,6 +175,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "3.160.0.0\/14",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "116.129.226.0\/25",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",

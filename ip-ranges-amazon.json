@@ -10753,6 +10753,12 @@
             "network_border_group": "ap-south-2"
         },
         {
+            "ip_prefix": "3.160.0.0\/14",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "13.34.32.64\/27",
             "region": "us-west-1",
             "service": "AMAZON",
