@@ -3763,6 +3763,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ip_prefix": "99.151.188.0\/23",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ip_prefix": "142.4.160.240\/29",
             "region": "eu-north-1",
             "service": "EC2",
