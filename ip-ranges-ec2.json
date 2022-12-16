@@ -3403,6 +3403,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "57.180.0.0\/14",
+            "region": "ap-northeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-northeast-1"
+        },
+        {
             "ip_prefix": "64.252.80.0\/24",
             "region": "sa-east-1",
             "service": "EC2",
