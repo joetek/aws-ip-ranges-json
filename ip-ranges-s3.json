@@ -787,6 +787,12 @@
             "network_border_group": "me-south-1"
         },
         {
+            "ip_prefix": "52.95.191.0\/24",
+            "region": "ap-southeast-2",
+            "service": "S3",
+            "network_border_group": "ap-southeast-2"
+        },
+        {
             "ip_prefix": "52.219.120.0\/22",
             "region": "us-west-1",
             "service": "S3",
@@ -827,6 +833,12 @@
             "region": "us-east-1",
             "service": "S3",
             "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "52.219.220.0\/23",
+            "region": "us-west-1",
+            "service": "S3",
+            "network_border_group": "us-west-1"
         },
         {
             "ip_prefix": "52.92.0.0\/17",
