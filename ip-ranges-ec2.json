@@ -9525,6 +9525,12 @@
             "network_border_group": "me-central-1"
         },
         {
+            "ipv6_prefix": "2600:1f1a:4000::\/36",
+            "region": "ca-west-1",
+            "service": "EC2",
+            "network_border_group": "ca-west-1"
+        },
+        {
             "ipv6_prefix": "2600:1f70:5000::\/40",
             "region": "us-gov-east-1",
             "service": "EC2",
