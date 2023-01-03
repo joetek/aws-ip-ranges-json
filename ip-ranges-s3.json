@@ -631,6 +631,12 @@
             "network_border_group": "ap-south-2"
         },
         {
+            "ip_prefix": "54.222.112.0\/20",
+            "region": "cn-north-1",
+            "service": "S3",
+            "network_border_group": "cn-north-1"
+        },
+        {
             "ip_prefix": "76.223.95.0\/24",
             "region": "GLOBAL",
             "service": "S3",
