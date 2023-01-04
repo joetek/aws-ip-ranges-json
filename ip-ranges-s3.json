@@ -2001,6 +2001,12 @@
             "network_border_group": "ap-east-1"
         },
         {
+            "ipv6_prefix": "2600:1f68:a400::\/40",
+            "region": "ca-west-1",
+            "service": "S3",
+            "network_border_group": "ca-west-1"
+        },
+        {
             "ipv6_prefix": "2a05:d079:4000::\/40",
             "region": "eu-central-1",
             "service": "S3",
@@ -2349,6 +2355,12 @@
             "network_border_group": "ap-northeast-1"
         },
         {
+            "ipv6_prefix": "2600:1ff0:a400::\/40",
+            "region": "ca-west-1",
+            "service": "S3",
+            "network_border_group": "ca-west-1"
+        },
+        {
             "ipv6_prefix": "2600:1fa0:5000::\/40",
             "region": "us-gov-east-1",
             "service": "S3",
@@ -2461,6 +2473,12 @@
             "region": "us-east-1",
             "service": "S3",
             "network_border_group": "us-east-1"
+        },
+        {
+            "ipv6_prefix": "2600:1fa0:a400::\/40",
+            "region": "ca-west-1",
+            "service": "S3",
+            "network_border_group": "ca-west-1"
         },
         {
             "ipv6_prefix": "2406:daf9:1000::\/40",
