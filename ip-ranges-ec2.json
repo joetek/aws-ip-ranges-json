@@ -5971,12 +5971,6 @@
             "network_border_group": "us-west-2"
         },
         {
-            "ip_prefix": "142.4.177.0\/24",
-            "region": "ap-south-1",
-            "service": "EC2",
-            "network_border_group": "ap-south-1"
-        },
-        {
             "ip_prefix": "15.177.68.0\/23",
             "region": "eu-central-1",
             "service": "EC2",
