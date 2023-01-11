@@ -5002,7 +5002,7 @@
             "ip_prefix": "18.88.128.0\/18",
             "region": "us-west-2",
             "service": "EC2",
-            "network_border_group": "us-west-2-phx-2"
+            "network_border_group": "us-west-2"
         },
         {
             "ip_prefix": "34.240.0.0\/13",
