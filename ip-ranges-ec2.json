@@ -7173,6 +7173,12 @@
             "network_border_group": "ap-northeast-3"
         },
         {
+            "ipv6_prefix": "2605:9cc0:1ff0:800::\/56",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:1f14:8000::\/36",
             "region": "us-west-2",
             "service": "EC2",
