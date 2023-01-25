@@ -5158,7 +5158,7 @@
             "ip_prefix": "18.89.0.0\/18",
             "region": "eu-central-1",
             "service": "EC2",
-            "network_border_group": "eu-central-1-ber-1"
+            "network_border_group": "eu-central-1"
         },
         {
             "ip_prefix": "99.77.55.15\/32",
@@ -7821,6 +7821,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ipv6_prefix": "2605:9cc0:1ff0:3d00::\/56",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2a05:d07f:c000::\/40",
             "region": "eu-west-2",
             "service": "EC2",
@@ -8833,6 +8839,12 @@
             "region": "ap-southeast-3",
             "service": "EC2",
             "network_border_group": "ap-southeast-3"
+        },
+        {
+            "ipv6_prefix": "2605:9cc0:1ff0:3c00::\/56",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2a05:d071:a000::\/40",
