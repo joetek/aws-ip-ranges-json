@@ -4705,6 +4705,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ip_prefix": "96.0.94.0\/23",
+            "region": "ap-southeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-1"
+        },
+        {
             "ip_prefix": "3.5.244.0\/22",
             "region": "eu-west-2",
             "service": "EC2",
