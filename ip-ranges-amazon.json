@@ -20743,6 +20743,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ip_prefix": "150.222.230.132\/31",
+            "region": "eu-central-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ip_prefix": "3.5.148.0\/22",
             "region": "ap-southeast-1",
             "service": "AMAZON",
