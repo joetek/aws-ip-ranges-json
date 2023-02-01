@@ -20539,6 +20539,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "15.230.96.0\/32",
+            "region": "eu-north-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-north-1"
+        },
+        {
             "ip_prefix": "15.251.0.24\/32",
             "region": "sa-east-1",
             "service": "AMAZON",
