@@ -7081,6 +7081,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "15.230.187.0\/24",
+            "region": "eu-south-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-south-1"
+        },
+        {
             "ip_prefix": "35.71.113.0\/24",
             "region": "eu-south-1",
             "service": "AMAZON",
