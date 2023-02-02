@@ -295,6 +295,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ip_prefix": "142.4.161.40\/29",
+            "region": "af-south-1",
+            "service": "EC2",
+            "network_border_group": "af-south-1-los-1"
+        },
+        {
             "ip_prefix": "161.188.146.0\/23",
             "region": "us-east-1",
             "service": "EC2",
