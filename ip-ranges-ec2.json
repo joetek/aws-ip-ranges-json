@@ -8364,7 +8364,7 @@
             "ipv6_prefix": "2600:1f1c:4000::\/36",
             "region": "us-west-2",
             "service": "EC2",
-            "network_border_group": "us-west-2-phx-2"
+            "network_border_group": "us-west-2"
         },
         {
             "ipv6_prefix": "2600:1f27:8000::\/36",
