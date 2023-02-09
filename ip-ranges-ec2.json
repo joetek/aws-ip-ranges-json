@@ -9117,6 +9117,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ipv6_prefix": "2600:1f00:a400::\/64",
+            "region": "ca-west-1",
+            "service": "EC2",
+            "network_border_group": "ca-west-1"
+        },
+        {
             "ipv6_prefix": "2600:1f60:c000::\/40",
             "region": "us-west-1",
             "service": "EC2",
