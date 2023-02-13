@@ -5053,12 +5053,6 @@
             "network_border_group": "us-east-1-dfw-1"
         },
         {
-            "ip_prefix": "3.4.9.0\/24",
-            "region": "us-east-1",
-            "service": "AMAZON",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ip_prefix": "13.34.12.64\/27",
             "region": "us-west-2",
             "service": "AMAZON",
@@ -19115,6 +19109,12 @@
             "region": "eu-south-1",
             "service": "AMAZON",
             "network_border_group": "eu-south-1"
+        },
+        {
+            "ip_prefix": "172.103.41.0\/24",
+            "region": "us-west-1",
+            "service": "AMAZON",
+            "network_border_group": "us-west-1"
         },
         {
             "ip_prefix": "198.99.2.0\/24",
