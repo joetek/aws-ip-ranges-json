@@ -187,6 +187,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ip_prefix": "52.219.162.0\/23",
+            "region": "ap-northeast-1",
+            "service": "S3",
+            "network_border_group": "ap-northeast-1"
+        },
+        {
             "ip_prefix": "52.95.178.0\/23",
             "region": "ap-southeast-3",
             "service": "S3",
@@ -665,6 +671,12 @@
             "region": "sa-east-1",
             "service": "S3",
             "network_border_group": "sa-east-1"
+        },
+        {
+            "ip_prefix": "52.219.201.0\/24",
+            "region": "ap-northeast-1",
+            "service": "S3",
+            "network_border_group": "ap-northeast-1"
         },
         {
             "ip_prefix": "16.12.8.0\/24",
