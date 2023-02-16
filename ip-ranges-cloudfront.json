@@ -613,6 +613,30 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ip_prefix": "43.218.56.128\/26",
+            "region": "ap-southeast-3",
+            "service": "CLOUDFRONT",
+            "network_border_group": "ap-southeast-3"
+        },
+        {
+            "ip_prefix": "43.218.56.192\/26",
+            "region": "ap-southeast-3",
+            "service": "CLOUDFRONT",
+            "network_border_group": "ap-southeast-3"
+        },
+        {
+            "ip_prefix": "43.218.56.64\/26",
+            "region": "ap-southeast-3",
+            "service": "CLOUDFRONT",
+            "network_border_group": "ap-southeast-3"
+        },
+        {
+            "ip_prefix": "43.218.71.0\/26",
+            "region": "ap-southeast-3",
+            "service": "CLOUDFRONT",
+            "network_border_group": "ap-southeast-3"
+        },
+        {
             "ip_prefix": "99.79.169.0\/24",
             "region": "ca-central-1",
             "service": "CLOUDFRONT",
@@ -683,6 +707,30 @@
             "region": "eu-west-3",
             "service": "CLOUDFRONT",
             "network_border_group": "eu-west-3"
+        },
+        {
+            "ip_prefix": "3.29.40.128\/26",
+            "region": "me-central-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "me-central-1"
+        },
+        {
+            "ip_prefix": "3.29.40.192\/26",
+            "region": "me-central-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "me-central-1"
+        },
+        {
+            "ip_prefix": "3.29.40.64\/26",
+            "region": "me-central-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "me-central-1"
+        },
+        {
+            "ip_prefix": "3.29.57.0\/26",
+            "region": "me-central-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "me-central-1"
         },
         {
             "ip_prefix": "18.229.220.192\/26",
