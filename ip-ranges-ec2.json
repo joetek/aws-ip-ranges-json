@@ -8895,6 +8895,12 @@
             "network_border_group": "us-gov-west-1"
         },
         {
+            "ipv6_prefix": "2605:9cc0:1ff0:3e00::\/56",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:1ff0:c000::\/40",
             "region": "us-west-1",
             "service": "EC2",
