@@ -7989,6 +7989,12 @@
             "network_border_group": "ap-northeast-1"
         },
         {
+            "ipv6_prefix": "2605:9cc0:1ff2::\/48",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "240f:8000:4000::\/40",
             "region": "cn-northwest-1",
             "service": "EC2",
