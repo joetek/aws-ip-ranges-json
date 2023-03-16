@@ -13,6 +13,12 @@
             "network_border_group": "cn-northwest-1"
         },
         {
+            "ip_prefix": "18.254.148.0\/22",
+            "region": "us-gov-east-1",
+            "service": "WORKSPACES_GATEWAYS",
+            "network_border_group": "us-gov-east-1"
+        },
+        {
             "ip_prefix": "3.30.129.0\/24",
             "region": "us-gov-west-1",
             "service": "WORKSPACES_GATEWAYS",
