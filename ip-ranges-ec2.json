@@ -4777,6 +4777,12 @@
             "network_border_group": "ca-west-1"
         },
         {
+            "ip_prefix": "142.4.178.0\/24",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "64.252.98.0\/24",
             "region": "ap-south-1",
             "service": "EC2",
