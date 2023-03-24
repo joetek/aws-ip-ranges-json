@@ -2344,7 +2344,7 @@
             "ip_prefix": "96.0.144.0\/21",
             "region": "ap-southeast-1",
             "service": "EC2",
-            "network_border_group": "ap-southeast-1"
+            "network_border_group": "ap-southeast-1-mnl-1"
         },
         {
             "ip_prefix": "99.78.238.251\/32",
