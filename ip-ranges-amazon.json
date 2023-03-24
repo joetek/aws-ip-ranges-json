@@ -31125,6 +31125,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ipv6_prefix": "2605:9cc0:1ff0:2800::\/56",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ipv6_prefix": "2a05:d03a:9000::\/40",
             "region": "eu-central-2",
             "service": "AMAZON",
