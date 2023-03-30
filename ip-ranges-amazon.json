@@ -26449,6 +26449,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "44.215.116.0\/22",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "44.215.76.0\/24",
             "region": "us-east-1",
             "service": "AMAZON",
