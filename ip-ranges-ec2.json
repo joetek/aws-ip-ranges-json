@@ -4435,6 +4435,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "99.77.163.0\/24",
+            "region": "il-central-1",
+            "service": "EC2",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ip_prefix": "15.220.220.0\/23",
             "region": "us-east-1",
             "service": "EC2",
