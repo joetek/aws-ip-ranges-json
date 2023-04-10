@@ -15841,6 +15841,12 @@
             "network_border_group": "ap-southeast-3"
         },
         {
+            "ip_prefix": "3.3.3.0\/24",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "3.5.212.0\/23",
             "region": "ap-south-1",
             "service": "AMAZON",
