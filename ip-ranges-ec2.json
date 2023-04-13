@@ -1519,6 +1519,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ip_prefix": "142.4.161.128\/29",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-chi-1"
+        },
+        {
             "ip_prefix": "15.181.254.0\/24",
             "region": "us-east-1",
             "service": "EC2",
