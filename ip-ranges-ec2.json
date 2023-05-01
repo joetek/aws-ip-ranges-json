@@ -8842,9 +8842,9 @@
         },
         {
             "ipv6_prefix": "2605:9cc0:1ff0:f000::\/56",
-            "region": "us-east-1",
+            "region": "us-east-2",
             "service": "EC2",
-            "network_border_group": "us-east-1"
+            "network_border_group": "us-east-2"
         },
         {
             "ipv6_prefix": "2a05:d071:e000::\/40",
@@ -9346,9 +9346,9 @@
         },
         {
             "ipv6_prefix": "2605:9cc0:1ff0:f800::\/56",
-            "region": "us-east-1",
+            "region": "us-east-2",
             "service": "EC2",
-            "network_border_group": "us-east-1"
+            "network_border_group": "us-east-2"
         },
         {
             "ipv6_prefix": "2a05:d035:8000::\/40",
