@@ -615,6 +615,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ipv6_prefix": "2600:1f01:4806::\/47",
+            "region": "us-east-1",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:9000:a300::\/40",
             "region": "GLOBAL",
             "service": "GLOBALACCELERATOR",
