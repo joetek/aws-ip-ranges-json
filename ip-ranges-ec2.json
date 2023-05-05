@@ -307,6 +307,12 @@
             "network_border_group": "af-south-1-los-1"
         },
         {
+            "ip_prefix": "142.4.161.168\/29",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1-waw-1"
+        },
+        {
             "ip_prefix": "15.181.247.0\/24",
             "region": "us-east-1",
             "service": "EC2",
@@ -1285,6 +1291,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "142.4.161.160\/29",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1-waw-1"
+        },
+        {
             "ip_prefix": "15.168.0.0\/16",
             "region": "ap-northeast-3",
             "service": "EC2",
@@ -1301,6 +1313,12 @@
             "region": "eu-south-1",
             "service": "EC2",
             "network_border_group": "eu-south-1"
+        },
+        {
+            "ip_prefix": "142.4.161.176\/29",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1-waw-1"
         },
         {
             "ip_prefix": "162.250.238.0\/23",
@@ -4141,6 +4159,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "142.4.161.152\/29",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-atl-1"
+        },
+        {
             "ip_prefix": "3.5.144.0\/23",
             "region": "ap-northeast-2",
             "service": "EC2",
@@ -5719,6 +5743,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ip_prefix": "142.4.161.136\/29",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-atl-1"
+        },
+        {
             "ip_prefix": "52.10.0.0\/15",
             "region": "us-west-2",
             "service": "EC2",
@@ -5987,6 +6017,12 @@
             "region": "eu-south-2",
             "service": "EC2",
             "network_border_group": "eu-south-2"
+        },
+        {
+            "ip_prefix": "142.4.161.144\/29",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-atl-1"
         },
         {
             "ip_prefix": "3.5.236.0\/22",
