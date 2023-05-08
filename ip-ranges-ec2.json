@@ -9537,6 +9537,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ipv6_prefix": "2605:9cc0:1ff0:e000::\/56",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "240f:8018::\/36",
             "region": "cn-north-1",
             "service": "EC2",
