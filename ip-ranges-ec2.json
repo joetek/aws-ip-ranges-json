@@ -7875,12 +7875,6 @@
             "network_border_group": "eu-west-3"
         },
         {
-            "ipv6_prefix": "2605:9cc0:1ff0:1f00::\/56",
-            "region": "GLOBAL",
-            "service": "EC2",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ipv6_prefix": "2600:1f61:1000::\/40",
             "region": "ca-central-1",
             "service": "EC2",
@@ -9589,12 +9583,6 @@
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2-wl1-sfo-wlz-1"
-        },
-        {
-            "ipv6_prefix": "2605:9cc0:1ff0:1d00::\/56",
-            "region": "GLOBAL",
-            "service": "EC2",
-            "network_border_group": "GLOBAL"
         },
         {
             "ipv6_prefix": "2a05:d000:1000::\/40",
