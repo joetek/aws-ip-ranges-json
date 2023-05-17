@@ -7737,6 +7737,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ipv6_prefix": "2a05:d03a:5000::\/56",
+            "region": "il-central-1",
+            "service": "EC2",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ipv6_prefix": "2406:da60:a000::\/40",
             "region": "ap-south-1",
             "service": "EC2",
@@ -8893,6 +8899,12 @@
             "region": "eu-west-3",
             "service": "EC2",
             "network_border_group": "eu-west-3"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:40::\/48",
+            "region": "ap-south-1",
+            "service": "EC2",
+            "network_border_group": "ap-south-1"
         },
         {
             "ipv6_prefix": "2600:1ff2:c000::\/40",
