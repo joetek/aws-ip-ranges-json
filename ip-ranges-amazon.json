@@ -29643,6 +29643,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ipv6_prefix": "2605:9cc0:1ff0:1f00::\/56",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ipv6_prefix": "2a01:578:0:7700::\/56",
             "region": "il-central-1",
             "service": "AMAZON",
