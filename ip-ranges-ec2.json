@@ -9550,9 +9550,9 @@
         },
         {
             "ipv6_prefix": "2600:1f1e:4000::\/36",
-            "region": "us-east-1",
+            "region": "ca-central-1",
             "service": "EC2",
-            "network_border_group": "us-east-1"
+            "network_border_group": "ca-central-1"
         },
         {
             "ipv6_prefix": "2600:1ffd:8143::\/48",
@@ -9577,6 +9577,12 @@
             "region": "ap-south-1",
             "service": "EC2",
             "network_border_group": "ap-south-1"
+        },
+        {
+            "ipv6_prefix": "2600:1f2e:4000::\/36",
+            "region": "ca-central-1",
+            "service": "EC2",
+            "network_border_group": "ca-central-1"
         },
         {
             "ipv6_prefix": "240f:8018::\/36",
