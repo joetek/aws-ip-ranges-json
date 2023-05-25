@@ -5762,9 +5762,9 @@
         },
         {
             "ip_prefix": "192.43.175.0\/24",
-            "region": "eu-west-3",
+            "region": "us-east-1",
             "service": "EC2",
-            "network_border_group": "eu-west-3"
+            "network_border_group": "us-east-1"
         },
         {
             "ip_prefix": "15.220.44.0\/22",
