@@ -5857,6 +5857,12 @@
             "network_border_group": "ap-northeast-1"
         },
         {
+            "ip_prefix": "142.4.180.0\/24",
+            "region": "ap-south-1",
+            "service": "EC2",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ip_prefix": "16.162.0.0\/15",
             "region": "ap-east-1",
             "service": "EC2",
