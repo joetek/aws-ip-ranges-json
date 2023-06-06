@@ -4849,6 +4849,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "142.4.161.208\/29",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1-qro-1"
+        },
+        {
             "ip_prefix": "150.222.133.0\/24",
             "region": "ap-northeast-1",
             "service": "AMAZON",

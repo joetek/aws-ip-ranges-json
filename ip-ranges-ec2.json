@@ -1195,6 +1195,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "142.4.161.208\/29",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-qro-1"
+        },
+        {
             "ip_prefix": "18.229.0.0\/16",
             "region": "sa-east-1",
             "service": "EC2",
