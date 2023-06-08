@@ -2725,6 +2725,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "130.171.0.0\/24",
+            "region": "ca-central-1",
+            "service": "EC2",
+            "network_border_group": "ca-central-1"
+        },
+        {
             "ip_prefix": "3.2.47.0\/25",
             "region": "us-east-1",
             "service": "EC2",
