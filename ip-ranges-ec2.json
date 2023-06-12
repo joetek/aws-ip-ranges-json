@@ -5191,6 +5191,12 @@
             "network_border_group": "af-south-1"
         },
         {
+            "ip_prefix": "142.4.161.224\/29",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-scl-1"
+        },
+        {
             "ip_prefix": "35.71.101.0\/24",
             "region": "eu-west-3",
             "service": "EC2",
