@@ -19621,6 +19621,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "15.230.105.0\/24",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "16.12.60.0\/22",
             "region": "us-east-2",
             "service": "AMAZON",
