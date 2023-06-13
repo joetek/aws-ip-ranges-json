@@ -15199,6 +15199,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "173.83.200.0\/22",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "208.86.90.0\/23",
             "region": "eu-west-1",
             "service": "AMAZON",
