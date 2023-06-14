@@ -1375,6 +1375,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ip_prefix": "182.30.0.0\/16",
+            "region": "us-gov-east-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-east-1"
+        },
+        {
             "ip_prefix": "18.230.0.0\/16",
             "region": "sa-east-1",
             "service": "EC2",
