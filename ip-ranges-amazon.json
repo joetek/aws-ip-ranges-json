@@ -21943,6 +21943,12 @@
             "network_border_group": "eu-south-1"
         },
         {
+            "ip_prefix": "76.223.169.0\/24",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "176.32.125.242\/31",
             "region": "us-east-1",
             "service": "AMAZON",
