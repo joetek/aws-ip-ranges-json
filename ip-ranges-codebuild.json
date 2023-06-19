@@ -247,6 +247,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ip_prefix": "51.16.103.16\/28",
+            "region": "il-central-1",
+            "service": "CODEBUILD",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ip_prefix": "3.28.255.80\/28",
             "region": "me-central-1",
             "service": "CODEBUILD",
