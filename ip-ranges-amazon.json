@@ -13933,12 +13933,6 @@
             "network_border_group": "us-west-1"
         },
         {
-            "ip_prefix": "54.222.59.0\/24",
-            "region": "cn-north-1",
-            "service": "AMAZON",
-            "network_border_group": "cn-north-1"
-        },
-        {
             "ip_prefix": "70.232.92.0\/22",
             "region": "us-east-1",
             "service": "AMAZON",
@@ -20309,12 +20303,6 @@
             "region": "eu-west-1",
             "service": "AMAZON",
             "network_border_group": "eu-west-1"
-        },
-        {
-            "ip_prefix": "54.222.64.0\/23",
-            "region": "cn-north-1",
-            "service": "AMAZON",
-            "network_border_group": "cn-north-1"
         },
         {
             "ip_prefix": "54.240.236.58\/32",
