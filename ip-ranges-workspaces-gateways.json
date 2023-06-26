@@ -1,6 +1,12 @@
 {
     "prefixes": [
         {
+            "ip_prefix": "43.192.144.0\/22",
+            "region": "cn-northwest-1",
+            "service": "WORKSPACES_GATEWAYS",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
             "ip_prefix": "52.83.58.0\/24",
             "region": "cn-northwest-1",
             "service": "WORKSPACES_GATEWAYS",
