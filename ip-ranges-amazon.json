@@ -7255,6 +7255,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "15.230.107.0\/32",
+            "region": "ap-southeast-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-2"
+        },
+        {
             "ip_prefix": "15.230.219.0\/24",
             "region": "me-central-1",
             "service": "AMAZON",
