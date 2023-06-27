@@ -730,7 +730,7 @@
             "ip_prefix": "142.4.161.216\/29",
             "region": "ap-southeast-1",
             "service": "AMAZON",
-            "network_border_group": "ap-southeast-1"
+            "network_border_group": "ap-southeast-1-mnl-1"
         },
         {
             "ip_prefix": "150.222.122.104\/31",
@@ -9748,7 +9748,7 @@
             "ip_prefix": "96.0.144.0\/21",
             "region": "ap-southeast-1",
             "service": "AMAZON",
-            "network_border_group": "ap-southeast-1"
+            "network_border_group": "ap-southeast-1-mnl-1"
         },
         {
             "ip_prefix": "13.34.37.128\/27",
@@ -12220,7 +12220,7 @@
             "ip_prefix": "142.4.161.104\/29",
             "region": "ap-southeast-1",
             "service": "AMAZON",
-            "network_border_group": "ap-southeast-1"
+            "network_border_group": "ap-southeast-1-mnl-1"
         },
         {
             "ip_prefix": "150.222.224.0\/24",
