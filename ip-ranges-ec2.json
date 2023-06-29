@@ -745,6 +745,12 @@
             "network_border_group": "af-south-1"
         },
         {
+            "ip_prefix": "161.188.166.0\/23",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "52.95.240.0\/24",
             "region": "sa-east-1",
             "service": "EC2",
