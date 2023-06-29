@@ -847,6 +847,12 @@
             "network_border_group": "eu-south-1"
         },
         {
+            "ip_prefix": "16.12.64.0\/22",
+            "region": "us-east-2",
+            "service": "S3",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ip_prefix": "3.5.144.0\/23",
             "region": "ap-northeast-2",
             "service": "S3",
