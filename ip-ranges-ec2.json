@@ -7149,6 +7149,12 @@
             "network_border_group": "eu-central-2"
         },
         {
+            "ipv6_prefix": "2600:1ff5:6000::\/40",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ipv6_prefix": "2600:f0f0:600:200::\/55",
             "region": "us-east-1",
             "service": "EC2",
