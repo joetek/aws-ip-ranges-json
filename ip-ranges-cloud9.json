@@ -217,6 +217,18 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ip_prefix": "51.16.103.32\/27",
+            "region": "il-central-1",
+            "service": "CLOUD9",
+            "network_border_group": "il-central-1"
+        },
+        {
+            "ip_prefix": "51.16.183.64\/27",
+            "region": "il-central-1",
+            "service": "CLOUD9",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ip_prefix": "15.185.141.160\/27",
             "region": "me-south-1",
             "service": "CLOUD9",
