@@ -29103,12 +29103,6 @@
             "network_border_group": "af-south-1"
         },
         {
-            "ipv6_prefix": "2605:9cc0:1ff0:2900::\/56",
-            "region": "GLOBAL",
-            "service": "AMAZON",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ipv6_prefix": "2a05:d078:c000::\/40",
             "region": "eu-west-2",
             "service": "AMAZON",
