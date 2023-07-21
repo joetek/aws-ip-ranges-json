@@ -25,6 +25,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "142.4.161.232\/29",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-chi-1"
+        },
+        {
             "ip_prefix": "3.108.0.0\/14",
             "region": "ap-south-1",
             "service": "EC2",
