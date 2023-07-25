@@ -2281,6 +2281,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "173.83.211.0\/24",
+            "region": "ap-south-1",
+            "service": "EC2",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ip_prefix": "3.5.240.0\/22",
             "region": "ap-northeast-3",
             "service": "EC2",
@@ -2639,6 +2645,12 @@
             "region": "us-east-2",
             "service": "EC2",
             "network_border_group": "us-east-2"
+        },
+        {
+            "ip_prefix": "173.83.210.0\/24",
+            "region": "ap-northeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-northeast-1"
         },
         {
             "ip_prefix": "3.2.3.0\/24",
@@ -4279,6 +4291,18 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "173.83.198.0\/24",
+            "region": "ap-northeast-2",
+            "service": "EC2",
+            "network_border_group": "ap-northeast-2"
+        },
+        {
+            "ip_prefix": "173.83.219.0\/24",
+            "region": "ap-southeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-1"
+        },
+        {
             "ip_prefix": "51.0.112.0\/21",
             "region": "GLOBAL",
             "service": "EC2",
@@ -5209,6 +5233,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "173.83.218.0\/24",
+            "region": "ap-northeast-2",
+            "service": "EC2",
+            "network_border_group": "ap-northeast-2"
+        },
+        {
             "ip_prefix": "15.220.234.0\/23",
             "region": "us-east-1",
             "service": "EC2",
@@ -5441,6 +5471,12 @@
             "region": "eu-west-1",
             "service": "EC2",
             "network_border_group": "eu-west-1"
+        },
+        {
+            "ip_prefix": "173.83.212.0\/24",
+            "region": "ap-southeast-2",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-2"
         },
         {
             "ip_prefix": "3.2.42.0\/26",
