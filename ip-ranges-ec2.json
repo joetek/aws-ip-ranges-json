@@ -2617,6 +2617,12 @@
             "network_border_group": "eu-south-1"
         },
         {
+            "ip_prefix": "51.96.0.0\/16",
+            "region": "eu-central-2",
+            "service": "EC2",
+            "network_border_group": "eu-central-2"
+        },
+        {
             "ip_prefix": "63.246.112.0\/24",
             "region": "eu-north-1",
             "service": "EC2",
