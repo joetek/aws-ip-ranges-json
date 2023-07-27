@@ -1729,6 +1729,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "192.43.184.0\/24",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ip_prefix": "13.50.0.0\/16",
             "region": "eu-north-1",
             "service": "EC2",
