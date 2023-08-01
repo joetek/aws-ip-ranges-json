@@ -25183,6 +25183,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "3.254.8.0\/25",
+            "region": "eu-west-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ip_prefix": "63.34.60.0\/22",
             "region": "eu-west-1",
             "service": "AMAZON",
