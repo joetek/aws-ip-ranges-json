@@ -2029,6 +2029,12 @@
             "network_border_group": "eu-central-1-ham-1"
         },
         {
+            "ip_prefix": "51.21.0.0\/16",
+            "region": "eu-north-1",
+            "service": "EC2",
+            "network_border_group": "eu-north-1"
+        },
+        {
             "ip_prefix": "51.112.0.0\/16",
             "region": "me-central-1",
             "service": "EC2",
