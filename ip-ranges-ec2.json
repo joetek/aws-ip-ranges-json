@@ -5317,12 +5317,6 @@
             "network_border_group": "us-west-2"
         },
         {
-            "ip_prefix": "192.157.32.0\/22",
-            "region": "eu-west-2",
-            "service": "EC2",
-            "network_border_group": "eu-west-2"
-        },
-        {
             "ip_prefix": "3.20.0.0\/14",
             "region": "us-east-2",
             "service": "EC2",
