@@ -4963,6 +4963,12 @@
             "network_border_group": "ap-southeast-1-bkk-1"
         },
         {
+            "ip_prefix": "192.157.32.0\/24",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ip_prefix": "15.177.98.0\/24",
             "region": "eu-central-2",
             "service": "EC2",
