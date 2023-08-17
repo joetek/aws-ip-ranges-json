@@ -2689,6 +2689,12 @@
             "network_border_group": "ap-northeast-1"
         },
         {
+            "ip_prefix": "52.94.250.80\/28",
+            "region": "ap-southeast-5",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-5"
+        },
+        {
             "ip_prefix": "3.2.3.0\/24",
             "region": "us-east-1",
             "service": "EC2",
