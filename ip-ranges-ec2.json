@@ -4399,6 +4399,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ip_prefix": "16.56.0.0\/18",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "51.0.112.0\/21",
             "region": "GLOBAL",
             "service": "EC2",
@@ -4955,6 +4961,12 @@
             "region": "eu-south-1",
             "service": "EC2",
             "network_border_group": "eu-south-1"
+        },
+        {
+            "ip_prefix": "136.18.136.0\/23",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ip_prefix": "3.14.0.0\/15",
