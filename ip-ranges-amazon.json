@@ -28989,6 +28989,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ipv6_prefix": "2600:f0f0:82:1100::\/56",
+            "region": "eu-north-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-north-1"
+        },
+        {
             "ipv6_prefix": "2406:daff:6000::\/40",
             "region": "ap-northeast-3",
             "service": "AMAZON",
