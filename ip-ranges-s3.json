@@ -475,6 +475,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "3.5.184.0\/21",
+            "region": "ap-northeast-2",
+            "service": "S3",
+            "network_border_group": "ap-northeast-2"
+        },
+        {
             "ip_prefix": "16.12.58.0\/24",
             "region": "ca-west-1",
             "service": "S3",
