@@ -499,6 +499,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "3.5.204.0\/22",
+            "region": "eu-west-3",
+            "service": "S3",
+            "network_border_group": "eu-west-3"
+        },
+        {
             "ip_prefix": "52.95.162.0\/24",
             "region": "ap-east-1",
             "service": "S3",
