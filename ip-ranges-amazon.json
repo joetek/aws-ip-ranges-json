@@ -17437,6 +17437,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "13.34.101.128\/27",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "13.248.123.0\/24",
             "region": "eu-central-1",
             "service": "AMAZON",
@@ -22133,6 +22139,12 @@
             "region": "me-central-1",
             "service": "AMAZON",
             "network_border_group": "me-central-1"
+        },
+        {
+            "ip_prefix": "13.34.101.160\/27",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
         },
         {
             "ip_prefix": "13.248.69.0\/24",
