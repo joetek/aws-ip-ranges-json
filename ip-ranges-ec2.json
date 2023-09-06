@@ -6735,6 +6735,12 @@
             "network_border_group": "us-gov-east-1"
         },
         {
+            "ipv6_prefix": "2600:1fb8:6000::\/40",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ipv6_prefix": "2600:1ffd:80a7::\/48",
             "region": "eu-central-1",
             "service": "EC2",
