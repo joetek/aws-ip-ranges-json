@@ -8343,6 +8343,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ipv6_prefix": "2605:9cc0:1ff0:f600::\/56",
+            "region": "us-gov-east-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-east-1"
+        },
+        {
             "ipv6_prefix": "2600:1f2d:8000::\/36",
             "region": "us-west-2",
             "service": "EC2",
