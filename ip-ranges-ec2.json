@@ -5359,12 +5359,6 @@
             "network_border_group": "us-west-2"
         },
         {
-            "ip_prefix": "173.83.218.0\/24",
-            "region": "ap-northeast-2",
-            "service": "EC2",
-            "network_border_group": "ap-northeast-2"
-        },
-        {
             "ip_prefix": "15.220.234.0\/23",
             "region": "us-east-1",
             "service": "EC2",
