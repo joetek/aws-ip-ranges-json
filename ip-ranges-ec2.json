@@ -8133,6 +8133,12 @@
             "network_border_group": "ap-northeast-3"
         },
         {
+            "ipv6_prefix": "2600:1f1b:4000::\/36",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:1ffd:8188::\/48",
             "region": "ca-central-1",
             "service": "EC2",
@@ -9229,6 +9235,12 @@
             "region": "me-central-1",
             "service": "EC2",
             "network_border_group": "me-central-1"
+        },
+        {
+            "ipv6_prefix": "2600:1f2b:4000::\/36",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2600:1f60:a400::\/40",
