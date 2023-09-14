@@ -91,6 +91,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ip_prefix": "16.24.46.56\/29",
+            "region": "me-south-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "me-south-1"
+        },
+        {
             "ip_prefix": "18.228.70.32\/29",
             "region": "sa-east-1",
             "service": "EC2_INSTANCE_CONNECT",
