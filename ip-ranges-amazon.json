@@ -7861,6 +7861,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "15.230.112.0\/24",
+            "region": "eu-south-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-south-1"
+        },
+        {
             "ip_prefix": "15.230.210.0\/23",
             "region": "ap-southeast-2",
             "service": "AMAZON",
