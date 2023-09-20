@@ -27501,6 +27501,12 @@
             "network_border_group": "cn-northwest-1"
         },
         {
+            "ipv6_prefix": "2406:da14::\/35",
+            "region": "ap-northeast-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-northeast-1"
+        },
+        {
             "ipv6_prefix": "2406:da61:e000::\/40",
             "region": "ap-east-1",
             "service": "AMAZON",
@@ -30475,12 +30481,6 @@
             "region": "eu-north-1",
             "service": "AMAZON",
             "network_border_group": "eu-north-1"
-        },
-        {
-            "ipv6_prefix": "2406:da14::\/36",
-            "region": "ap-northeast-1",
-            "service": "AMAZON",
-            "network_border_group": "ap-northeast-1"
         },
         {
             "ipv6_prefix": "2406:da69:9000::\/40",
