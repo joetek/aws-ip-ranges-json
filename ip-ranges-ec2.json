@@ -9609,12 +9609,6 @@
             "network_border_group": "us-west-2-wl1-sfo-wlz-1"
         },
         {
-            "ipv6_prefix": "2605:9cc0:1ff0:f100::\/56",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ipv6_prefix": "2600:1f69:a400::\/40",
             "region": "ca-west-1",
             "service": "EC2",
