@@ -20935,6 +20935,12 @@
             "network_border_group": "ap-southeast-6"
         },
         {
+            "ip_prefix": "3.33.42.0\/24",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "13.34.18.160\/27",
             "region": "eu-west-2",
             "service": "AMAZON",
