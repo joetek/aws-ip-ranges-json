@@ -103,6 +103,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "150.222.47.64\/26",
+            "region": "ap-southeast-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-2"
+        },
+        {
             "ip_prefix": "150.222.81.0\/24",
             "region": "eu-west-1",
             "service": "AMAZON",
@@ -1135,6 +1141,18 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "150.222.44.192\/26",
+            "region": "ap-southeast-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-2"
+        },
+        {
+            "ip_prefix": "150.222.48.128\/27",
+            "region": "eu-south-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-south-1"
+        },
+        {
             "ip_prefix": "150.222.52.32\/27",
             "region": "il-central-1",
             "service": "AMAZON",
@@ -1253,6 +1271,12 @@
             "region": "eu-central-1",
             "service": "AMAZON",
             "network_border_group": "eu-central-1-waw-1"
+        },
+        {
+            "ip_prefix": "150.222.38.0\/26",
+            "region": "ap-northeast-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-northeast-1"
         },
         {
             "ip_prefix": "13.34.83.192\/27",
@@ -1433,6 +1457,12 @@
             "region": "us-east-1",
             "service": "AMAZON",
             "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "150.222.48.192\/27",
+            "region": "af-south-1",
+            "service": "AMAZON",
+            "network_border_group": "af-south-1"
         },
         {
             "ip_prefix": "150.222.114.0\/24",
@@ -2456,6 +2486,12 @@
         },
         {
             "ip_prefix": "99.82.184.0\/22",
+            "region": "ap-southeast-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-2"
+        },
+        {
+            "ip_prefix": "150.222.43.128\/27",
             "region": "ap-southeast-2",
             "service": "AMAZON",
             "network_border_group": "ap-southeast-2"
@@ -3553,6 +3589,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "150.222.37.192\/26",
+            "region": "eu-west-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "162.250.237.0\/24",
             "region": "us-east-1",
             "service": "AMAZON",
@@ -3851,6 +3893,12 @@
             "region": "us-east-1",
             "service": "AMAZON",
             "network_border_group": "us-east-1-iah-1"
+        },
+        {
+            "ip_prefix": "150.222.44.32\/27",
+            "region": "eu-west-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-1"
         },
         {
             "ip_prefix": "13.34.25.96\/27",
@@ -4627,6 +4675,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "52.93.148.0\/26",
+            "region": "ap-south-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ip_prefix": "52.93.178.215\/32",
             "region": "us-west-1",
             "service": "AMAZON",
@@ -4801,6 +4855,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "150.222.44.0\/27",
+            "region": "eu-west-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ip_prefix": "150.222.211.0\/24",
             "region": "us-east-1",
             "service": "AMAZON",
@@ -4871,6 +4931,12 @@
             "region": "eu-north-1",
             "service": "AMAZON",
             "network_border_group": "eu-north-1"
+        },
+        {
+            "ip_prefix": "150.222.39.192\/26",
+            "region": "eu-west-3",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-3"
         },
         {
             "ip_prefix": "216.39.160.0\/21",
@@ -5191,6 +5257,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "150.222.42.64\/26",
+            "region": "eu-north-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-north-1"
+        },
+        {
             "ip_prefix": "162.250.238.0\/23",
             "region": "us-east-1",
             "service": "AMAZON",
@@ -5395,6 +5467,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "150.222.41.64\/26",
+            "region": "ap-northeast-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-northeast-2"
+        },
+        {
             "ip_prefix": "150.222.176.0\/22",
             "region": "us-west-2",
             "service": "AMAZON",
@@ -5587,6 +5665,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ip_prefix": "150.222.46.0\/25",
+            "region": "eu-west-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "150.222.103.0\/24",
             "region": "us-east-1",
             "service": "AMAZON",
@@ -5615,6 +5699,12 @@
             "region": "us-east-2",
             "service": "AMAZON",
             "network_border_group": "us-east-2"
+        },
+        {
+            "ip_prefix": "52.93.148.128\/26",
+            "region": "ap-south-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-south-1"
         },
         {
             "ip_prefix": "52.93.178.130\/32",
@@ -6115,6 +6205,12 @@
             "network_border_group": "us-east-1-chi-1"
         },
         {
+            "ip_prefix": "150.222.47.192\/26",
+            "region": "ap-east-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-east-1"
+        },
+        {
             "ip_prefix": "208.78.135.0\/24",
             "region": "eu-west-2",
             "service": "AMAZON",
@@ -6301,6 +6397,12 @@
             "network_border_group": "us-east-1-bue-1"
         },
         {
+            "ip_prefix": "150.222.45.64\/27",
+            "region": "me-south-1",
+            "service": "AMAZON",
+            "network_border_group": "me-south-1"
+        },
+        {
             "ip_prefix": "150.222.234.110\/31",
             "region": "us-west-1",
             "service": "AMAZON",
@@ -6365,6 +6467,12 @@
             "region": "ap-northeast-2",
             "service": "AMAZON",
             "network_border_group": "ap-northeast-2"
+        },
+        {
+            "ip_prefix": "150.222.48.224\/27",
+            "region": "af-south-1",
+            "service": "AMAZON",
+            "network_border_group": "af-south-1"
         },
         {
             "ip_prefix": "150.222.242.84\/31",
@@ -6863,6 +6971,12 @@
             "region": "us-west-2",
             "service": "AMAZON",
             "network_border_group": "us-west-2"
+        },
+        {
+            "ip_prefix": "150.222.33.0\/24",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
         },
         {
             "ip_prefix": "150.222.123.0\/24",
@@ -7831,6 +7945,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ip_prefix": "150.222.44.64\/27",
+            "region": "eu-west-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ip_prefix": "150.222.71.0\/24",
             "region": "us-east-1",
             "service": "AMAZON",
@@ -8021,6 +8141,12 @@
             "region": "me-south-1",
             "service": "AMAZON",
             "network_border_group": "me-south-1"
+        },
+        {
+            "ip_prefix": "150.222.36.128\/26",
+            "region": "us-west-1",
+            "service": "AMAZON",
+            "network_border_group": "us-west-1"
         },
         {
             "ip_prefix": "150.222.164.212\/31",
@@ -8333,6 +8459,12 @@
             "region": "ap-south-1",
             "service": "AMAZON",
             "network_border_group": "ap-south-1"
+        },
+        {
+            "ip_prefix": "150.222.40.192\/26",
+            "region": "us-east-2",
+            "service": "AMAZON",
+            "network_border_group": "us-east-2"
         },
         {
             "ip_prefix": "151.148.33.0\/24",
@@ -8759,6 +8891,12 @@
             "region": "us-east-1",
             "service": "AMAZON",
             "network_border_group": "us-east-1-dfw-1"
+        },
+        {
+            "ip_prefix": "150.222.43.224\/27",
+            "region": "ca-central-1",
+            "service": "AMAZON",
+            "network_border_group": "ca-central-1"
         },
         {
             "ip_prefix": "150.222.217.0\/24",
@@ -9337,6 +9475,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "150.222.40.64\/26",
+            "region": "us-east-2",
+            "service": "AMAZON",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ip_prefix": "176.32.112.0\/21",
             "region": "us-west-1",
             "service": "AMAZON",
@@ -9907,6 +10051,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "150.222.35.128\/25",
+            "region": "eu-central-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ip_prefix": "150.222.73.0\/24",
             "region": "us-east-1",
             "service": "AMAZON",
@@ -10387,6 +10537,12 @@
             "network_border_group": "ap-northeast-1"
         },
         {
+            "ip_prefix": "150.222.39.0\/26",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "150.222.234.36\/31",
             "region": "us-west-1",
             "service": "AMAZON",
@@ -10711,6 +10867,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ip_prefix": "150.222.47.0\/26",
+            "region": "ap-southeast-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-2"
+        },
+        {
             "ip_prefix": "150.222.74.0\/24",
             "region": "us-west-2",
             "service": "AMAZON",
@@ -10763,6 +10925,12 @@
             "region": "us-west-1",
             "service": "AMAZON",
             "network_border_group": "us-west-1"
+        },
+        {
+            "ip_prefix": "150.222.37.128\/26",
+            "region": "eu-west-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-2"
         },
         {
             "ip_prefix": "13.34.43.0\/27",
@@ -11887,6 +12055,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "150.222.37.64\/26",
+            "region": "eu-west-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "162.213.234.0\/23",
             "region": "eu-west-1",
             "service": "AMAZON",
@@ -12253,6 +12427,18 @@
             "network_border_group": "ap-southeast-4"
         },
         {
+            "ip_prefix": "150.222.36.0\/25",
+            "region": "eu-central-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-central-1"
+        },
+        {
+            "ip_prefix": "150.222.40.0\/26",
+            "region": "eu-west-3",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-3"
+        },
+        {
             "ip_prefix": "195.17.0.0\/24",
             "region": "eu-west-1",
             "service": "AMAZON",
@@ -12587,6 +12773,12 @@
             "region": "ca-central-1",
             "service": "AMAZON",
             "network_border_group": "ca-central-1"
+        },
+        {
+            "ip_prefix": "150.222.41.0\/26",
+            "region": "ap-northeast-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-northeast-2"
         },
         {
             "ip_prefix": "150.222.88.0\/24",
@@ -13201,6 +13393,18 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "150.222.38.128\/26",
+            "region": "ap-northeast-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-northeast-1"
+        },
+        {
+            "ip_prefix": "150.222.46.128\/25",
+            "region": "eu-west-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "184.72.0.0\/18",
             "region": "us-west-1",
             "service": "AMAZON",
@@ -13496,6 +13700,12 @@
         },
         {
             "ip_prefix": "150.222.12.0\/24",
+            "region": "sa-east-1",
+            "service": "AMAZON",
+            "network_border_group": "sa-east-1"
+        },
+        {
+            "ip_prefix": "150.222.44.96\/27",
             "region": "sa-east-1",
             "service": "AMAZON",
             "network_border_group": "sa-east-1"
@@ -14035,6 +14245,12 @@
             "network_border_group": "ap-south-2"
         },
         {
+            "ip_prefix": "150.222.48.0\/26",
+            "region": "ap-east-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-east-1"
+        },
+        {
             "ip_prefix": "150.222.51.224\/27",
             "region": "ap-southeast-4",
             "service": "AMAZON",
@@ -14087,6 +14303,12 @@
             "region": "cn-north-1",
             "service": "AMAZON",
             "network_border_group": "cn-north-1"
+        },
+        {
+            "ip_prefix": "150.222.37.0\/26",
+            "region": "us-west-1",
+            "service": "AMAZON",
+            "network_border_group": "us-west-1"
         },
         {
             "ip_prefix": "13.34.11.0\/27",
@@ -14879,6 +15101,12 @@
             "region": "us-east-1",
             "service": "AMAZON",
             "network_border_group": "us-east-1-chi-1"
+        },
+        {
+            "ip_prefix": "150.222.42.192\/26",
+            "region": "ap-southeast-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-1"
         },
         {
             "ip_prefix": "176.32.64.0\/19",
@@ -15901,6 +16129,12 @@
             "network_border_group": "ap-southeast-5"
         },
         {
+            "ip_prefix": "150.222.44.128\/27",
+            "region": "sa-east-1",
+            "service": "AMAZON",
+            "network_border_group": "sa-east-1"
+        },
+        {
             "ip_prefix": "3.136.0.0\/13",
             "region": "us-east-2",
             "service": "AMAZON",
@@ -16135,6 +16369,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "150.222.48.96\/27",
+            "region": "eu-south-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-south-1"
+        },
+        {
             "ip_prefix": "150.222.234.16\/31",
             "region": "us-west-1",
             "service": "AMAZON",
@@ -16235,6 +16475,12 @@
             "region": "GLOBAL",
             "service": "AMAZON",
             "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "150.222.43.96\/27",
+            "region": "ap-southeast-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-2"
         },
         {
             "ip_prefix": "192.157.34.0\/24",
@@ -16403,6 +16649,12 @@
             "region": "ap-northeast-1",
             "service": "AMAZON",
             "network_border_group": "ap-northeast-1"
+        },
+        {
+            "ip_prefix": "150.222.39.128\/26",
+            "region": "eu-west-3",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-3"
         },
         {
             "ip_prefix": "150.222.234.3\/32",
@@ -17569,6 +17821,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "150.222.47.128\/26",
+            "region": "ap-east-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-east-1"
+        },
+        {
             "ip_prefix": "3.2.38.0\/26",
             "region": "eu-west-2",
             "service": "AMAZON",
@@ -17789,6 +18047,12 @@
             "region": "sa-east-1",
             "service": "AMAZON",
             "network_border_group": "sa-east-1"
+        },
+        {
+            "ip_prefix": "150.222.41.128\/26",
+            "region": "ap-northeast-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-northeast-2"
         },
         {
             "ip_prefix": "150.222.92.0\/22",
@@ -18199,6 +18463,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "52.93.148.64\/26",
+            "region": "ap-south-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ip_prefix": "52.95.64.0\/20",
             "region": "ap-south-1",
             "service": "AMAZON",
@@ -18439,6 +18709,12 @@
             "network_border_group": "ap-southeast-1-bkk-1"
         },
         {
+            "ip_prefix": "150.222.48.160\/27",
+            "region": "af-south-1",
+            "service": "AMAZON",
+            "network_border_group": "af-south-1"
+        },
+        {
             "ip_prefix": "192.157.32.0\/24",
             "region": "us-east-2",
             "service": "AMAZON",
@@ -18545,6 +18821,18 @@
             "region": "ap-southeast-3",
             "service": "AMAZON",
             "network_border_group": "ap-southeast-3"
+        },
+        {
+            "ip_prefix": "150.222.43.160\/27",
+            "region": "ca-central-1",
+            "service": "AMAZON",
+            "network_border_group": "ca-central-1"
+        },
+        {
+            "ip_prefix": "150.222.45.0\/27",
+            "region": "me-south-1",
+            "service": "AMAZON",
+            "network_border_group": "me-south-1"
         },
         {
             "ip_prefix": "173.83.216.0\/24",
@@ -20359,6 +20647,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "150.222.48.64\/27",
+            "region": "eu-south-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-south-1"
+        },
+        {
             "ip_prefix": "150.222.234.66\/31",
             "region": "us-west-1",
             "service": "AMAZON",
@@ -20521,6 +20815,12 @@
             "network_border_group": "cn-north-1"
         },
         {
+            "ip_prefix": "150.222.32.0\/24",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "150.222.142.0\/24",
             "region": "ap-southeast-2",
             "service": "AMAZON",
@@ -20597,6 +20897,12 @@
             "region": "eu-west-1",
             "service": "AMAZON",
             "network_border_group": "eu-west-1"
+        },
+        {
+            "ip_prefix": "150.222.45.32\/27",
+            "region": "me-south-1",
+            "service": "AMAZON",
+            "network_border_group": "me-south-1"
         },
         {
             "ip_prefix": "150.222.234.70\/31",
@@ -20765,6 +21071,12 @@
             "region": "us-east-2",
             "service": "AMAZON",
             "network_border_group": "us-east-2"
+        },
+        {
+            "ip_prefix": "150.222.36.192\/26",
+            "region": "us-west-1",
+            "service": "AMAZON",
+            "network_border_group": "us-west-1"
         },
         {
             "ip_prefix": "150.222.52.128\/27",
@@ -22735,6 +23047,12 @@
             "network_border_group": "eu-north-1"
         },
         {
+            "ip_prefix": "150.222.34.0\/24",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "162.213.233.0\/24",
             "region": "eu-west-1",
             "service": "AMAZON",
@@ -23389,6 +23707,18 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "150.222.39.64\/26",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
+        },
+        {
+            "ip_prefix": "150.222.43.192\/27",
+            "region": "ca-central-1",
+            "service": "AMAZON",
+            "network_border_group": "ca-central-1"
+        },
+        {
             "ip_prefix": "150.222.234.120\/31",
             "region": "us-west-1",
             "service": "AMAZON",
@@ -23719,6 +24049,12 @@
             "network_border_group": "il-central-1"
         },
         {
+            "ip_prefix": "150.222.40.128\/26",
+            "region": "us-east-2",
+            "service": "AMAZON",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ip_prefix": "150.222.97.0\/24",
             "region": "us-west-1",
             "service": "AMAZON",
@@ -23953,6 +24289,18 @@
             "network_border_group": "ap-southeast-4"
         },
         {
+            "ip_prefix": "150.222.35.0\/25",
+            "region": "eu-central-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-central-1"
+        },
+        {
+            "ip_prefix": "150.222.45.128\/25",
+            "region": "eu-west-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "151.148.38.0\/24",
             "region": "ap-southeast-1",
             "service": "AMAZON",
@@ -24157,6 +24505,12 @@
             "network_border_group": "ap-northeast-1"
         },
         {
+            "ip_prefix": "150.222.42.0\/26",
+            "region": "eu-north-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-north-1"
+        },
+        {
             "ip_prefix": "209.54.184.0\/21",
             "region": "eu-west-1",
             "service": "AMAZON",
@@ -24227,6 +24581,12 @@
             "region": "ap-south-1",
             "service": "AMAZON",
             "network_border_group": "ap-south-1"
+        },
+        {
+            "ip_prefix": "150.222.38.64\/26",
+            "region": "ap-northeast-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-northeast-1"
         },
         {
             "ip_prefix": "150.222.234.102\/32",
@@ -24305,6 +24665,12 @@
             "region": "ap-northeast-1",
             "service": "AMAZON",
             "network_border_group": "ap-northeast-1"
+        },
+        {
+            "ip_prefix": "150.222.38.192\/26",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
         },
         {
             "ip_prefix": "177.71.128.0\/17",
