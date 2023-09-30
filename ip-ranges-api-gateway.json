@@ -997,6 +997,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ip_prefix": "18.246.178.0\/23",
+            "region": "us-west-2",
+            "service": "API_GATEWAY",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "18.246.181.0\/24",
             "region": "us-west-2",
             "service": "API_GATEWAY",
