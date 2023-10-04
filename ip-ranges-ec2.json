@@ -8001,6 +8001,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ipv6_prefix": "2a05:d025:1000::\/36",
+            "region": "il-central-1",
+            "service": "EC2",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ipv6_prefix": "2605:9cc0:1ff0:1000::\/52",
             "region": "GLOBAL",
             "service": "EC2",
