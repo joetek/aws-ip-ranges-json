@@ -367,6 +367,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "3.2.52.0\/24",
+            "region": "us-east-1",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "3.2.48.0\/24",
             "region": "eu-west-2",
             "service": "GLOBALACCELERATOR",
