@@ -1027,6 +1027,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "51.44.0.0\/16",
+            "region": "eu-west-3",
+            "service": "EC2",
+            "network_border_group": "eu-west-3"
+        },
+        {
             "ip_prefix": "142.4.160.8\/29",
             "region": "us-east-1",
             "service": "EC2",
