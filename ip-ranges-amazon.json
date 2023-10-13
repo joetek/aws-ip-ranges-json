@@ -14677,6 +14677,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ip_prefix": "3.2.1.0\/24",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "3.5.216.0\/22",
             "region": "eu-north-1",
             "service": "AMAZON",
