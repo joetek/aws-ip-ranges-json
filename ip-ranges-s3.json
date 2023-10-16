@@ -1935,6 +1935,12 @@
             "network_border_group": "il-central-1"
         },
         {
+            "ipv6_prefix": "2406:daf0:800::\/40",
+            "region": "ap-southeast-5",
+            "service": "S3",
+            "network_border_group": "ap-southeast-5"
+        },
+        {
             "ipv6_prefix": "2600:1ffa:4000::\/40",
             "region": "us-west-2",
             "service": "S3",
@@ -2047,6 +2053,12 @@
             "region": "ap-south-2",
             "service": "S3",
             "network_border_group": "ap-south-2"
+        },
+        {
+            "ipv6_prefix": "2406:daa0:800::\/40",
+            "region": "ap-southeast-5",
+            "service": "S3",
+            "network_border_group": "ap-southeast-5"
         },
         {
             "ipv6_prefix": "2406:daf9:f000::\/40",
@@ -2647,6 +2659,12 @@
             "region": "ca-central-1",
             "service": "S3",
             "network_border_group": "ca-central-1"
+        },
+        {
+            "ipv6_prefix": "2406:da68:800::\/40",
+            "region": "ap-southeast-5",
+            "service": "S3",
+            "network_border_group": "ap-southeast-5"
         },
         {
             "ipv6_prefix": "2406:daf8:7000::\/40",
