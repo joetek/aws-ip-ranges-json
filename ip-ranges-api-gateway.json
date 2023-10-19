@@ -907,6 +907,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "3.146.44.0\/23",
+            "region": "us-east-2",
+            "service": "API_GATEWAY",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ip_prefix": "3.15.35.0\/24",
             "region": "us-east-2",
             "service": "API_GATEWAY",
