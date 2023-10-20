@@ -7881,6 +7881,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ipv6_prefix": "2406:da70:800:100::\/56",
+            "region": "ap-southeast-5",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-5"
+        },
+        {
             "ipv6_prefix": "2600:1f14::\/34",
             "region": "us-west-2",
             "service": "EC2",
@@ -8211,6 +8217,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ipv6_prefix": "2406:da10:8000::\/38",
+            "region": "ap-southeast-5",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-5"
+        },
+        {
             "ipv6_prefix": "2600:1f60:e000::\/40",
             "region": "sa-east-1",
             "service": "EC2",
@@ -8439,6 +8451,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ipv6_prefix": "2406:da70:800:200::\/56",
+            "region": "ap-southeast-5",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-5"
+        },
+        {
             "ipv6_prefix": "2600:1f61:1000::\/40",
             "region": "ca-central-1",
             "service": "EC2",
@@ -8455,6 +8473,12 @@
             "region": "ap-southeast-1",
             "service": "EC2",
             "network_border_group": "ap-southeast-1"
+        },
+        {
+            "ipv6_prefix": "2406:da10:8400::\/38",
+            "region": "ap-southeast-5",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-5"
         },
         {
             "ipv6_prefix": "2406:daf1:8000::\/40",
@@ -9207,6 +9231,12 @@
             "network_border_group": "ap-southeast-3"
         },
         {
+            "ipv6_prefix": "2406:da10:8c00::\/38",
+            "region": "ap-southeast-5",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-5"
+        },
+        {
             "ipv6_prefix": "2600:1f24::\/36",
             "region": "us-west-2",
             "service": "EC2",
@@ -9363,6 +9393,12 @@
             "network_border_group": "ca-west-1"
         },
         {
+            "ipv6_prefix": "2406:da00:800::\/64",
+            "region": "ap-southeast-5",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-5"
+        },
+        {
             "ipv6_prefix": "2406:da60:9000::\/40",
             "region": "ap-southeast-3",
             "service": "EC2",
@@ -9505,6 +9541,12 @@
             "region": "eu-south-2",
             "service": "EC2",
             "network_border_group": "eu-south-2"
+        },
+        {
+            "ipv6_prefix": "2406:da70:800:400::\/56",
+            "region": "ap-southeast-5",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-5"
         },
         {
             "ipv6_prefix": "2406:da70:1000::\/40",
@@ -9771,6 +9813,12 @@
             "network_border_group": "ap-northeast-1"
         },
         {
+            "ipv6_prefix": "2406:da70:800:500::\/56",
+            "region": "ap-southeast-5",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-5"
+        },
+        {
             "ipv6_prefix": "2406:daf2:7000::\/40",
             "region": "me-central-1",
             "service": "EC2",
@@ -9919,6 +9967,12 @@
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2"
+        },
+        {
+            "ipv6_prefix": "2406:da10:8800::\/38",
+            "region": "ap-southeast-5",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-5"
         },
         {
             "ipv6_prefix": "2406:daf1:4000::\/40",
@@ -10147,6 +10201,12 @@
             "region": "il-central-1",
             "service": "EC2",
             "network_border_group": "il-central-1"
+        },
+        {
+            "ipv6_prefix": "2406:da70:800:300::\/56",
+            "region": "ap-southeast-5",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-5"
         },
         {
             "ipv6_prefix": "2600:1ffd:80cb::\/48",
