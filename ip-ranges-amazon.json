@@ -32061,6 +32061,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ipv6_prefix": "2605:9cc0:1ff0:7000::\/56",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ipv6_prefix": "2620:107:4000:7a00::\/56",
             "region": "us-gov-east-1",
             "service": "AMAZON",
