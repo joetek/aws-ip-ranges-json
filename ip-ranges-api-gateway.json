@@ -271,6 +271,12 @@
             "network_border_group": "ap-northeast-3"
         },
         {
+            "ip_prefix": "13.200.140.0\/23",
+            "region": "ap-south-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ip_prefix": "13.235.228.0\/24",
             "region": "ap-south-1",
             "service": "API_GATEWAY",
