@@ -6687,6 +6687,12 @@
     ],
     "ipv6_prefixes": [
         {
+            "ipv6_prefix": "2600:f0f0:2::\/48",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2605:9cc0:1ff0:500::\/56",
             "region": "us-east-1",
             "service": "EC2",
