@@ -4585,6 +4585,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ip_prefix": "51.92.0.0\/16",
+            "region": "eu-south-2",
+            "service": "EC2",
+            "network_border_group": "eu-south-2"
+        },
+        {
             "ip_prefix": "52.60.0.0\/16",
             "region": "ca-central-1",
             "service": "EC2",
