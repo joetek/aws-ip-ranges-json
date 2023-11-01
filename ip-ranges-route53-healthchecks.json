@@ -141,6 +141,12 @@
     ],
     "ipv6_prefixes": [
         {
+            "ipv6_prefix": "2600:f0f0:304::\/48",
+            "region": "eu-central-1",
+            "service": "ROUTE53_HEALTHCHECKS",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2600:f0f0:300:100::\/56",
             "region": "us-west-2",
             "service": "ROUTE53_HEALTHCHECKS",

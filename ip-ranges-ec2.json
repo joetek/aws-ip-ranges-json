@@ -6987,6 +6987,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ipv6_prefix": "2600:f0f0:304::\/48",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2406:daf0:9000::\/40",
             "region": "ap-southeast-3",
             "service": "EC2",
