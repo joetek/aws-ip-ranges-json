@@ -1483,6 +1483,12 @@
             "network_border_group": "ap-southeast-3"
         },
         {
+            "ip_prefix": "43.218.193.112\/28",
+            "region": "ap-southeast-3",
+            "service": "S3",
+            "network_border_group": "ap-southeast-3"
+        },
+        {
             "ip_prefix": "43.218.193.96\/28",
             "region": "ap-southeast-3",
             "service": "S3",
@@ -1628,6 +1634,12 @@
         },
         {
             "ip_prefix": "3.29.147.48\/28",
+            "region": "me-central-1",
+            "service": "S3",
+            "network_border_group": "me-central-1"
+        },
+        {
+            "ip_prefix": "3.29.202.240\/28",
             "region": "me-central-1",
             "service": "S3",
             "network_border_group": "me-central-1"
