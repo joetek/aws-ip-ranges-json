@@ -1645,6 +1645,12 @@
             "network_border_group": "me-central-1"
         },
         {
+            "ip_prefix": "51.112.11.64\/28",
+            "region": "me-central-1",
+            "service": "S3",
+            "network_border_group": "me-central-1"
+        },
+        {
             "ip_prefix": "15.184.125.240\/28",
             "region": "me-south-1",
             "service": "S3",
