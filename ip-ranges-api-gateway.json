@@ -637,6 +637,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "3.255.16.0\/22",
+            "region": "eu-west-1",
+            "service": "API_GATEWAY",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ip_prefix": "13.40.202.0\/23",
             "region": "eu-west-2",
             "service": "API_GATEWAY",
