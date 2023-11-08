@@ -2251,6 +2251,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "3.5.214.0\/23",
+            "region": "ap-east-1",
+            "service": "EC2",
+            "network_border_group": "ap-east-1"
+        },
+        {
             "ip_prefix": "15.220.144.0\/23",
             "region": "eu-central-1",
             "service": "EC2",
@@ -6665,6 +6671,12 @@
             "region": "eu-central-2",
             "service": "EC2",
             "network_border_group": "eu-central-2"
+        },
+        {
+            "ip_prefix": "3.5.202.0\/23",
+            "region": "af-south-1",
+            "service": "EC2",
+            "network_border_group": "af-south-1"
         },
         {
             "ip_prefix": "3.5.224.0\/22",
