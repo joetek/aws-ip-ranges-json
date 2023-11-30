@@ -13903,6 +13903,12 @@
             "network_border_group": "ap-southeast-4"
         },
         {
+            "ip_prefix": "3.2.4.0\/23",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "13.34.48.128\/27",
             "region": "eu-west-1",
             "service": "AMAZON",
