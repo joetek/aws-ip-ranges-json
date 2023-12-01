@@ -33561,6 +33561,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ipv6_prefix": "2600:f0f0:30::\/44",
+            "region": "us-east-2",
+            "service": "AMAZON",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ipv6_prefix": "2406:da70:2000::\/40",
             "region": "ap-northeast-2",
             "service": "AMAZON",
