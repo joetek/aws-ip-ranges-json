@@ -1729,6 +1729,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ip_prefix": "54.112.0.0\/18",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "142.4.160.200\/29",
             "region": "us-east-1",
             "service": "EC2",
