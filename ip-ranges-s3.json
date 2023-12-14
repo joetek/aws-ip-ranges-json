@@ -1543,6 +1543,18 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "40.176.101.64\/28",
+            "region": "ca-west-1",
+            "service": "S3",
+            "network_border_group": "ca-west-1"
+        },
+        {
+            "ip_prefix": "40.176.98.240\/28",
+            "region": "ca-west-1",
+            "service": "S3",
+            "network_border_group": "ca-west-1"
+        },
+        {
             "ip_prefix": "3.65.246.0\/28",
             "region": "eu-central-1",
             "service": "S3",
