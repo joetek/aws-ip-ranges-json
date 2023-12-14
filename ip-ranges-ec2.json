@@ -61,6 +61,12 @@
             "network_border_group": "ap-southeast-2-akl-1"
         },
         {
+            "ip_prefix": "216.221.160.0\/19",
+            "region": "GLOBAL",
+            "service": "EC2",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "52.4.0.0\/14",
             "region": "us-east-1",
             "service": "EC2",
