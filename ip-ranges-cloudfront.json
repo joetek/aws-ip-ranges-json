@@ -91,12 +91,6 @@
             "network_border_group": "GLOBAL"
         },
         {
-            "ip_prefix": "205.251.200.0\/21",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ip_prefix": "13.32.0.0\/15",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
@@ -175,6 +169,18 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "205.251.201.0\/24",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "205.251.206.0\/23",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "54.230.208.0\/20",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
@@ -242,6 +248,12 @@
         },
         {
             "ip_prefix": "204.246.172.0\/24",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "205.251.202.0\/23",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
@@ -427,6 +439,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "205.251.204.0\/23",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "130.176.192.0\/19",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
@@ -434,6 +452,12 @@
         },
         {
             "ip_prefix": "52.124.128.0\/17",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "205.251.200.0\/24",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
