@@ -7047,6 +7047,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ipv6_prefix": "2600:1f10:c000::\/36",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:1ff0:e000::\/40",
             "region": "sa-east-1",
             "service": "EC2",
