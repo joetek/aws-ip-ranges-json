@@ -25436,9 +25436,9 @@
         },
         {
             "ip_prefix": "52.46.166.0\/23",
-            "region": "us-east-1",
+            "region": "GLOBAL",
             "service": "AMAZON",
-            "network_border_group": "us-east-1"
+            "network_border_group": "GLOBAL"
         },
         {
             "ip_prefix": "52.46.176.0\/22",
