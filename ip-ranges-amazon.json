@@ -3163,6 +3163,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ip_prefix": "99.82.8.0\/21",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "104.153.114.0\/24",
             "region": "eu-central-1",
             "service": "AMAZON",
