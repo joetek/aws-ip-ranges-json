@@ -3931,6 +3931,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ip_prefix": "13.202.0.0\/15",
+            "region": "ap-south-1",
+            "service": "EC2",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ip_prefix": "15.181.64.0\/20",
             "region": "us-west-2",
             "service": "EC2",
