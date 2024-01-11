@@ -6313,6 +6313,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "3.3.32.0\/23",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "52.95.255.0\/28",
             "region": "sa-east-1",
             "service": "EC2",
