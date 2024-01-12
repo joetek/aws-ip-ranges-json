@@ -145,6 +145,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ip_prefix": "51.16.183.224\/29",
+            "region": "il-central-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ip_prefix": "3.29.147.40\/29",
             "region": "me-central-1",
             "service": "EC2_INSTANCE_CONNECT",
