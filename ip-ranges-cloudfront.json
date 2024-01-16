@@ -685,6 +685,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "18.199.72.0\/22",
+            "region": "eu-central-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ip_prefix": "35.158.136.0\/24",
             "region": "eu-central-1",
             "service": "CLOUDFRONT",
