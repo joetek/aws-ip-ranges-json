@@ -235,6 +235,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "3.2.54.0\/24",
+            "region": "us-west-1",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "us-west-1"
+        },
+        {
             "ip_prefix": "15.197.12.0\/22",
             "region": "GLOBAL",
             "service": "GLOBALACCELERATOR",
