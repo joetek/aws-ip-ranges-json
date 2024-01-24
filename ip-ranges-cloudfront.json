@@ -877,6 +877,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "3.147.244.0\/22",
+            "region": "us-east-2",
+            "service": "CLOUDFRONT",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ip_prefix": "52.15.127.128\/26",
             "region": "us-east-2",
             "service": "CLOUDFRONT",
