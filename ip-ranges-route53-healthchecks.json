@@ -177,12 +177,6 @@
             "network_border_group": "cn-north-1"
         },
         {
-            "ipv6_prefix": "2400:7fc0:8e66:5a00::\/56",
-            "region": "cn-north-1",
-            "service": "ROUTE53_HEALTHCHECKS",
-            "network_border_group": "cn-north-1"
-        },
-        {
             "ipv6_prefix": "2404:c2c0:83cc:cc00::\/56",
             "region": "cn-northwest-1",
             "service": "ROUTE53_HEALTHCHECKS",
