@@ -589,6 +589,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "83.118.240.0\/21",
+            "region": "eusc-de-east-1",
+            "service": "S3",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
             "ip_prefix": "52.95.172.0\/23",
             "region": "me-south-1",
             "service": "S3",
