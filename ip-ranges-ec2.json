@@ -469,12 +469,6 @@
             "network_border_group": "us-west-2"
         },
         {
-            "ip_prefix": "15.197.64.0\/19",
-            "region": "GLOBAL",
-            "service": "EC2",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ip_prefix": "54.156.0.0\/14",
             "region": "us-east-1",
             "service": "EC2",
