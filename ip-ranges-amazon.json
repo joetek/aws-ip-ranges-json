@@ -4975,12 +4975,6 @@
             "network_border_group": "eu-central-1"
         },
         {
-            "ip_prefix": "54.26.0.0\/16",
-            "region": "eu-south-2",
-            "service": "AMAZON",
-            "network_border_group": "eu-south-2"
-        },
-        {
             "ip_prefix": "56.125.0.0\/16",
             "region": "sa-east-1",
             "service": "AMAZON",
