@@ -1285,12 +1285,6 @@
             "network_border_group": "ap-southeast-1"
         },
         {
-            "ip_prefix": "54.25.0.0\/16",
-            "region": "il-central-1",
-            "service": "EC2",
-            "network_border_group": "il-central-1"
-        },
-        {
             "ip_prefix": "64.252.68.0\/24",
             "region": "us-east-1",
             "service": "EC2",
