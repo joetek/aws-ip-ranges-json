@@ -115,6 +115,30 @@
             "network_border_group": "eu-north-1"
         },
         {
+            "ip_prefix": "13.48.4.200\/32",
+            "region": "eu-north-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "eu-north-1"
+        },
+        {
+            "ip_prefix": "13.48.4.201\/32",
+            "region": "eu-north-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "eu-north-1"
+        },
+        {
+            "ip_prefix": "13.48.4.202\/32",
+            "region": "eu-north-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "eu-north-1"
+        },
+        {
+            "ip_prefix": "13.48.4.203\/32",
+            "region": "eu-north-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "eu-north-1"
+        },
+        {
             "ip_prefix": "15.161.135.164\/30",
             "region": "eu-south-1",
             "service": "EC2_INSTANCE_CONNECT",
