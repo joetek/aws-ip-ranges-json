@@ -1801,6 +1801,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "56.112.0.0\/16",
+            "region": "ca-west-1",
+            "service": "EC2",
+            "network_border_group": "ca-west-1"
+        },
+        {
             "ip_prefix": "130.171.0.0\/26",
             "region": "ca-central-1",
             "service": "EC2",
