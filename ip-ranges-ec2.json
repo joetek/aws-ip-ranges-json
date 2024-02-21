@@ -4711,6 +4711,12 @@
             "network_border_group": "ap-southeast-1-bkk-1"
         },
         {
+            "ip_prefix": "56.155.0.0\/17",
+            "region": "ap-northeast-3",
+            "service": "EC2",
+            "network_border_group": "ap-northeast-3"
+        },
+        {
             "ip_prefix": "99.150.112.0\/21",
             "region": "ap-south-2",
             "service": "EC2",
