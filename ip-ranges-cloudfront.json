@@ -853,6 +853,30 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "44.220.196.0\/23",
+            "region": "us-east-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "44.220.198.0\/23",
+            "region": "us-east-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "44.220.200.0\/23",
+            "region": "us-east-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "44.220.202.0\/23",
+            "region": "us-east-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "44.222.66.0\/24",
             "region": "us-east-1",
             "service": "CLOUDFRONT",
