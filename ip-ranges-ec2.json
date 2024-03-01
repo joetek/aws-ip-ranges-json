@@ -9453,6 +9453,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ipv6_prefix": "2406:da18:8000::\/36",
+            "region": "ap-southeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-1"
+        },
+        {
             "ipv6_prefix": "2406:daf2:e000::\/40",
             "region": "ap-east-1",
             "service": "EC2",
@@ -9601,6 +9607,12 @@
             "region": "eu-central-1",
             "service": "EC2",
             "network_border_group": "eu-central-1"
+        },
+        {
+            "ipv6_prefix": "2406:da28:8000::\/36",
+            "region": "ap-southeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-1"
         },
         {
             "ipv6_prefix": "2a05:d000:e000::\/40",
