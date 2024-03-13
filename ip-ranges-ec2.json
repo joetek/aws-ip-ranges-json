@@ -325,6 +325,12 @@
             "network_border_group": "eu-south-1"
         },
         {
+            "ip_prefix": "40.172.0.0\/16",
+            "region": "me-central-1",
+            "service": "EC2",
+            "network_border_group": "me-central-1"
+        },
+        {
             "ip_prefix": "43.193.0.0\/18",
             "region": "cn-northwest-1",
             "service": "EC2",
