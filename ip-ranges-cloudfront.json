@@ -835,6 +835,18 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "18.230.229.0\/24",
+            "region": "sa-east-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "sa-east-1"
+        },
+        {
+            "ip_prefix": "18.230.230.0\/25",
+            "region": "sa-east-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "sa-east-1"
+        },
+        {
             "ip_prefix": "54.233.255.128\/26",
             "region": "sa-east-1",
             "service": "CLOUDFRONT",
