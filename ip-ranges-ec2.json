@@ -8223,6 +8223,12 @@
             "network_border_group": "us-east-1-wl1-atl-wlz-1"
         },
         {
+            "ipv6_prefix": "2606:7b40:1000:4000::\/52",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "2a05:d03a:6000::\/40",
             "region": "eu-north-1",
             "service": "EC2",
