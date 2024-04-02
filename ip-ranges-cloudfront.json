@@ -775,6 +775,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "18.175.67.0\/24",
+            "region": "eu-west-2",
+            "service": "CLOUDFRONT",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "3.10.17.128\/25",
             "region": "eu-west-2",
             "service": "CLOUDFRONT",
