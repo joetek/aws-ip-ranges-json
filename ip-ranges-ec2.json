@@ -7347,12 +7347,6 @@
             "network_border_group": "ap-northeast-2"
         },
         {
-            "ipv6_prefix": "2600:9000:5200:1000::\/56",
-            "region": "eu-west-1",
-            "service": "EC2",
-            "network_border_group": "eu-west-1"
-        },
-        {
             "ipv6_prefix": "2600:f0f0:1:1700::\/56",
             "region": "eu-central-1",
             "service": "EC2",
@@ -10411,6 +10405,12 @@
             "region": "eu-west-3",
             "service": "EC2",
             "network_border_group": "eu-west-3"
+        },
+        {
+            "ipv6_prefix": "2600:9000:5200::\/48",
+            "region": "eu-west-1",
+            "service": "EC2",
+            "network_border_group": "eu-west-1"
         },
         {
             "ipv6_prefix": "2a05:d072:8000::\/40",
