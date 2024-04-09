@@ -37833,12 +37833,6 @@
             "network_border_group": "us-east-1"
         },
         {
-            "ipv6_prefix": "2605:9cc0:1ff0:8100::\/56",
-            "region": "GLOBAL",
-            "service": "AMAZON",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ipv6_prefix": "2406:da1e::\/32",
             "region": "ap-east-1",
             "service": "AMAZON",
