@@ -7323,6 +7323,12 @@
             "network_border_group": "eu-south-2"
         },
         {
+            "ipv6_prefix": "2406:da61:8800::\/40",
+            "region": "ap-southeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-1"
+        },
+        {
             "ipv6_prefix": "2406:daf2:9000::\/40",
             "region": "ap-southeast-3",
             "service": "EC2",
@@ -8653,6 +8659,12 @@
             "region": "ap-southeast-5",
             "service": "EC2",
             "network_border_group": "ap-southeast-5"
+        },
+        {
+            "ipv6_prefix": "2406:da60:8800::\/40",
+            "region": "ap-southeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-1"
         },
         {
             "ipv6_prefix": "2406:daf7:40c1::\/48",
