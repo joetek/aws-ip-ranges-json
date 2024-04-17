@@ -745,12 +745,6 @@
             "network_border_group": "eu-central-1"
         },
         {
-            "ip_prefix": "13.48.32.0\/24",
-            "region": "eu-north-1",
-            "service": "CLOUDFRONT",
-            "network_border_group": "eu-north-1"
-        },
-        {
             "ip_prefix": "18.200.212.0\/23",
             "region": "eu-west-1",
             "service": "CLOUDFRONT",
