@@ -967,6 +967,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ip_prefix": "56.136.0.0\/16",
+            "region": "us-gov-west-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-west-1"
+        },
+        {
             "ip_prefix": "15.228.0.0\/15",
             "region": "sa-east-1",
             "service": "EC2",
