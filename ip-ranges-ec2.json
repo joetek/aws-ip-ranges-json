@@ -6819,12 +6819,6 @@
             "network_border_group": "us-west-2"
         },
         {
-            "ipv6_prefix": "2600:1fa0:8190::\/44",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ipv6_prefix": "2a05:d034:2000::\/40",
             "region": "eu-west-3",
             "service": "EC2",
@@ -8199,12 +8193,6 @@
             "network_border_group": "us-east-1"
         },
         {
-            "ipv6_prefix": "2600:1fa0:81d0::\/44",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ipv6_prefix": "2a05:d03a:5000::\/56",
             "region": "il-central-1",
             "service": "EC2",
@@ -8857,12 +8845,6 @@
             "region": "us-gov-east-1",
             "service": "EC2",
             "network_border_group": "us-gov-east-1"
-        },
-        {
-            "ipv6_prefix": "2600:1fa0:8150::\/44",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2a05:d03a:5000:200::\/56",
