@@ -229,6 +229,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ip_prefix": "3.5.88.0\/22",
+            "region": "eu-south-2",
+            "service": "S3",
+            "network_border_group": "eu-south-2"
+        },
+        {
             "ip_prefix": "3.5.208.0\/22",
             "region": "ap-south-1",
             "service": "S3",
