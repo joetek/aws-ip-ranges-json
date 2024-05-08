@@ -6687,12 +6687,6 @@
             "network_border_group": "eu-central-1"
         },
         {
-            "ipv6_prefix": "2606:7b40:10bc:d000::\/56",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ipv6_prefix": "2600:1f10:c000::\/36",
             "region": "us-east-1",
             "service": "EC2",
@@ -7551,12 +7545,6 @@
             "network_border_group": "ap-east-1"
         },
         {
-            "ipv6_prefix": "2606:7b40:10bc:d210::\/60",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ipv6_prefix": "2a05:d030:4000::\/40",
             "region": "eu-central-1",
             "service": "EC2",
@@ -7963,12 +7951,6 @@
             "region": "us-east-1",
             "service": "EC2",
             "network_border_group": "us-east-1"
-        },
-        {
-            "ipv6_prefix": "2606:7b40:10bc:e200::\/60",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
         },
         {
             "ipv6_prefix": "2600:1f14:8000::\/36",
@@ -8805,12 +8787,6 @@
             "network_border_group": "us-east-1"
         },
         {
-            "ipv6_prefix": "2606:7b40:10bc:e210::\/60",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ipv6_prefix": "2620:107:300f::\/48",
             "region": "us-west-1",
             "service": "EC2",
@@ -9235,12 +9211,6 @@
             "region": "us-east-1",
             "service": "EC2",
             "network_border_group": "us-east-1"
-        },
-        {
-            "ipv6_prefix": "2606:7b40:10bc:d200::\/60",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
         },
         {
             "ipv6_prefix": "2404:c2c0:2100::\/40",
