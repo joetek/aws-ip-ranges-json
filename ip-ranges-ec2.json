@@ -2059,6 +2059,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ip_prefix": "56.124.0.0\/17",
+            "region": "sa-east-1",
+            "service": "EC2",
+            "network_border_group": "sa-east-1"
+        },
+        {
             "ip_prefix": "99.77.253.0\/24",
             "region": "us-west-2",
             "service": "EC2",
