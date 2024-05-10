@@ -229,12 +229,6 @@
             "network_border_group": "ap-southeast-2"
         },
         {
-            "ip_prefix": "3.5.88.0\/22",
-            "region": "eu-south-2",
-            "service": "S3",
-            "network_border_group": "eu-south-2"
-        },
-        {
             "ip_prefix": "3.5.208.0\/22",
             "region": "ap-south-1",
             "service": "S3",
@@ -619,12 +613,6 @@
             "network_border_group": "me-south-1"
         },
         {
-            "ip_prefix": "16.12.81.0\/24",
-            "region": "il-central-1",
-            "service": "S3",
-            "network_border_group": "il-central-1"
-        },
-        {
             "ip_prefix": "3.5.64.0\/21",
             "region": "eu-west-1",
             "service": "S3",
@@ -911,12 +899,6 @@
             "region": "us-west-1",
             "service": "S3",
             "network_border_group": "us-west-1"
-        },
-        {
-            "ip_prefix": "16.12.82.0\/23",
-            "region": "il-central-1",
-            "service": "S3",
-            "network_border_group": "il-central-1"
         },
         {
             "ip_prefix": "52.219.64.0\/22",
