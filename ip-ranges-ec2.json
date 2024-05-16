@@ -2347,6 +2347,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "18.96.1.0\/24",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "18.163.0.0\/16",
             "region": "ap-east-1",
             "service": "EC2",
