@@ -3688,7 +3688,7 @@
             "ip_prefix": "96.0.110.0\/23",
             "region": "us-west-2",
             "service": "EC2",
-            "network_border_group": "us-west-2"
+            "network_border_group": "us-west-2-hnl-1"
         },
         {
             "ip_prefix": "99.77.55.2\/32",
@@ -5386,7 +5386,7 @@
             "ip_prefix": "96.0.160.0\/20",
             "region": "us-west-2",
             "service": "EC2",
-            "network_border_group": "us-west-2"
+            "network_border_group": "us-west-2-hnl-1"
         },
         {
             "ip_prefix": "173.83.218.0\/24",
