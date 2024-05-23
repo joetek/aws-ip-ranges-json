@@ -9945,12 +9945,6 @@
             "network_border_group": "ap-south-1"
         },
         {
-            "ipv6_prefix": "2606:7b40:1042:200::\/60",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ipv6_prefix": "2a05:d07f:a000::\/40",
             "region": "eu-south-1",
             "service": "EC2",
