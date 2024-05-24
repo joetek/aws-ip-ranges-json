@@ -10773,6 +10773,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ipv6_prefix": "2a05:d038:6000::\/40",
+            "region": "eu-north-1",
+            "service": "EC2",
+            "network_border_group": "eu-north-1"
+        },
+        {
             "ipv6_prefix": "2406:daf0:a000::\/40",
             "region": "ap-south-1",
             "service": "EC2",
