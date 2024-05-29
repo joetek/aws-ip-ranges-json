@@ -6921,12 +6921,6 @@
             "network_border_group": "il-central-1"
         },
         {
-            "ipv6_prefix": "2a05:d038:e000::\/48",
-            "region": "me-south-1",
-            "service": "EC2",
-            "network_border_group": "me-south-1"
-        },
-        {
             "ipv6_prefix": "2404:c2c0::\/40",
             "region": "cn-northwest-1",
             "service": "EC2",
@@ -7647,12 +7641,6 @@
             "network_border_group": "eu-central-1"
         },
         {
-            "ipv6_prefix": "2406:da38:1000::\/48",
-            "region": "af-south-1",
-            "service": "EC2",
-            "network_border_group": "af-south-1"
-        },
-        {
             "ipv6_prefix": "2600:1ffd:8149::\/48",
             "region": "ap-northeast-1",
             "service": "EC2",
@@ -7945,12 +7933,6 @@
             "region": "me-central-1",
             "service": "EC2",
             "network_border_group": "me-central-1"
-        },
-        {
-            "ipv6_prefix": "2406:da38:9000::\/48",
-            "region": "ap-southeast-3",
-            "service": "EC2",
-            "network_border_group": "ap-southeast-3"
         },
         {
             "ipv6_prefix": "2406:da60:1000::\/40",
@@ -8437,12 +8419,6 @@
             "region": "us-east-1",
             "service": "EC2",
             "network_border_group": "us-east-1"
-        },
-        {
-            "ipv6_prefix": "2a05:d038:4000::\/48",
-            "region": "eu-central-1",
-            "service": "EC2",
-            "network_border_group": "eu-central-1"
         },
         {
             "ipv6_prefix": "2406:daf0:6000::\/40",
@@ -9931,12 +9907,6 @@
             "region": "ap-northeast-2",
             "service": "EC2",
             "network_border_group": "ap-northeast-2"
-        },
-        {
-            "ipv6_prefix": "2a05:d038:2000::\/48",
-            "region": "eu-west-3",
-            "service": "EC2",
-            "network_border_group": "eu-west-3"
         },
         {
             "ipv6_prefix": "2a05:d077:60c1::\/48",
