@@ -10963,12 +10963,6 @@
             "region": "eu-west-1",
             "service": "EC2",
             "network_border_group": "eu-west-1"
-        },
-        {
-            "ipv6_prefix": "2606:7b40:10ff:f210::\/60",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
         }
     ]
 }
