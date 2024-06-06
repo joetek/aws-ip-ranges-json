@@ -289,12 +289,6 @@
             "network_border_group": "us-gov-west-1"
         },
         {
-            "ip_prefix": "130.171.0.128\/26",
-            "region": "ca-central-1",
-            "service": "EC2",
-            "network_border_group": "ca-central-1"
-        },
-        {
             "ip_prefix": "15.193.2.0\/24",
             "region": "ap-southeast-1",
             "service": "EC2",
@@ -1747,12 +1741,6 @@
             "network_border_group": "ca-west-1"
         },
         {
-            "ip_prefix": "130.171.0.0\/26",
-            "region": "ca-central-1",
-            "service": "EC2",
-            "network_border_group": "ca-central-1"
-        },
-        {
             "ip_prefix": "192.43.184.0\/24",
             "region": "us-east-2",
             "service": "EC2",
@@ -1907,12 +1895,6 @@
             "region": "us-west-1",
             "service": "EC2",
             "network_border_group": "us-west-1"
-        },
-        {
-            "ip_prefix": "130.171.0.64\/26",
-            "region": "ca-central-1",
-            "service": "EC2",
-            "network_border_group": "ca-central-1"
         },
         {
             "ip_prefix": "15.220.64.0\/20",

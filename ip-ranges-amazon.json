@@ -1615,12 +1615,6 @@
             "network_border_group": "us-gov-west-1"
         },
         {
-            "ip_prefix": "130.171.0.128\/26",
-            "region": "ca-central-1",
-            "service": "AMAZON",
-            "network_border_group": "ca-central-1"
-        },
-        {
             "ip_prefix": "150.222.44.192\/26",
             "region": "ap-southeast-2",
             "service": "AMAZON",
@@ -9259,12 +9253,6 @@
             "network_border_group": "GLOBAL"
         },
         {
-            "ip_prefix": "130.171.0.0\/26",
-            "region": "ca-central-1",
-            "service": "AMAZON",
-            "network_border_group": "ca-central-1"
-        },
-        {
             "ip_prefix": "150.222.234.26\/31",
             "region": "us-west-1",
             "service": "AMAZON",
@@ -10127,12 +10115,6 @@
             "region": "us-gov-east-1",
             "service": "AMAZON",
             "network_border_group": "us-gov-east-1"
-        },
-        {
-            "ip_prefix": "130.171.0.64\/26",
-            "region": "ca-central-1",
-            "service": "AMAZON",
-            "network_border_group": "ca-central-1"
         },
         {
             "ip_prefix": "136.18.18.0\/24",
