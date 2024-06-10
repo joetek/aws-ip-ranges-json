@@ -14833,6 +14833,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "35.96.16.0\/20",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "52.93.126.131\/32",
             "region": "ap-southeast-2",
             "service": "AMAZON",
