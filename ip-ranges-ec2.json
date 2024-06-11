@@ -10371,12 +10371,6 @@
             "network_border_group": "ap-south-1"
         },
         {
-            "ipv6_prefix": "2600:9000:5212::\/48",
-            "region": "eu-west-1",
-            "service": "EC2",
-            "network_border_group": "eu-west-1"
-        },
-        {
             "ipv6_prefix": "2a05:d03a:1000::\/40",
             "region": "eu-south-2",
             "service": "EC2",
