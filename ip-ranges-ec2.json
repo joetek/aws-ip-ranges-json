@@ -9801,12 +9801,6 @@
             "network_border_group": "us-east-1"
         },
         {
-            "ipv6_prefix": "2620:107:3002::\/64",
-            "region": "ca-central-1",
-            "service": "EC2",
-            "network_border_group": "ca-central-1"
-        },
-        {
             "ipv6_prefix": "2600:1f25:8000::\/36",
             "region": "us-east-1",
             "service": "EC2",
