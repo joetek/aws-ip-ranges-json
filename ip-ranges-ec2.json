@@ -6839,12 +6839,6 @@
             "region": "sa-east-1",
             "service": "EC2",
             "network_border_group": "sa-east-1"
-        },
-        {
-            "ip_prefix": "193.57.170.0\/24",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
         }
     ],
     "ipv6_prefixes": [
