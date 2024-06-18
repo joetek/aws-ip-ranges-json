@@ -10971,6 +10971,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ipv6_prefix": "2600:9000:5202::\/48",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "2620:107:4005::\/48",
             "region": "us-west-2",
             "service": "EC2",
