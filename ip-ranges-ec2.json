@@ -3103,6 +3103,12 @@
             "network_border_group": "ap-east-1"
         },
         {
+            "ip_prefix": "18.99.240.0\/20",
+            "region": "us-gov-west-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-west-1"
+        },
+        {
             "ip_prefix": "18.188.0.0\/16",
             "region": "us-east-2",
             "service": "EC2",
@@ -6413,6 +6419,12 @@
             "region": "ap-east-1",
             "service": "EC2",
             "network_border_group": "ap-east-1"
+        },
+        {
+            "ip_prefix": "18.99.112.0\/20",
+            "region": "us-gov-east-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-east-1"
         },
         {
             "ip_prefix": "96.0.130.0\/24",
