@@ -7611,6 +7611,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ipv6_prefix": "2600:f002:c000::\/40",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2404:c2c0:c000::\/36",
             "region": "cn-northwest-1",
             "service": "EC2",
