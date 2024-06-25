@@ -5713,6 +5713,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "35.96.144.0\/20",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "54.76.0.0\/15",
             "region": "eu-west-1",
             "service": "EC2",
