@@ -97,6 +97,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "40.176.213.168\/29",
+            "region": "ca-west-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "ca-west-1"
+        },
+        {
             "ip_prefix": "3.120.181.40\/29",
             "region": "eu-central-1",
             "service": "EC2_INSTANCE_CONNECT",
