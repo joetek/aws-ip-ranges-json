@@ -7695,6 +7695,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ipv6_prefix": "2606:f40:fff8::\/48",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2406:daf2:a000::\/40",
             "region": "ap-south-1",
             "service": "EC2",
@@ -8971,6 +8977,12 @@
             "region": "sa-east-1",
             "service": "EC2",
             "network_border_group": "sa-east-1"
+        },
+        {
+            "ipv6_prefix": "2606:f40:fff9::\/48",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
         },
         {
             "ipv6_prefix": "2606:7b40:10ff:f000::\/56",
