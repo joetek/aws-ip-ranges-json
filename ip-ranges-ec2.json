@@ -3673,6 +3673,12 @@
             "network_border_group": "ap-southeast-3"
         },
         {
+            "ip_prefix": "51.0.29.128\/28",
+            "region": "eusc-de-east-1",
+            "service": "EC2",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
             "ip_prefix": "54.152.0.0\/16",
             "region": "us-east-1",
             "service": "EC2",
