@@ -443,6 +443,12 @@
             "region": "ap-south-2",
             "service": "DYNAMODB",
             "network_border_group": "ap-south-2"
+        },
+        {
+            "ip_prefix": "51.0.28.0\/24",
+            "region": "eusc-de-east-1",
+            "service": "DYNAMODB",
+            "network_border_group": "eusc-de-east-1"
         }
     ],
     "ipv6_prefixes": []
