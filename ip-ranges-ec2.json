@@ -2095,6 +2095,12 @@
             "network_border_group": "us-west-2-lax-1"
         },
         {
+            "ip_prefix": "173.82.8.0\/24",
+            "region": "me-south-1",
+            "service": "EC2",
+            "network_border_group": "me-south-1-mct-1"
+        },
+        {
             "ip_prefix": "3.5.48.0\/22",
             "region": "me-central-1",
             "service": "EC2",
