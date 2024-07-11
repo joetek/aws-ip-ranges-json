@@ -11025,6 +11025,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ipv6_prefix": "2606:7b40:10ff:d2f0::\/60",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "2a05:d000:e000::\/40",
             "region": "me-south-1",
             "service": "EC2",
