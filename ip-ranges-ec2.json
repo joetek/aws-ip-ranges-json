@@ -9357,6 +9357,12 @@
             "network_border_group": "ap-northeast-1"
         },
         {
+            "ipv6_prefix": "2606:7b40:10ff:a250::\/60",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "240f:80ff:8000::\/40",
             "region": "cn-north-1",
             "service": "EC2",
