@@ -745,6 +745,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ip_prefix": "173.82.12.0\/24",
+            "region": "af-south-1",
+            "service": "EC2",
+            "network_border_group": "af-south-1-los-1"
+        },
+        {
             "ip_prefix": "3.5.36.0\/22",
             "region": "ap-southeast-3",
             "service": "EC2",
@@ -4757,6 +4763,12 @@
             "region": "ap-south-1",
             "service": "EC2",
             "network_border_group": "ap-south-1"
+        },
+        {
+            "ip_prefix": "173.82.14.0\/24",
+            "region": "ap-northeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-northeast-1-tpe-1"
         },
         {
             "ip_prefix": "204.236.192.0\/18",
