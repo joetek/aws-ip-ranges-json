@@ -3580,7 +3580,7 @@
             "ip_prefix": "173.82.4.0\/24",
             "region": "us-east-1",
             "service": "EC2",
-            "network_border_group": "us-east-1-lim-1"
+            "network_border_group": "us-east-1-bos-1"
         },
         {
             "ip_prefix": "15.152.0.0\/16",
