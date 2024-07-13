@@ -5803,6 +5803,12 @@
             "network_border_group": "us-east-1-wl1-dfw-wlz-1"
         },
         {
+            "ip_prefix": "173.82.7.0\/24",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2-las-1"
+        },
+        {
             "ip_prefix": "43.198.0.0\/15",
             "region": "ap-east-1",
             "service": "EC2",
