@@ -4003,12 +4003,6 @@
             "network_border_group": "eu-central-1"
         },
         {
-            "ip_prefix": "173.82.12.0\/24",
-            "region": "af-south-1",
-            "service": "AMAZON",
-            "network_border_group": "af-south-1-los-1"
-        },
-        {
             "ip_prefix": "185.143.16.0\/24",
             "region": "eu-west-1",
             "service": "AMAZON",
@@ -10745,12 +10739,6 @@
             "region": "us-west-1",
             "service": "AMAZON",
             "network_border_group": "us-west-1"
-        },
-        {
-            "ip_prefix": "173.82.8.0\/24",
-            "region": "me-south-1",
-            "service": "AMAZON",
-            "network_border_group": "me-south-1-mct-1"
         },
         {
             "ip_prefix": "3.5.48.0\/22",
