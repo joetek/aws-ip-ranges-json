@@ -3511,12 +3511,6 @@
             "network_border_group": "us-west-1"
         },
         {
-            "ip_prefix": "173.82.15.0\/24",
-            "region": "ap-southeast-1",
-            "service": "EC2",
-            "network_border_group": "ap-southeast-1-mnl-1"
-        },
-        {
             "ip_prefix": "13.48.0.0\/15",
             "region": "eu-north-1",
             "service": "EC2",
@@ -3568,7 +3562,7 @@
             "ip_prefix": "173.82.4.0\/24",
             "region": "us-east-1",
             "service": "EC2",
-            "network_border_group": "us-east-1-lim-1"
+            "network_border_group": "us-east-1-bos-1"
         },
         {
             "ip_prefix": "15.152.0.0\/16",
@@ -3833,12 +3827,6 @@
             "region": "us-east-1",
             "service": "EC2",
             "network_border_group": "us-east-1"
-        },
-        {
-            "ip_prefix": "173.82.9.0\/24",
-            "region": "eu-north-1",
-            "service": "EC2",
-            "network_border_group": "eu-north-1-cph-1"
         },
         {
             "ip_prefix": "184.72.0.0\/18",
@@ -5662,7 +5650,7 @@
             "ip_prefix": "173.82.16.0\/24",
             "region": "ap-southeast-2",
             "service": "EC2",
-            "network_border_group": "ap-southeast-2-per-1"
+            "network_border_group": "ap-southeast-2-akl-1"
         },
         {
             "ip_prefix": "13.230.0.0\/15",
@@ -5794,7 +5782,7 @@
             "ip_prefix": "173.82.7.0\/24",
             "region": "us-west-2",
             "service": "EC2",
-            "network_border_group": "us-west-2-sea-1"
+            "network_border_group": "us-west-2-pdx-1"
         },
         {
             "ip_prefix": "43.198.0.0\/15",
@@ -5939,6 +5927,12 @@
             "region": "eu-west-1",
             "service": "EC2",
             "network_border_group": "eu-west-1"
+        },
+        {
+            "ip_prefix": "173.82.6.0\/24",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-scl-1"
         },
         {
             "ip_prefix": "173.83.212.0\/24",
