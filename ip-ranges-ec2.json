@@ -3643,12 +3643,6 @@
             "network_border_group": "ca-central-1"
         },
         {
-            "ip_prefix": "173.82.5.0\/24",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1-mci-1"
-        },
-        {
             "ip_prefix": "3.5.248.0\/22",
             "region": "eu-south-1",
             "service": "EC2",
@@ -4991,6 +4985,12 @@
             "region": "eu-west-1",
             "service": "EC2",
             "network_border_group": "eu-west-1"
+        },
+        {
+            "ip_prefix": "173.82.13.0\/24",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1-ham-1"
         },
         {
             "ip_prefix": "13.210.0.0\/15",
