@@ -2089,6 +2089,12 @@
             "network_border_group": "us-west-2-lax-1"
         },
         {
+            "ip_prefix": "83.119.128.0\/18",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ip_prefix": "3.5.48.0\/22",
             "region": "me-central-1",
             "service": "EC2",
