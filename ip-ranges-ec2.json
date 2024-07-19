@@ -7665,6 +7665,12 @@
             "network_border_group": "cn-northwest-1"
         },
         {
+            "ipv6_prefix": "2a05:d02b::\/36",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2a05:d075:2000::\/40",
             "region": "eu-west-3",
             "service": "EC2",
@@ -8245,6 +8251,12 @@
             "region": "cn-northwest-1",
             "service": "EC2",
             "network_border_group": "cn-northwest-1"
+        },
+        {
+            "ipv6_prefix": "2a05:d01b::\/36",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
         },
         {
             "ipv6_prefix": "2406:da18::\/36",
