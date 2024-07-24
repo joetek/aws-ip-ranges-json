@@ -8949,6 +8949,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ipv6_prefix": "2400:7fc0:a000::\/36",
+            "region": "cn-north-1",
+            "service": "EC2",
+            "network_border_group": "cn-north-1"
+        },
+        {
             "ipv6_prefix": "2600:1f23:8000::\/36",
             "region": "us-east-1",
             "service": "EC2",
