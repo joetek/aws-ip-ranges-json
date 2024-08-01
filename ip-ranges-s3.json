@@ -2355,6 +2355,12 @@
             "network_border_group": "ap-northeast-3"
         },
         {
+            "ipv6_prefix": "2406:daa0:8800::\/40",
+            "region": "ap-southeast-1",
+            "service": "S3",
+            "network_border_group": "ap-southeast-1"
+        },
+        {
             "ipv6_prefix": "2600:1ff8:2000::\/40",
             "region": "us-gov-west-1",
             "service": "S3",
