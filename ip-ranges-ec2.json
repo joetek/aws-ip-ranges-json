@@ -8247,6 +8247,12 @@
             "network_border_group": "eu-south-1"
         },
         {
+            "ipv6_prefix": "2a05:d077:b000::\/40",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2406:da69:e000::\/40",
             "region": "ap-east-1",
             "service": "EC2",
@@ -8428,6 +8434,12 @@
         },
         {
             "ipv6_prefix": "2a05:d030:4000::\/40",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
+            "ipv6_prefix": "2a05:d071:b000::\/40",
             "region": "eu-central-1",
             "service": "EC2",
             "network_border_group": "eu-central-1"
@@ -8617,6 +8629,12 @@
             "region": "il-central-1",
             "service": "EC2",
             "network_border_group": "il-central-1"
+        },
+        {
+            "ipv6_prefix": "2a05:d07b:b000::\/40",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
         },
         {
             "ipv6_prefix": "2406:daf1:7000::\/40",
@@ -9009,6 +9027,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ipv6_prefix": "2a05:d074:b000::\/56",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2406:daf6:8000::\/40",
             "region": "ap-southeast-1",
             "service": "EC2",
@@ -9213,6 +9237,12 @@
             "network_border_group": "il-central-1"
         },
         {
+            "ipv6_prefix": "2a05:d075:b000::\/56",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2a05:d076:e000::\/40",
             "region": "me-south-1",
             "service": "EC2",
@@ -9247,6 +9277,12 @@
             "region": "eu-west-3",
             "service": "EC2",
             "network_border_group": "eu-west-3"
+        },
+        {
+            "ipv6_prefix": "2a05:d058:b000::\/40",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
         },
         {
             "ipv6_prefix": "2600:1f60:e000::\/40",
@@ -9397,6 +9433,12 @@
             "region": "eu-west-3",
             "service": "EC2",
             "network_border_group": "eu-west-3"
+        },
+        {
+            "ipv6_prefix": "2a05:d072:b000::\/40",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
         },
         {
             "ipv6_prefix": "2406:daf1:6000::\/40",
@@ -9907,6 +9949,12 @@
             "region": "eu-south-2",
             "service": "EC2",
             "network_border_group": "eu-south-2"
+        },
+        {
+            "ipv6_prefix": "2a05:d07f:b000::\/40",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
         },
         {
             "ipv6_prefix": "2600:1f68:8000::\/39",
@@ -10533,6 +10581,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ipv6_prefix": "2a05:d035:b080::\/46",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2600:1ff1:2000::\/40",
             "region": "us-gov-west-1",
             "service": "EC2",
@@ -11091,6 +11145,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ipv6_prefix": "2a05:d074:b080::\/48",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2406:da00:7000::\/40",
             "region": "me-central-1",
             "service": "EC2",
@@ -11245,6 +11305,12 @@
             "region": "us-west-1",
             "service": "EC2",
             "network_border_group": "us-west-1"
+        },
+        {
+            "ipv6_prefix": "2a05:d038:b000::\/40",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
         },
         {
             "ipv6_prefix": "2a05:d071:e000::\/40",
@@ -11889,6 +11955,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ipv6_prefix": "2a05:d03a:b000::\/40",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2406:da12::\/36",
             "region": "ap-northeast-2",
             "service": "EC2",
@@ -12183,6 +12255,12 @@
             "network_border_group": "eu-north-1"
         },
         {
+            "ipv6_prefix": "2a05:d070:b000::\/56",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2a05:d07b:4000::\/40",
             "region": "eu-central-1",
             "service": "EC2",
@@ -12267,6 +12345,12 @@
             "network_border_group": "ap-northeast-1"
         },
         {
+            "ipv6_prefix": "2a05:d031:b080::\/48",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2600:f0f0:1:1400::\/56",
             "region": "ap-southeast-2",
             "service": "EC2",
@@ -12349,6 +12433,12 @@
             "region": "us-east-1",
             "service": "EC2",
             "network_border_group": "us-east-1"
+        },
+        {
+            "ipv6_prefix": "2a05:d076:b000::\/40",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
         },
         {
             "ipv6_prefix": "2600:1f60:c000::\/40",

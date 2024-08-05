@@ -2559,6 +2559,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ipv6_prefix": "2a05:d050:b000::\/40",
+            "region": "eu-central-1",
+            "service": "S3",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2a05:d070:2000::\/40",
             "region": "eu-west-3",
             "service": "S3",
@@ -2983,6 +2989,12 @@
             "region": "ap-southeast-4",
             "service": "S3",
             "network_border_group": "ap-southeast-4"
+        },
+        {
+            "ipv6_prefix": "2a05:d070:b000::\/56",
+            "region": "eu-central-1",
+            "service": "S3",
+            "network_border_group": "eu-central-1"
         },
         {
             "ipv6_prefix": "2406:da68:1000::\/40",
