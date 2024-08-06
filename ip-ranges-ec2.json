@@ -1273,12 +1273,6 @@
             "network_border_group": "ap-southeast-1"
         },
         {
-            "ip_prefix": "35.96.1.0\/24",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ip_prefix": "64.252.68.0\/24",
             "region": "us-east-1",
             "service": "EC2",
