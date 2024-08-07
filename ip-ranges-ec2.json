@@ -5371,6 +5371,12 @@
             "network_border_group": "us-east-1-mci-1"
         },
         {
+            "ip_prefix": "35.96.2.0\/24",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "35.154.0.0\/16",
             "region": "ap-south-1",
             "service": "EC2",
