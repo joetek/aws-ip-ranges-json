@@ -85,6 +85,12 @@
             "network_border_group": "il-central-1"
         },
         {
+            "ip_prefix": "35.71.122.0\/24",
+            "region": "il-central-1",
+            "service": "DYNAMODB",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ip_prefix": "35.71.99.0\/24",
             "region": "me-south-1",
             "service": "DYNAMODB",
