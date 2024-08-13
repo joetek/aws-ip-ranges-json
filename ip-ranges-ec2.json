@@ -9465,6 +9465,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ipv6_prefix": "2404:c2c0:3100::\/40",
+            "region": "cn-northwest-1",
+            "service": "EC2",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
             "ipv6_prefix": "2406:da60:a000::\/40",
             "region": "ap-south-1",
             "service": "EC2",
