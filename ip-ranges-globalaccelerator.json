@@ -813,6 +813,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ipv6_prefix": "2600:1f01:48f2::\/47",
+            "region": "eu-central-1",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2600:1f01:48d0::\/47",
             "region": "eu-north-1",
             "service": "GLOBALACCELERATOR",
