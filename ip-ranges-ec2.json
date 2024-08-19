@@ -2683,6 +2683,12 @@
             "network_border_group": "eu-north-1"
         },
         {
+            "ip_prefix": "16.176.0.0\/16",
+            "region": "ap-southeast-2",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-2"
+        },
+        {
             "ip_prefix": "35.96.48.0\/20",
             "region": "eu-central-1",
             "service": "EC2",
