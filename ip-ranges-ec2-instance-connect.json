@@ -207,6 +207,12 @@
             "network_border_group": "ap-northeast-1"
         },
         {
+            "ipv6_prefix": "2406:da18:752:6600::\/56",
+            "region": "ap-southeast-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "ap-southeast-1"
+        },
+        {
             "ipv6_prefix": "2a05:d018:403:4e00::\/56",
             "region": "eu-west-1",
             "service": "EC2_INSTANCE_CONNECT",
@@ -217,6 +223,12 @@
             "region": "us-east-1",
             "service": "EC2_INSTANCE_CONNECT",
             "network_border_group": "us-east-1"
+        },
+        {
+            "ipv6_prefix": "2600:1f1c:12d:e900::\/56",
+            "region": "us-west-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "us-west-1"
         },
         {
             "ipv6_prefix": "2600:1f13:a0d:a700::\/56",
