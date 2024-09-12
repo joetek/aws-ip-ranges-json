@@ -4915,6 +4915,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ip_prefix": "56.228.0.0\/16",
+            "region": "eu-north-1",
+            "service": "EC2",
+            "network_border_group": "eu-north-1"
+        },
+        {
             "ip_prefix": "99.77.242.0\/24",
             "region": "ap-northeast-2",
             "service": "EC2",
