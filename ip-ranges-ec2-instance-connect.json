@@ -201,6 +201,18 @@
     ],
     "ipv6_prefixes": [
         {
+            "ipv6_prefix": "2406:da11:700:3b00::\/56",
+            "region": "af-south-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "af-south-1"
+        },
+        {
+            "ipv6_prefix": "2406:da1e:da1:3c00::\/56",
+            "region": "ap-east-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "ap-east-1"
+        },
+        {
             "ipv6_prefix": "2406:da14:1c18:2100::\/56",
             "region": "ap-northeast-1",
             "service": "EC2_INSTANCE_CONNECT",
@@ -219,6 +231,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ipv6_prefix": "2406:da1b:d1d:8800::\/56",
+            "region": "ap-south-2",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "ap-south-2"
+        },
+        {
             "ipv6_prefix": "2406:da18:752:6600::\/56",
             "region": "ap-southeast-1",
             "service": "EC2_INSTANCE_CONNECT",
@@ -229,6 +247,12 @@
             "region": "ap-southeast-2",
             "service": "EC2_INSTANCE_CONNECT",
             "network_border_group": "ap-southeast-2"
+        },
+        {
+            "ipv6_prefix": "2406:da19:14b:8c00::\/56",
+            "region": "ap-southeast-3",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "ap-southeast-3"
         },
         {
             "ipv6_prefix": "2600:1f11:ae3:700::\/56",
@@ -265,6 +289,18 @@
             "region": "eu-west-3",
             "service": "EC2_INSTANCE_CONNECT",
             "network_border_group": "eu-west-3"
+        },
+        {
+            "ipv6_prefix": "2406:da17:1db:b00::\/56",
+            "region": "me-central-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "me-central-1"
+        },
+        {
+            "ipv6_prefix": "2a05:d01e:27f:ac00::\/56",
+            "region": "me-south-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "me-south-1"
         },
         {
             "ipv6_prefix": "2600:1f1e:d1d:e700::\/56",
