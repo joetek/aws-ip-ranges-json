@@ -273,6 +273,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ipv6_prefix": "2600:1f1a:4ff6:d500::\/56",
+            "region": "ca-west-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "ca-west-1"
+        },
+        {
             "ipv6_prefix": "2a05:d014:17a8:8b00::\/56",
             "region": "eu-central-1",
             "service": "EC2_INSTANCE_CONNECT",
