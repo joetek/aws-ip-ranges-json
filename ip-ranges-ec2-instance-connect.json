@@ -201,6 +201,18 @@
     ],
     "ipv6_prefixes": [
         {
+            "ipv6_prefix": "2400:7fc0:86fd:e00::\/56",
+            "region": "cn-north-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "cn-north-1"
+        },
+        {
+            "ipv6_prefix": "2404:c2c0:87aa:4800::\/56",
+            "region": "cn-northwest-1",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
             "ipv6_prefix": "2600:1f15:d63:bd00::\/56",
             "region": "us-gov-east-1",
             "service": "EC2_INSTANCE_CONNECT",
