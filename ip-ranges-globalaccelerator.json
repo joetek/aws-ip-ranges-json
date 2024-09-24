@@ -367,6 +367,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ip_prefix": "93.77.128.0\/19",
+            "region": "GLOBAL",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "99.82.160.0\/24",
             "region": "ap-south-1",
             "service": "GLOBALACCELERATOR",

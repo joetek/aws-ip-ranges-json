@@ -14329,6 +14329,12 @@
             "network_border_group": "ap-northeast-3"
         },
         {
+            "ip_prefix": "93.77.128.0\/19",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "108.166.244.36\/32",
             "region": "us-east-2",
             "service": "AMAZON",
