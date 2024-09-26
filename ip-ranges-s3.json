@@ -2169,10 +2169,22 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ipv6_prefix": "2001:3fc7:9800::\/40",
+            "region": "eusc-de-east-1",
+            "service": "S3",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
             "ipv6_prefix": "240f:80fa:8000::\/40",
             "region": "cn-north-1",
             "service": "S3",
             "network_border_group": "cn-north-1"
+        },
+        {
+            "ipv6_prefix": "2001:3fc3:4800::\/40",
+            "region": "eusc-de-east-1",
+            "service": "S3",
+            "network_border_group": "eusc-de-east-1"
         },
         {
             "ipv6_prefix": "2406:daf8:b000::\/40",
@@ -2263,6 +2275,12 @@
             "region": "eu-south-1",
             "service": "S3",
             "network_border_group": "eu-south-1"
+        },
+        {
+            "ipv6_prefix": "2001:3fc5:800::\/40",
+            "region": "eusc-de-east-1",
+            "service": "S3",
+            "network_border_group": "eusc-de-east-1"
         },
         {
             "ipv6_prefix": "2406:daf8:9000::\/40",
@@ -2383,6 +2401,12 @@
             "region": "eu-west-3",
             "service": "S3",
             "network_border_group": "eu-west-3"
+        },
+        {
+            "ipv6_prefix": "2001:3fc7:800::\/40",
+            "region": "eusc-de-east-1",
+            "service": "S3",
+            "network_border_group": "eusc-de-east-1"
         },
         {
             "ipv6_prefix": "2400:7fc0:200::\/40",
@@ -2679,6 +2703,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ipv6_prefix": "2001:3fc7:a800::\/40",
+            "region": "eusc-de-east-1",
+            "service": "S3",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
             "ipv6_prefix": "2406:daf0:2800::\/40",
             "region": "ap-southeast-6",
             "service": "S3",
@@ -2869,6 +2899,12 @@
             "region": "us-east-2",
             "service": "S3",
             "network_border_group": "us-east-2"
+        },
+        {
+            "ipv6_prefix": "2001:3fc7:8800::\/40",
+            "region": "eusc-de-east-1",
+            "service": "S3",
+            "network_border_group": "eusc-de-east-1"
         },
         {
             "ipv6_prefix": "2600:1fa0:1000::\/40",
