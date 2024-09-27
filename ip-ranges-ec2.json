@@ -5461,12 +5461,6 @@
             "network_border_group": "eu-west-3"
         },
         {
-            "ip_prefix": "52.129.225.0\/24",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ip_prefix": "173.83.216.0\/24",
             "region": "eu-west-3",
             "service": "EC2",
