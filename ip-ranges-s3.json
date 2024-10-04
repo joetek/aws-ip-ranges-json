@@ -457,6 +457,12 @@
             "network_border_group": "mx-central-1"
         },
         {
+            "ip_prefix": "16.15.8.0\/22",
+            "region": "ap-southeast-6",
+            "service": "S3",
+            "network_border_group": "ap-southeast-6"
+        },
+        {
             "ip_prefix": "52.95.156.0\/24",
             "region": "eu-west-3",
             "service": "S3",
