@@ -4135,6 +4135,12 @@
             "network_border_group": "us-west-2-den-1"
         },
         {
+            "ip_prefix": "54.46.0.0\/17",
+            "region": "ap-east-1",
+            "service": "EC2",
+            "network_border_group": "ap-east-1"
+        },
+        {
             "ip_prefix": "99.151.96.0\/21",
             "region": "us-gov-east-1",
             "service": "EC2",
