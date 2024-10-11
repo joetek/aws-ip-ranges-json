@@ -769,6 +769,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "142.4.164.0\/24",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "15.188.0.0\/16",
             "region": "eu-west-3",
             "service": "EC2",
