@@ -4327,6 +4327,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ip_prefix": "192.157.37.0\/24",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "3.5.216.0\/22",
             "region": "eu-north-1",
             "service": "EC2",
@@ -9547,6 +9553,12 @@
             "region": "ca-central-1",
             "service": "EC2",
             "network_border_group": "ca-central-1"
+        },
+        {
+            "ipv6_prefix": "2602:f7db:10::\/44",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2a05:d076:6000::\/40",
