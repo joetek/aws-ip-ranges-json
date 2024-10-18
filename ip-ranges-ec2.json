@@ -9969,6 +9969,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ipv6_prefix": "2602:f7db::\/44",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "2a05:d030:2000::\/40",
             "region": "eu-west-3",
             "service": "EC2",
