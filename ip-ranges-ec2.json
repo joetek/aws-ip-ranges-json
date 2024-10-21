@@ -5521,6 +5521,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "51.94.0.0\/15",
+            "region": "eu-south-2",
+            "service": "EC2",
+            "network_border_group": "eu-south-2"
+        },
+        {
             "ip_prefix": "3.16.0.0\/14",
             "region": "us-east-2",
             "service": "EC2",
