@@ -439,6 +439,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "16.15.12.0\/23",
+            "region": "eu-south-2",
+            "service": "S3",
+            "network_border_group": "eu-south-2"
+        },
+        {
             "ip_prefix": "3.5.48.0\/22",
             "region": "me-central-1",
             "service": "S3",
