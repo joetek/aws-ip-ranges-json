@@ -9585,6 +9585,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ipv6_prefix": "2602:f7db:10::\/44",
+            "region": "us-gov-east-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-east-1"
+        },
+        {
             "ipv6_prefix": "2a05:d076:6000::\/40",
             "region": "eu-north-1",
             "service": "EC2",
@@ -10003,6 +10009,12 @@
             "region": "ap-southeast-1",
             "service": "EC2",
             "network_border_group": "ap-southeast-1"
+        },
+        {
+            "ipv6_prefix": "2602:f7db::\/44",
+            "region": "us-gov-west-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-west-1"
         },
         {
             "ipv6_prefix": "2a05:d030:2000::\/40",
