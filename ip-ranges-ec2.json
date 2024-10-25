@@ -7797,6 +7797,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ipv6_prefix": "2600:f0f3:ce00::\/42",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2001:3fc5:8800::\/40",
             "region": "eusc-de-east-1",
             "service": "EC2",
@@ -12127,6 +12133,12 @@
             "region": "ap-southeast-6",
             "service": "EC2",
             "network_border_group": "ap-southeast-6"
+        },
+        {
+            "ipv6_prefix": "2600:f0f3:ce40::\/42",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2406:da68:8000::\/40",
