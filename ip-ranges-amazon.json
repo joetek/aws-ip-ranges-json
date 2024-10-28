@@ -1795,12 +1795,6 @@
             "network_border_group": "me-south-1"
         },
         {
-            "ip_prefix": "16.64.0.0\/16",
-            "region": "us-gov-east-1",
-            "service": "AMAZON",
-            "network_border_group": "us-gov-east-1"
-        },
-        {
             "ip_prefix": "18.191.0.0\/16",
             "region": "us-east-2",
             "service": "AMAZON",
@@ -17035,6 +17029,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ip_prefix": "16.64.0.0\/17",
+            "region": "us-gov-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-gov-east-1"
+        },
+        {
             "ip_prefix": "51.0.88.0\/21",
             "region": "me-central-1",
             "service": "AMAZON",
@@ -19511,6 +19511,12 @@
             "region": "us-east-1",
             "service": "AMAZON",
             "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "192.189.197.0\/24",
+            "region": "us-east-2",
+            "service": "AMAZON",
+            "network_border_group": "us-east-2"
         },
         {
             "ip_prefix": "13.248.109.0\/24",
