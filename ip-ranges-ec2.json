@@ -3073,6 +3073,12 @@
             "network_border_group": "us-east-1-wl1-clt-wlz-1"
         },
         {
+            "ip_prefix": "35.96.6.0\/24",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "50.19.0.0\/16",
             "region": "us-east-1",
             "service": "EC2",
