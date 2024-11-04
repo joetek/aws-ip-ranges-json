@@ -6362,9 +6362,9 @@
         },
         {
             "ip_prefix": "204.87.185.0\/24",
-            "region": "eu-north-1",
+            "region": "us-east-1",
             "service": "EC2",
-            "network_border_group": "eu-north-1"
+            "network_border_group": "us-east-1"
         },
         {
             "ip_prefix": "5.60.112.0\/22",
