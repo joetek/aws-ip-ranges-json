@@ -3577,6 +3577,12 @@
             "network_border_group": "ca-west-1"
         },
         {
+            "ip_prefix": "40.192.0.0\/17",
+            "region": "ap-south-2",
+            "service": "EC2",
+            "network_border_group": "ap-south-2"
+        },
+        {
             "ip_prefix": "52.20.0.0\/14",
             "region": "us-east-1",
             "service": "EC2",
