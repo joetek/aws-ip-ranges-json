@@ -337,6 +337,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ip_prefix": "13.204.0.0\/14",
+            "region": "ap-south-1",
+            "service": "EC2",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ip_prefix": "15.181.247.0\/24",
             "region": "us-east-1",
             "service": "EC2",
