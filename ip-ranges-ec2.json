@@ -1681,6 +1681,12 @@
             "network_border_group": "ap-northeast-1-tpe-1"
         },
         {
+            "ip_prefix": "35.96.7.0\/24",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "99.77.55.32\/32",
             "region": "eu-south-2",
             "service": "EC2",
