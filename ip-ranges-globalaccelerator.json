@@ -307,6 +307,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "166.117.0.0\/16",
+            "region": "GLOBAL",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "3.2.8.0\/21",
             "region": "GLOBAL",
             "service": "GLOBALACCELERATOR",
