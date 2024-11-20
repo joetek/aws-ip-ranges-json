@@ -7621,6 +7621,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ip_prefix": "18.96.8.0\/21",
+            "region": "us-gov-west-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-west-1"
+        },
+        {
             "ip_prefix": "54.222.58.32\/28",
             "region": "cn-north-1",
             "service": "EC2",
