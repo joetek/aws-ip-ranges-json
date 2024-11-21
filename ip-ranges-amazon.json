@@ -25615,7 +25615,19 @@
             "network_border_group": "ap-southeast-7"
         },
         {
+            "ip_prefix": "43.208.53.0\/24",
+            "region": "ap-southeast-7",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-7"
+        },
+        {
             "ip_prefix": "43.208.54.0\/24",
+            "region": "ap-southeast-7",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-7"
+        },
+        {
+            "ip_prefix": "43.208.55.0\/24",
             "region": "ap-southeast-7",
             "service": "AMAZON",
             "network_border_group": "ap-southeast-7"
@@ -26576,6 +26588,18 @@
         },
         {
             "ip_prefix": "78.12.61.0\/24",
+            "region": "mx-central-1",
+            "service": "AMAZON",
+            "network_border_group": "mx-central-1"
+        },
+        {
+            "ip_prefix": "78.12.62.0\/24",
+            "region": "mx-central-1",
+            "service": "AMAZON",
+            "network_border_group": "mx-central-1"
+        },
+        {
+            "ip_prefix": "78.12.63.0\/24",
             "region": "mx-central-1",
             "service": "AMAZON",
             "network_border_group": "mx-central-1"
