@@ -7561,6 +7561,12 @@
             "network_border_group": "me-south-1-mct-1"
         },
         {
+            "ip_prefix": "35.96.9.0\/24",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "216.39.152.0\/21",
             "region": "eu-west-2",
             "service": "EC2",
