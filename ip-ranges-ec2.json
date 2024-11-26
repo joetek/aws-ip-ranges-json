@@ -2671,12 +2671,6 @@
             "network_border_group": "ap-southeast-2"
         },
         {
-            "ip_prefix": "15.220.96.0\/20",
-            "region": "ap-southeast-1",
-            "service": "EC2",
-            "network_border_group": "ap-southeast-1"
-        },
-        {
             "ip_prefix": "18.96.96.0\/19",
             "region": "me-central-1",
             "service": "EC2",
@@ -7055,12 +7049,6 @@
             "region": "us-east-1",
             "service": "EC2",
             "network_border_group": "us-east-1"
-        },
-        {
-            "ip_prefix": "15.220.44.0\/22",
-            "region": "ap-southeast-1",
-            "service": "EC2",
-            "network_border_group": "ap-southeast-1"
         },
         {
             "ip_prefix": "52.94.250.128\/28",
