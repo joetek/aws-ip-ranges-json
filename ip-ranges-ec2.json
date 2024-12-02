@@ -1651,6 +1651,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "51.45.0.0\/16",
+            "region": "eu-west-3",
+            "service": "EC2",
+            "network_border_group": "eu-west-3"
+        },
+        {
             "ip_prefix": "52.56.0.0\/16",
             "region": "eu-west-2",
             "service": "EC2",
