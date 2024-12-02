@@ -35343,12 +35343,6 @@
             "network_border_group": "ap-southeast-5"
         },
         {
-            "ipv6_prefix": "2600:1f01:4900::\/40",
-            "region": "GLOBAL",
-            "service": "AMAZON",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ipv6_prefix": "2600:1f32:2000::\/40",
             "region": "us-gov-west-1",
             "service": "AMAZON",
