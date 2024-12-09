@@ -3307,6 +3307,12 @@
             "network_border_group": "us-east-1-bos-1"
         },
         {
+            "ip_prefix": "206.72.209.0\/24",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "35.50.177.0\/24",
             "region": "sa-east-1",
             "service": "EC2",
@@ -10585,6 +10591,12 @@
             "region": "ca-central-1",
             "service": "EC2",
             "network_border_group": "ca-central-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:11::\/48",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2406:da68:6000::\/40",
