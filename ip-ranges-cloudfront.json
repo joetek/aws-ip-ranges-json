@@ -637,6 +637,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ip_prefix": "13.203.133.0\/26",
+            "region": "ap-south-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ip_prefix": "13.233.177.192\/26",
             "region": "ap-south-1",
             "service": "CLOUDFRONT",
