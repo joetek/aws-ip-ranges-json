@@ -9861,6 +9861,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ipv6_prefix": "2600:1f30:8040::\/48",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:1ff4:8000::\/39",
             "region": "us-east-1",
             "service": "EC2",
