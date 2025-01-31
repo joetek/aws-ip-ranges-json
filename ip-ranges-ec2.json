@@ -3097,6 +3097,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "54.25.14.0\/24",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "64.252.117.0\/24",
             "region": "eu-west-1",
             "service": "EC2",
