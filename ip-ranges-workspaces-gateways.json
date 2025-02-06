@@ -561,6 +561,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ipv6_prefix": "2a05:d025:1000::\/48",
+            "region": "il-central-1",
+            "service": "WORKSPACES_GATEWAYS",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ipv6_prefix": "2600:1f2e:14::\/48",
             "region": "sa-east-1",
             "service": "WORKSPACES_GATEWAYS",
