@@ -7879,6 +7879,12 @@
             "network_border_group": "cn-north-1"
         },
         {
+            "ip_prefix": "56.155.128.0\/17",
+            "region": "ap-northeast-3",
+            "service": "EC2",
+            "network_border_group": "ap-northeast-3"
+        },
+        {
             "ip_prefix": "96.0.48.0\/21",
             "region": "us-east-1",
             "service": "EC2",
