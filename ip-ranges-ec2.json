@@ -343,6 +343,12 @@
             "network_border_group": "us-east-1-mci-1"
         },
         {
+            "ip_prefix": "23.228.193.0\/24",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "35.50.238.0\/24",
             "region": "ap-northeast-2",
             "service": "EC2",
@@ -3932,6 +3938,12 @@
         },
         {
             "ip_prefix": "98.80.0.0\/13",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "23.228.192.0\/24",
             "region": "us-east-1",
             "service": "EC2",
             "network_border_group": "us-east-1"
