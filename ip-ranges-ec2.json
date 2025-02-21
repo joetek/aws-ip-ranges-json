@@ -4381,6 +4381,12 @@
             "network_border_group": "eu-south-2"
         },
         {
+            "ip_prefix": "5.174.0.0\/16",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "15.220.204.0\/24",
             "region": "us-west-2",
             "service": "EC2",
