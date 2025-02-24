@@ -33795,6 +33795,12 @@
             "network_border_group": "us-gov-west-1"
         },
         {
+            "ipv6_prefix": "2600:1ff9:8160::\/46",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:1ffd:838e::\/48",
             "region": "eu-west-1",
             "service": "AMAZON",
