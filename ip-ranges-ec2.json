@@ -5143,6 +5143,12 @@
             "network_border_group": "us-gov-west-1"
         },
         {
+            "ip_prefix": "51.118.0.0\/16",
+            "region": "eu-south-1",
+            "service": "EC2",
+            "network_border_group": "eu-south-1"
+        },
+        {
             "ip_prefix": "71.132.0.0\/18",
             "region": "cn-north-1",
             "service": "EC2",
