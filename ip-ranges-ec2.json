@@ -8979,12 +8979,6 @@
             "network_border_group": "eu-central-2"
         },
         {
-            "ipv6_prefix": "2406:da00:2800::\/64",
-            "region": "ap-southeast-6",
-            "service": "EC2",
-            "network_border_group": "ap-southeast-6"
-        },
-        {
             "ipv6_prefix": "2600:1f27:4000::\/36",
             "region": "mx-central-1",
             "service": "EC2",
@@ -13837,6 +13831,12 @@
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2"
+        },
+        {
+            "ipv6_prefix": "2406:da00:2800::\/40",
+            "region": "ap-southeast-6",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-6"
         },
         {
             "ipv6_prefix": "2600:1f32:6000::\/40",
