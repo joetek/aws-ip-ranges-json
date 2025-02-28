@@ -307,6 +307,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ip_prefix": "15.193.11.0\/24",
+            "region": "ap-northeast-3",
+            "service": "EC2",
+            "network_border_group": "ap-northeast-3"
+        },
+        {
             "ip_prefix": "18.200.0.0\/16",
             "region": "eu-west-1",
             "service": "EC2",
@@ -8692,6 +8698,12 @@
         },
         {
             "ipv6_prefix": "2600:f0f0:1:a00::\/56",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
+            "ipv6_prefix": "2606:7b40:10ff:a2d0::\/60",
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2"
