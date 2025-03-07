@@ -7681,12 +7681,6 @@
             "network_border_group": "eu-central-1"
         },
         {
-            "ip_prefix": "51.0.30.0\/24",
-            "region": "eusc-de-east-1",
-            "service": "AMAZON",
-            "network_border_group": "eusc-de-east-1"
-        },
-        {
             "ip_prefix": "52.90.0.0\/15",
             "region": "us-east-1",
             "service": "AMAZON",
