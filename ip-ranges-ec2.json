@@ -2359,6 +2359,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ip_prefix": "13.62.0.0\/15",
+            "region": "eu-north-1",
+            "service": "EC2",
+            "network_border_group": "eu-north-1"
+        },
+        {
             "ip_prefix": "15.177.86.0\/24",
             "region": "ap-east-1",
             "service": "EC2",
