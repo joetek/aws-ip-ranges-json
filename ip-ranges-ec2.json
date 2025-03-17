@@ -2539,6 +2539,12 @@
             "network_border_group": "eu-central-1-ham-1"
         },
         {
+            "ip_prefix": "16.56.64.0\/18",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "51.21.0.0\/16",
             "region": "eu-north-1",
             "service": "EC2",
