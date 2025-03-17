@@ -5683,12 +5683,6 @@
             "network_border_group": "ca-central-1"
         },
         {
-            "ip_prefix": "24.110.9.0\/24",
-            "region": "me-central-1",
-            "service": "EC2",
-            "network_border_group": "me-central-1"
-        },
-        {
             "ip_prefix": "35.96.244.0\/24",
             "region": "us-west-2",
             "service": "EC2",

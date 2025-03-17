@@ -319,6 +319,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "159.248.133.0\/24",
+            "region": "ap-east-1",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "ap-east-1"
+        },
+        {
             "ip_prefix": "3.2.8.0\/21",
             "region": "GLOBAL",
             "service": "GLOBALACCELERATOR",
