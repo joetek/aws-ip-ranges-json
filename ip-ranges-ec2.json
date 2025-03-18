@@ -9441,6 +9441,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ipv6_prefix": "2600:1f22:c000::\/36",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:f0f0:10::\/48",
             "region": "eu-west-1",
             "service": "EC2",
@@ -12415,6 +12421,12 @@
             "region": "ap-northeast-2",
             "service": "EC2",
             "network_border_group": "ap-northeast-2"
+        },
+        {
+            "ipv6_prefix": "2600:1f12:c000::\/36",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2600:1f14:4000::\/36",
