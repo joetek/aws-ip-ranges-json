@@ -919,6 +919,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "56.125.48.0\/24",
+            "region": "sa-east-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "sa-east-1"
+        },
+        {
             "ip_prefix": "3.231.2.0\/25",
             "region": "us-east-1",
             "service": "CLOUDFRONT",
