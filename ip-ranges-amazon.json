@@ -27403,13 +27403,31 @@
             "network_border_group": "ap-east-2"
         },
         {
+            "ip_prefix": "43.212.65.0\/24",
+            "region": "ap-east-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-east-2"
+        },
+        {
             "ip_prefix": "43.212.66.0\/24",
             "region": "ap-east-2",
             "service": "AMAZON",
             "network_border_group": "ap-east-2"
         },
         {
+            "ip_prefix": "43.212.67.0\/24",
+            "region": "ap-east-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-east-2"
+        },
+        {
             "ip_prefix": "43.212.68.0\/24",
+            "region": "ap-east-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-east-2"
+        },
+        {
+            "ip_prefix": "43.212.69.0\/24",
             "region": "ap-east-2",
             "service": "AMAZON",
             "network_border_group": "ap-east-2"
