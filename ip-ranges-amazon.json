@@ -7003,6 +7003,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ip_prefix": "16.15.20.0\/22",
+            "region": "eu-central-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ip_prefix": "16.185.0.0\/16",
             "region": "ap-northeast-2",
             "service": "AMAZON",
