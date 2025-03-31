@@ -7693,6 +7693,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "51.48.0.0\/15",
+            "region": "eu-south-2",
+            "service": "EC2",
+            "network_border_group": "eu-south-2"
+        },
+        {
             "ip_prefix": "99.77.135.0\/24",
             "region": "eu-west-3",
             "service": "EC2",
@@ -8665,6 +8671,12 @@
             "region": "ca-west-1",
             "service": "EC2",
             "network_border_group": "ca-west-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:90::\/48",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2606:7b40:1b0f:c000::\/56",
