@@ -133,6 +133,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "15.177.106.0\/24",
+            "region": "me-west-1",
+            "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
+            "network_border_group": "me-west-1"
+        },
+        {
             "ip_prefix": "15.177.72.0\/24",
             "region": "eu-north-1",
             "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",

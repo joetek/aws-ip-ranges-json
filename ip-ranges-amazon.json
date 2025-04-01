@@ -16585,6 +16585,12 @@
             "network_border_group": "ap-east-1"
         },
         {
+            "ip_prefix": "15.177.106.0\/24",
+            "region": "me-west-1",
+            "service": "AMAZON",
+            "network_border_group": "me-west-1"
+        },
+        {
             "ip_prefix": "15.230.246.0\/24",
             "region": "ap-south-2",
             "service": "AMAZON",

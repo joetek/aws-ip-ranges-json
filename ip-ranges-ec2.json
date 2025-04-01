@@ -4951,6 +4951,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ip_prefix": "15.177.106.0\/24",
+            "region": "me-west-1",
+            "service": "EC2",
+            "network_border_group": "me-west-1"
+        },
+        {
             "ip_prefix": "18.96.224.0\/19",
             "region": "ap-south-1",
             "service": "EC2",
