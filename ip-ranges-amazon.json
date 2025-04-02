@@ -4807,6 +4807,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "3.173.192.0\/18",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "15.181.241.0\/24",
             "region": "us-east-1",
             "service": "AMAZON",
