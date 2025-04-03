@@ -1,6 +1,12 @@
 {
     "prefixes": [
         {
+            "ip_prefix": "205.251.200.0\/23",
+            "region": "GLOBAL",
+            "service": "ROUTE53",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "52.95.110.0\/24",
             "region": "GLOBAL",
             "service": "ROUTE53",
