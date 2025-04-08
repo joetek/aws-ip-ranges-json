@@ -8307,6 +8307,12 @@
             "network_border_group": "eu-south-1"
         },
         {
+            "ipv6_prefix": "2a05:d030:840::\/46",
+            "region": "me-west-1",
+            "service": "EC2",
+            "network_border_group": "me-west-1"
+        },
+        {
             "ipv6_prefix": "2a05:d036:8000::\/40",
             "region": "eu-west-1",
             "service": "EC2",
@@ -12625,12 +12631,6 @@
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2"
-        },
-        {
-            "ipv6_prefix": "2a05:d030:800::\/40",
-            "region": "me-west-1",
-            "service": "EC2",
-            "network_border_group": "me-west-1"
         },
         {
             "ipv6_prefix": "2a05:d070:2000::\/40",
