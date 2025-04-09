@@ -28579,6 +28579,12 @@
             "network_border_group": "eu-north-1"
         },
         {
+            "ip_prefix": "51.21.133.128\/25",
+            "region": "eu-north-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-north-1"
+        },
+        {
             "ip_prefix": "51.21.183.0\/24",
             "region": "eu-north-1",
             "service": "AMAZON",
