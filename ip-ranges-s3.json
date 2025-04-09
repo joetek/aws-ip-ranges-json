@@ -2943,6 +2943,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ipv6_prefix": "2a05:d030:800::\/40",
+            "region": "me-west-1",
+            "service": "S3",
+            "network_border_group": "me-west-1"
+        },
+        {
             "ipv6_prefix": "2a05:d050:b000::\/40",
             "region": "eu-central-1",
             "service": "S3",

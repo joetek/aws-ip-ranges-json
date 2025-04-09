@@ -12621,6 +12621,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ipv6_prefix": "2a05:d030:800::\/40",
+            "region": "me-west-1",
+            "service": "EC2",
+            "network_border_group": "me-west-1"
+        },
+        {
             "ipv6_prefix": "2a05:d070:2000::\/40",
             "region": "eu-west-3",
             "service": "EC2",
