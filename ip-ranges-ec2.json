@@ -4687,6 +4687,12 @@
             "network_border_group": "ap-northeast-3"
         },
         {
+            "ip_prefix": "158.252.0.0\/15",
+            "region": "me-central-1",
+            "service": "EC2",
+            "network_border_group": "me-central-1"
+        },
+        {
             "ip_prefix": "16.16.0.0\/16",
             "region": "eu-north-1",
             "service": "EC2",
