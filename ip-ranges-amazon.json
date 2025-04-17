@@ -40737,12 +40737,6 @@
             "network_border_group": "GLOBAL"
         },
         {
-            "ipv6_prefix": "2600:f0f0:4100::\/40",
-            "region": "GLOBAL",
-            "service": "AMAZON",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ipv6_prefix": "2400:7fc0:4000:100::\/56",
             "region": "cn-north-1",
             "service": "AMAZON",
