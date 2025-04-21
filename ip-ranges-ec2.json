@@ -1747,6 +1747,12 @@
             "network_border_group": "us-gov-east-1"
         },
         {
+            "ip_prefix": "198.41.107.0\/24",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-iah-2"
+        },
+        {
             "ip_prefix": "16.15.192.0\/18",
             "region": "us-east-1",
             "service": "EC2",
