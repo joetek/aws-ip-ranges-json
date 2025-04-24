@@ -5743,6 +5743,12 @@
             "network_border_group": "ap-southeast-7"
         },
         {
+            "ip_prefix": "18.97.112.0\/20",
+            "region": "ap-east-2",
+            "service": "EC2",
+            "network_border_group": "ap-east-2"
+        },
+        {
             "ip_prefix": "3.13.0.0\/16",
             "region": "us-east-2",
             "service": "EC2",
