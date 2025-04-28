@@ -463,6 +463,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "3.2.59.0\/24",
+            "region": "eu-west-1",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ip_prefix": "99.82.162.0\/24",
             "region": "eu-west-1",
             "service": "GLOBALACCELERATOR",
