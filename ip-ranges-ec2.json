@@ -11751,6 +11751,12 @@
             "network_border_group": "eusc-de-east-1"
         },
         {
+            "ipv6_prefix": "2404:c2c0:bb00::\/56",
+            "region": "cn-northwest-1",
+            "service": "EC2",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
             "ipv6_prefix": "2600:1f1f:8000::\/36",
             "region": "us-east-1",
             "service": "EC2",
@@ -13179,6 +13185,12 @@
             "network_border_group": "ap-southeast-3"
         },
         {
+            "ipv6_prefix": "2400:7fc0:bb00::\/40",
+            "region": "cn-north-1",
+            "service": "EC2",
+            "network_border_group": "cn-north-1"
+        },
+        {
             "ipv6_prefix": "240f:8000:4000::\/40",
             "region": "cn-northwest-1",
             "service": "EC2",
@@ -13198,6 +13210,12 @@
         },
         {
             "ipv6_prefix": "2400:7fc0:8000::\/36",
+            "region": "cn-north-1",
+            "service": "EC2",
+            "network_border_group": "cn-north-1"
+        },
+        {
+            "ipv6_prefix": "2400:7fc0:ee00::\/40",
             "region": "cn-north-1",
             "service": "EC2",
             "network_border_group": "cn-north-1"
