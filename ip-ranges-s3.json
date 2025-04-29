@@ -1525,6 +1525,18 @@
             "network_border_group": "ap-east-1"
         },
         {
+            "ip_prefix": "43.212.135.0\/28",
+            "region": "ap-east-2",
+            "service": "S3",
+            "network_border_group": "ap-east-2"
+        },
+        {
+            "ip_prefix": "43.212.135.16\/28",
+            "region": "ap-east-2",
+            "service": "S3",
+            "network_border_group": "ap-east-2"
+        },
+        {
             "ip_prefix": "35.72.164.240\/28",
             "region": "ap-northeast-1",
             "service": "S3",
