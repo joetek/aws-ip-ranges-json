@@ -7,5 +7,12 @@
             "network_border_group": "GLOBAL"
         }
     ],
-    "ipv6_prefixes": []
+    "ipv6_prefixes": [
+        {
+            "ipv6_prefix": "2600:f0f0:4100::\/40",
+            "region": "GLOBAL",
+            "service": "CHIME_MEETINGS",
+            "network_border_group": "GLOBAL"
+        }
+    ]
 }
