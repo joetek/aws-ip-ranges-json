@@ -4285,6 +4285,12 @@
             "network_border_group": "us-east-1-wl1-bna-wlz-1"
         },
         {
+            "ip_prefix": "13.162.0.0\/16",
+            "region": "ap-south-1",
+            "service": "EC2",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ip_prefix": "18.182.0.0\/16",
             "region": "ap-northeast-1",
             "service": "EC2",
