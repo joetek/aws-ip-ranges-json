@@ -6859,6 +6859,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "35.128.127.128\/25",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "52.32.0.0\/14",
             "region": "us-west-2",
             "service": "EC2",
