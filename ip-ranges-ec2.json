@@ -1885,6 +1885,12 @@
             "network_border_group": "us-west-2-wl1-sea-wlz-1"
         },
         {
+            "ip_prefix": "168.185.5.0\/24",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "3.5.252.0\/22",
             "region": "ca-central-1",
             "service": "EC2",
@@ -15073,6 +15079,12 @@
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2"
+        },
+        {
+            "ipv6_prefix": "2600:f0fb:f020::\/48",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
         },
         {
             "ipv6_prefix": "2600:1f22::\/36",
