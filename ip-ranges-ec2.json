@@ -8011,6 +8011,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "35.55.127.0\/24",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "177.71.128.0\/17",
             "region": "sa-east-1",
             "service": "EC2",
@@ -10141,6 +10147,12 @@
             "region": "ap-southeast-1",
             "service": "EC2",
             "network_border_group": "ap-southeast-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:11ff::\/48",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
         },
         {
             "ipv6_prefix": "2600:f0fb:ef00::\/40",
