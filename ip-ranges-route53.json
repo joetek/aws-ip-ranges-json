@@ -1,35 +1,4 @@
 {
-    "prefixes": [
-        {
-            "ip_prefix": "205.251.200.0\/23",
-            "region": "GLOBAL",
-            "service": "ROUTE53",
-            "network_border_group": "GLOBAL"
-        },
-        {
-            "ip_prefix": "52.95.110.0\/24",
-            "region": "GLOBAL",
-            "service": "ROUTE53",
-            "network_border_group": "GLOBAL"
-        },
-        {
-            "ip_prefix": "205.251.192.0\/21",
-            "region": "GLOBAL",
-            "service": "ROUTE53",
-            "network_border_group": "GLOBAL"
-        },
-        {
-            "ip_prefix": "3.4.32.0\/20",
-            "region": "GLOBAL",
-            "service": "ROUTE53",
-            "network_border_group": "GLOBAL"
-        },
-        {
-            "ip_prefix": "63.246.114.0\/23",
-            "region": "GLOBAL",
-            "service": "ROUTE53",
-            "network_border_group": "GLOBAL"
-        }
-    ],
+    "prefixes": [],
     "ipv6_prefixes": []
 }
