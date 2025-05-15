@@ -331,6 +331,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ip_prefix": "66.7.0.0\/21",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "99.150.56.0\/21",
             "region": "us-west-2",
             "service": "EC2",

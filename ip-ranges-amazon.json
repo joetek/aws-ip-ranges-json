@@ -1189,6 +1189,12 @@
             "network_border_group": "eu-south-1"
         },
         {
+            "ip_prefix": "66.7.0.0\/21",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "99.150.56.0\/21",
             "region": "us-west-2",
             "service": "AMAZON",
