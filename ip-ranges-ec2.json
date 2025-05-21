@@ -553,6 +553,12 @@
             "network_border_group": "me-south-1"
         },
         {
+            "ip_prefix": "35.55.126.0\/24",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "54.156.0.0\/14",
             "region": "us-east-1",
             "service": "EC2",
@@ -8875,6 +8881,12 @@
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2-phx-2"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:11fe::\/48",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
         },
         {
             "ipv6_prefix": "2a05:d034:2000::\/40",
