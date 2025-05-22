@@ -871,6 +871,18 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ip_prefix": "51.44.236.0\/23",
+            "region": "eu-west-3",
+            "service": "CLOUDFRONT",
+            "network_border_group": "eu-west-3"
+        },
+        {
+            "ip_prefix": "51.44.238.0\/23",
+            "region": "eu-west-3",
+            "service": "CLOUDFRONT",
+            "network_border_group": "eu-west-3"
+        },
+        {
             "ip_prefix": "52.47.139.0\/24",
             "region": "eu-west-3",
             "service": "CLOUDFRONT",
