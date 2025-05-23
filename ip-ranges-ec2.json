@@ -1303,6 +1303,12 @@
             "network_border_group": "us-gov-west-1"
         },
         {
+            "ip_prefix": "64.252.126.0\/24",
+            "region": "eu-west-3",
+            "service": "EC2",
+            "network_border_group": "eu-west-3"
+        },
+        {
             "ip_prefix": "15.177.102.0\/24",
             "region": "mx-central-1",
             "service": "EC2",
