@@ -12429,6 +12429,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ipv6_prefix": "2600:9000:5213::\/48",
+            "region": "eu-west-3",
+            "service": "EC2",
+            "network_border_group": "eu-west-3"
+        },
+        {
             "ipv6_prefix": "2605:9cc0:1ff0:700::\/56",
             "region": "us-east-1",
             "service": "EC2",
