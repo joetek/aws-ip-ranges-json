@@ -14247,6 +14247,12 @@
             "network_border_group": "us-east-1-mia-1"
         },
         {
+            "ipv6_prefix": "2606:7b40:1a4f:c200::\/60",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "2406:da60:e000::\/40",
             "region": "ap-east-1",
             "service": "EC2",
