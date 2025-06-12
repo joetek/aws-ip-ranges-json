@@ -2967,6 +2967,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ipv6_prefix": "2400:7fc0:6000::\/40",
+            "region": "cn-north-1",
+            "service": "S3",
+            "network_border_group": "cn-north-1"
+        },
+        {
             "ipv6_prefix": "2406:da60:2800::\/40",
             "region": "ap-southeast-6",
             "service": "S3",
@@ -3459,6 +3465,12 @@
             "network_border_group": "eu-central-2"
         },
         {
+            "ipv6_prefix": "2404:c2c0:6000::\/40",
+            "region": "cn-northwest-1",
+            "service": "S3",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
             "ipv6_prefix": "2600:1ff4:2000::\/40",
             "region": "us-gov-west-1",
             "service": "S3",
@@ -3553,6 +3565,12 @@
             "region": "eu-north-1",
             "service": "S3",
             "network_border_group": "eu-north-1"
+        },
+        {
+            "ipv6_prefix": "2400:7fc0:ef00::\/40",
+            "region": "cn-north-1",
+            "service": "S3",
+            "network_border_group": "cn-north-1"
         },
         {
             "ipv6_prefix": "2a05:d030:6000::\/40",
