@@ -13449,12 +13449,6 @@
             "network_border_group": "us-west-2"
         },
         {
-            "ipv6_prefix": "2600:f0f2:7100:100::\/56",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ipv6_prefix": "2a05:d074:a000::\/40",
             "region": "eu-south-1",
             "service": "EC2",
