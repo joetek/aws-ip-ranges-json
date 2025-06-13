@@ -11247,12 +11247,6 @@
             "network_border_group": "us-east-2"
         },
         {
-            "ipv6_prefix": "2600:f0f0:4105::\/48",
-            "region": "ap-northeast-1",
-            "service": "EC2",
-            "network_border_group": "ap-northeast-1"
-        },
-        {
             "ipv6_prefix": "2606:7b40:1000:72e0::\/60",
             "region": "us-west-2",
             "service": "EC2",
@@ -12219,12 +12213,6 @@
             "network_border_group": "ap-southeast-2"
         },
         {
-            "ipv6_prefix": "2600:f0f0:410d::\/48",
-            "region": "eu-central-1",
-            "service": "EC2",
-            "network_border_group": "eu-central-1"
-        },
-        {
             "ipv6_prefix": "2605:9cc0:1ff0:400::\/56",
             "region": "us-east-1",
             "service": "EC2",
@@ -12673,12 +12661,6 @@
             "region": "eu-west-1",
             "service": "EC2",
             "network_border_group": "eu-west-1"
-        },
-        {
-            "ipv6_prefix": "2600:f0f0:4102::\/48",
-            "region": "us-west-1",
-            "service": "EC2",
-            "network_border_group": "us-west-1"
         },
         {
             "ipv6_prefix": "2a05:d032:a000::\/40",
@@ -15747,12 +15729,6 @@
             "network_border_group": "us-west-1"
         },
         {
-            "ipv6_prefix": "2600:f0f0:410f::\/48",
-            "region": "sa-east-1",
-            "service": "EC2",
-            "network_border_group": "sa-east-1"
-        },
-        {
             "ipv6_prefix": "2a05:d03a:1000::\/40",
             "region": "eu-south-2",
             "service": "EC2",
@@ -17203,12 +17179,6 @@
             "region": "us-east-1",
             "service": "EC2",
             "network_border_group": "us-east-1"
-        },
-        {
-            "ipv6_prefix": "2600:f0f0:4106::\/48",
-            "region": "ap-northeast-2",
-            "service": "EC2",
-            "network_border_group": "ap-northeast-2"
         },
         {
             "ipv6_prefix": "2a05:d01d::\/36",
