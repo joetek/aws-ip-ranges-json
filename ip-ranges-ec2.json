@@ -11955,6 +11955,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ipv6_prefix": "2404:c2c0:ef00::\/40",
+            "region": "cn-northwest-1",
+            "service": "EC2",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
             "ipv6_prefix": "2406:da68:6000::\/40",
             "region": "ap-northeast-3",
             "service": "EC2",
