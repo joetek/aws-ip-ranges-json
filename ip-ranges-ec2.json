@@ -11697,6 +11697,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ipv6_prefix": "2600:1ff3:8000::\/39",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:1ffd:8285::\/48",
             "region": "ap-south-1",
             "service": "EC2",
