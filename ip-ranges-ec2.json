@@ -3160,7 +3160,7 @@
             "ip_prefix": "96.0.180.0\/22",
             "region": "ap-southeast-1",
             "service": "EC2",
-            "network_border_group": "ap-southeast-1"
+            "network_border_group": "ap-southeast-1-sggov-sin-1b"
         },
         {
             "ip_prefix": "99.77.55.25\/32",
@@ -8020,7 +8020,7 @@
             "ip_prefix": "96.0.176.0\/22",
             "region": "ap-southeast-1",
             "service": "EC2",
-            "network_border_group": "ap-southeast-1"
+            "network_border_group": "ap-southeast-1-sggov-sin-1a"
         },
         {
             "ip_prefix": "142.4.180.0\/24",
