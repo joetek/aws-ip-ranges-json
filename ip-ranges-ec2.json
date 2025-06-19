@@ -451,6 +451,12 @@
             "network_border_group": "us-east-1-wl1-mia-wlz-1"
         },
         {
+            "ip_prefix": "5.60.64.0\/19",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "15.220.120.0\/21",
             "region": "us-east-1",
             "service": "EC2",
