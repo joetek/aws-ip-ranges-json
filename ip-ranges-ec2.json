@@ -7027,6 +7027,12 @@
             "network_border_group": "eu-south-2"
         },
         {
+            "ip_prefix": "35.96.243.0\/24",
+            "region": "eu-west-1",
+            "service": "EC2",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ip_prefix": "52.94.249.160\/28",
             "region": "me-south-1",
             "service": "EC2",
