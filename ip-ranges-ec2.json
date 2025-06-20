@@ -9561,6 +9561,12 @@
             "network_border_group": "ca-west-1"
         },
         {
+            "ipv6_prefix": "2600:f0f0:4145::\/48",
+            "region": "eu-south-1",
+            "service": "EC2",
+            "network_border_group": "eu-south-1"
+        },
+        {
             "ipv6_prefix": "2606:7b40:1b0f:c000::\/56",
             "region": "us-west-2",
             "service": "EC2",
