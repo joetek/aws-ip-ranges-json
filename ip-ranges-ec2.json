@@ -1195,12 +1195,6 @@
             "network_border_group": "us-west-1"
         },
         {
-            "ip_prefix": "1.178.4.0\/22",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ip_prefix": "3.30.0.0\/15",
             "region": "us-gov-west-1",
             "service": "EC2",
