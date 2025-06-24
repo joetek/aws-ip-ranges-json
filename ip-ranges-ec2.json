@@ -17151,6 +17151,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ipv6_prefix": "2600:f0f0:4110::\/48",
+            "region": "il-central-1",
+            "service": "EC2",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ipv6_prefix": "2620:107:4003::\/48",
             "region": "eu-central-1",
             "service": "EC2",
