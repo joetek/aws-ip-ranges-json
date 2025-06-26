@@ -15435,6 +15435,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ipv6_prefix": "2600:f0f2:7014::\/48",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ipv6_prefix": "2600:f0f2:7107::\/48",
             "region": "ap-southeast-1",
             "service": "EC2",
