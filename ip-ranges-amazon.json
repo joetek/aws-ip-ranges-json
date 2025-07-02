@@ -34875,6 +34875,12 @@
             "network_border_group": "us-gov-west-1"
         },
         {
+            "ipv6_prefix": "2600:f0f2:7011::\/48",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2a05:d032:6000::\/40",
             "region": "eu-north-1",
             "service": "AMAZON",
@@ -35643,6 +35649,12 @@
             "network_border_group": "us-gov-west-1"
         },
         {
+            "ipv6_prefix": "2600:f0f2:7012::\/48",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:f0fb:f027::\/48",
             "region": "ap-southeast-2",
             "service": "AMAZON",
@@ -36313,6 +36325,12 @@
             "region": "GLOBAL",
             "service": "AMAZON",
             "network_border_group": "GLOBAL"
+        },
+        {
+            "ipv6_prefix": "2600:f0f2:7010::\/48",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2606:7b40:1b09::\/56",
@@ -40347,6 +40365,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ipv6_prefix": "2600:f0f2:7013::\/48",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "2406:da10:8000::\/36",
             "region": "ap-southeast-5",
             "service": "AMAZON",
@@ -40933,12 +40957,6 @@
             "region": "ca-central-1",
             "service": "AMAZON",
             "network_border_group": "ca-central-1"
-        },
-        {
-            "ipv6_prefix": "2600:f0f2:7010::\/46",
-            "region": "us-east-1",
-            "service": "AMAZON",
-            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2606:7b40:1b0e:4000::\/56",
