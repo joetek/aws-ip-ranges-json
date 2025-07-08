@@ -8149,6 +8149,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "54.54.0.0\/16",
+            "region": "ap-east-2",
+            "service": "EC2",
+            "network_border_group": "ap-east-2"
+        },
+        {
             "ip_prefix": "15.177.93.0\/24",
             "region": "me-central-1",
             "service": "EC2",
