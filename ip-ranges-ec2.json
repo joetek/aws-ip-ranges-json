@@ -4462,7 +4462,7 @@
             "ip_prefix": "161.178.128.0\/18",
             "region": "us-east-1",
             "service": "EC2",
-            "network_border_group": "us-east-1"
+            "network_border_group": "us-east-1-nyc-2"
         },
         {
             "ip_prefix": "15.152.0.0\/16",
