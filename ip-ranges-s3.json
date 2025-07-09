@@ -1909,6 +1909,18 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "1.178.4.0\/24",
+            "region": "us-east-1",
+            "service": "S3",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "1.178.5.0\/24",
+            "region": "us-east-1",
+            "service": "S3",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "44.192.134.240\/28",
             "region": "us-east-1",
             "service": "S3",
@@ -4285,6 +4297,18 @@
             "region": "ap-southeast-5",
             "service": "S3",
             "network_border_group": "ap-southeast-5"
+        },
+        {
+            "ipv6_prefix": "2600:f0f2:7010::\/48",
+            "region": "us-east-1",
+            "service": "S3",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f2:7011::\/48",
+            "region": "us-east-1",
+            "service": "S3",
+            "network_border_group": "us-east-1"
         }
     ]
 }
