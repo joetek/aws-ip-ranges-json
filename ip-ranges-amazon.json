@@ -20239,12 +20239,6 @@
             "network_border_group": "eu-central-1"
         },
         {
-            "ip_prefix": "216.244.0.0\/24",
-            "region": "us-west-2",
-            "service": "AMAZON",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ip_prefix": "3.5.80.0\/21",
             "region": "us-west-2",
             "service": "AMAZON",
@@ -23867,12 +23861,6 @@
             "region": "ap-southeast-2",
             "service": "AMAZON",
             "network_border_group": "ap-southeast-2"
-        },
-        {
-            "ip_prefix": "216.244.1.0\/24",
-            "region": "us-west-2",
-            "service": "AMAZON",
-            "network_border_group": "us-west-2-den-1"
         },
         {
             "ip_prefix": "3.2.57.0\/24",
