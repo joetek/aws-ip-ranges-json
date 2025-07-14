@@ -2575,12 +2575,6 @@
             "network_border_group": "us-east-1"
         },
         {
-            "ip_prefix": "3.33.35.0\/24",
-            "region": "eu-central-1",
-            "service": "EC2",
-            "network_border_group": "eu-central-1"
-        },
-        {
             "ip_prefix": "52.95.255.128\/28",
             "region": "eu-central-1",
             "service": "EC2",
@@ -5087,12 +5081,6 @@
             "region": "eu-north-1",
             "service": "EC2",
             "network_border_group": "eu-north-1"
-        },
-        {
-            "ip_prefix": "54.222.89.0\/24",
-            "region": "cn-north-1",
-            "service": "EC2",
-            "network_border_group": "cn-north-1"
         },
         {
             "ip_prefix": "15.206.0.0\/15",
@@ -8345,12 +8333,6 @@
             "region": "ap-southeast-1",
             "service": "EC2",
             "network_border_group": "ap-southeast-1"
-        },
-        {
-            "ip_prefix": "3.33.34.0\/24",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1"
         },
         {
             "ip_prefix": "15.145.8.0\/22",
@@ -12199,6 +12181,12 @@
             "region": "ap-southeast-3",
             "service": "EC2",
             "network_border_group": "ap-southeast-3"
+        },
+        {
+            "ipv6_prefix": "2406:daec:8800::\/40",
+            "region": "ap-southeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-1-sggov-sin-2"
         },
         {
             "ipv6_prefix": "2406:dafb:c800::\/40",
@@ -16447,6 +16435,12 @@
             "region": "eu-central-1",
             "service": "EC2",
             "network_border_group": "eu-central-1"
+        },
+        {
+            "ipv6_prefix": "2400:7fc0:ec00::\/40",
+            "region": "cn-north-1",
+            "service": "EC2",
+            "network_border_group": "cn-north-1-pkx-1"
         },
         {
             "ipv6_prefix": "2406:da70:2000::\/40",
