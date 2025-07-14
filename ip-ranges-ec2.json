@@ -8419,6 +8419,12 @@
             "network_border_group": "eu-north-1"
         },
         {
+            "ip_prefix": "15.240.0.0\/16",
+            "region": "af-south-1",
+            "service": "EC2",
+            "network_border_group": "af-south-1"
+        },
+        {
             "ip_prefix": "18.166.0.0\/15",
             "region": "ap-east-1",
             "service": "EC2",
