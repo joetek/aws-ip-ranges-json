@@ -3733,12 +3733,6 @@
             "network_border_group": "us-east-1"
         },
         {
-            "ip_prefix": "1.178.65.0\/24",
-            "region": "us-west-2",
-            "service": "AMAZON",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ip_prefix": "3.4.3.0\/24",
             "region": "us-west-2",
             "service": "AMAZON",
@@ -6047,6 +6041,12 @@
             "region": "us-west-2",
             "service": "AMAZON",
             "network_border_group": "us-west-2-phx-2"
+        },
+        {
+            "ip_prefix": "216.244.6.0\/24",
+            "region": "ap-east-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-east-1"
         },
         {
             "ip_prefix": "13.248.105.0\/24",
@@ -20533,6 +20533,12 @@
             "network_border_group": "us-east-1-wl1-was-wlz-1"
         },
         {
+            "ip_prefix": "216.244.3.0\/24",
+            "region": "ap-south-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ip_prefix": "15.193.144.0\/22",
             "region": "eu-west-2",
             "service": "AMAZON",
@@ -23593,6 +23599,12 @@
             "network_border_group": "us-east-1-iah-2"
         },
         {
+            "ip_prefix": "216.244.4.0\/24",
+            "region": "ap-northeast-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-northeast-2"
+        },
+        {
             "ip_prefix": "3.4.12.18\/32",
             "region": "ap-southeast-2",
             "service": "AMAZON",
@@ -25487,6 +25499,12 @@
             "region": "us-west-2",
             "service": "AMAZON",
             "network_border_group": "us-west-2"
+        },
+        {
+            "ip_prefix": "216.244.5.0\/24",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2-lax-1"
         },
         {
             "ip_prefix": "15.177.91.0\/24",
@@ -40456,12 +40474,6 @@
         },
         {
             "ipv6_prefix": "2600:f0f0:1126::\/48",
-            "region": "us-west-2",
-            "service": "AMAZON",
-            "network_border_group": "us-west-2"
-        },
-        {
-            "ipv6_prefix": "2600:f0f2:7013::\/48",
             "region": "us-west-2",
             "service": "AMAZON",
             "network_border_group": "us-west-2"
