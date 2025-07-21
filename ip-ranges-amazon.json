@@ -11263,6 +11263,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ip_prefix": "23.91.0.0\/19",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "44.224.0.0\/11",
             "region": "us-west-2",
             "service": "AMAZON",
