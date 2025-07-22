@@ -1099,6 +1099,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "1.178.65.0\/24",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "3.4.3.0\/24",
             "region": "us-west-2",
             "service": "EC2",
@@ -16102,6 +16108,12 @@
         },
         {
             "ipv6_prefix": "2600:f0f0:1126::\/48",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
+            "ipv6_prefix": "2600:f0f2:7013::\/48",
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2"
