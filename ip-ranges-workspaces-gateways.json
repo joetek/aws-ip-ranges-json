@@ -175,6 +175,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ip_prefix": "43.217.232.0\/22",
+            "region": "ap-southeast-5",
+            "service": "WORKSPACES_GATEWAYS",
+            "network_border_group": "ap-southeast-5"
+        },
+        {
             "ip_prefix": "15.223.100.0\/24",
             "region": "ca-central-1",
             "service": "WORKSPACES_GATEWAYS",
@@ -221,6 +227,18 @@
             "region": "eu-central-1",
             "service": "WORKSPACES_GATEWAYS",
             "network_border_group": "eu-central-1"
+        },
+        {
+            "ip_prefix": "35.152.232.0\/22",
+            "region": "eu-south-1",
+            "service": "WORKSPACES_GATEWAYS",
+            "network_border_group": "eu-south-1"
+        },
+        {
+            "ip_prefix": "51.48.16.0\/22",
+            "region": "eu-south-2",
+            "service": "WORKSPACES_GATEWAYS",
+            "network_border_group": "eu-south-2"
         },
         {
             "ip_prefix": "3.248.176.0\/22",
@@ -275,6 +293,12 @@
             "region": "il-central-1",
             "service": "WORKSPACES_GATEWAYS",
             "network_border_group": "il-central-1"
+        },
+        {
+            "ip_prefix": "51.112.196.0\/22",
+            "region": "me-central-1",
+            "service": "WORKSPACES_GATEWAYS",
+            "network_border_group": "me-central-1"
         },
         {
             "ip_prefix": "15.228.64.0\/22",
