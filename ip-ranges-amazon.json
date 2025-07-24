@@ -3217,6 +3217,12 @@
             "network_border_group": "ap-southeast-3"
         },
         {
+            "ip_prefix": "5.60.32.0\/20",
+            "region": "ap-southeast-6",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-6"
+        },
+        {
             "ip_prefix": "15.230.251.0\/31",
             "region": "ap-southeast-1",
             "service": "AMAZON",
