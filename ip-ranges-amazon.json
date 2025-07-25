@@ -13477,6 +13477,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "35.97.0.0\/20",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "52.93.229.96\/32",
             "region": "eu-west-2",
             "service": "AMAZON",

@@ -4315,6 +4315,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "35.97.0.0\/20",
+            "region": "GLOBAL",
+            "service": "EC2",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "18.189.0.0\/16",
             "region": "us-east-2",
             "service": "EC2",
