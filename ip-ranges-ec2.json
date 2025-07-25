@@ -6883,6 +6883,12 @@
             "network_border_group": "us-west-2-den-1"
         },
         {
+            "ip_prefix": "18.88.64.0\/18",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "52.88.0.0\/15",
             "region": "us-west-2",
             "service": "EC2",
