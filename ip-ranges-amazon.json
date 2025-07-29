@@ -28147,6 +28147,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "35.55.0.0\/17",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "140.179.15.0\/26",
             "region": "cn-north-1",
             "service": "AMAZON",
@@ -43102,6 +43108,12 @@
         },
         {
             "ipv6_prefix": "2600:f0f0:4100::\/40",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:1100::\/40",
             "region": "GLOBAL",
             "service": "AMAZON",
             "network_border_group": "GLOBAL"
