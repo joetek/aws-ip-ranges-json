@@ -2935,6 +2935,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "35.96.45.0\/24",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "43.204.0.0\/15",
             "region": "ap-south-1",
             "service": "EC2",
@@ -9259,6 +9265,12 @@
             "region": "sa-east-1",
             "service": "EC2",
             "network_border_group": "sa-east-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:90:1400::\/56",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2600:f0f0:4107::\/48",
