@@ -7681,12 +7681,6 @@
             "network_border_group": "eu-south-1"
         },
         {
-            "ip_prefix": "52.95.255.144\/28",
-            "region": "cn-north-1",
-            "service": "EC2",
-            "network_border_group": "cn-north-1"
-        },
-        {
             "ip_prefix": "95.40.0.0\/15",
             "region": "ap-east-1",
             "service": "EC2",
