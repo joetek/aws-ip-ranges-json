@@ -2581,6 +2581,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "83.160.0.0\/15",
+            "region": "sa-west-1",
+            "service": "EC2",
+            "network_border_group": "sa-west-1"
+        },
+        {
             "ip_prefix": "99.77.55.33\/32",
             "region": "eu-south-2",
             "service": "EC2",
