@@ -3187,6 +3187,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "5.60.96.0\/19",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ip_prefix": "15.217.0.0\/16",
             "region": "eu-south-2",
             "service": "EC2",
