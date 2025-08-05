@@ -6571,6 +6571,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "3.41.128.0\/17",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "15.193.164.0\/22",
             "region": "ap-southeast-2",
             "service": "AMAZON",
@@ -15161,6 +15167,12 @@
             "region": "us-west-1",
             "service": "AMAZON",
             "network_border_group": "us-west-1"
+        },
+        {
+            "ip_prefix": "3.40.0.0\/17",
+            "region": "eu-central-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-central-1"
         },
         {
             "ip_prefix": "15.177.70.0\/23",
