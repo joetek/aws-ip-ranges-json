@@ -3337,6 +3337,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "216.244.8.0\/24",
+            "region": "sa-east-1",
+            "service": "EC2",
+            "network_border_group": "sa-east-1"
+        },
+        {
             "ip_prefix": "3.5.204.0\/22",
             "region": "eu-west-3",
             "service": "EC2",
