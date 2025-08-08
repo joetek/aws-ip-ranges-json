@@ -32625,6 +32625,12 @@
             "network_border_group": "us-east-1-atl-2"
         },
         {
+            "ipv6_prefix": "2600:f0f0:720::\/48",
+            "region": "eu-central-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2600:f0f0:5516::\/48",
             "region": "us-west-2",
             "service": "AMAZON",
@@ -35911,6 +35917,12 @@
             "region": "ca-central-1",
             "service": "AMAZON",
             "network_border_group": "ca-central-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:721::\/48",
+            "region": "eu-central-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-central-1"
         },
         {
             "ipv6_prefix": "2600:f0f0:110a::\/48",
