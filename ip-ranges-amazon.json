@@ -24367,6 +24367,12 @@
             "network_border_group": "ap-southeast-7"
         },
         {
+            "ip_prefix": "15.190.232.0\/22",
+            "region": "sa-west-1",
+            "service": "AMAZON",
+            "network_border_group": "sa-west-1"
+        },
+        {
             "ip_prefix": "15.230.63.4\/31",
             "region": "sa-east-1",
             "service": "AMAZON",
