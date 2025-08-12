@@ -5749,6 +5749,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "216.244.10.0\/24",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ip_prefix": "3.5.212.0\/23",
             "region": "ap-south-1",
             "service": "EC2",
