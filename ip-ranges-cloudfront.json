@@ -481,6 +481,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "24.110.32.0\/19",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "99.84.0.0\/16",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
