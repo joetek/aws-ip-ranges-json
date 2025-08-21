@@ -1777,12 +1777,6 @@
             "network_border_group": "us-east-1"
         },
         {
-            "ip_prefix": "159.248.0.0\/20",
-            "region": "cn-northwest-1",
-            "service": "EC2",
-            "network_border_group": "cn-northwest-1"
-        },
-        {
             "ip_prefix": "18.96.64.0\/19",
             "region": "sa-east-1",
             "service": "EC2",
