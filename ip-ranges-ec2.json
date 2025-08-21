@@ -4423,6 +4423,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ip_prefix": "43.194.16.0\/24",
+            "region": "cn-northwest-1",
+            "service": "EC2",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
             "ip_prefix": "52.94.248.48\/28",
             "region": "sa-east-1",
             "service": "EC2",
@@ -6959,6 +6965,12 @@
             "region": "ap-northeast-3",
             "service": "EC2",
             "network_border_group": "ap-northeast-3"
+        },
+        {
+            "ip_prefix": "54.222.65.0\/24",
+            "region": "cn-north-1",
+            "service": "EC2",
+            "network_border_group": "cn-north-1"
         },
         {
             "ip_prefix": "56.68.0.0\/17",
