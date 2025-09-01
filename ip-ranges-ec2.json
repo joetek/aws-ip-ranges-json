@@ -1939,6 +1939,12 @@
             "network_border_group": "me-south-1"
         },
         {
+            "ip_prefix": "35.96.47.0\/24",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ip_prefix": "99.77.55.24\/32",
             "region": "eu-south-2",
             "service": "EC2",
@@ -2543,6 +2549,12 @@
             "region": "us-east-1",
             "service": "EC2",
             "network_border_group": "us-east-1-msp-1"
+        },
+        {
+            "ip_prefix": "35.96.46.0\/24",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
         },
         {
             "ip_prefix": "51.0.128.0\/21",
