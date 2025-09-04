@@ -13113,6 +13113,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ipv6_prefix": "2631:0:1::\/48",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "2001:3fc3:6800::\/40",
             "region": "eusc-de-east-1",
             "service": "EC2",
