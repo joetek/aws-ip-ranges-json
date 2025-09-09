@@ -1057,6 +1057,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ip_prefix": "16.12.3.0\/24",
+            "region": "ap-south-1",
+            "service": "S3",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ip_prefix": "52.219.176.0\/22",
             "region": "us-east-2",
             "service": "S3",

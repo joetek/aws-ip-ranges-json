@@ -20557,6 +20557,12 @@
             "network_border_group": "me-south-1"
         },
         {
+            "ip_prefix": "16.12.3.0\/24",
+            "region": "ap-south-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ip_prefix": "16.60.0.0\/16",
             "region": "eu-west-2",
             "service": "AMAZON",
