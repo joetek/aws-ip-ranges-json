@@ -6181,6 +6181,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ip_prefix": "216.244.11.0\/24",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-dfw-2"
+        },
+        {
             "ip_prefix": "3.136.0.0\/13",
             "region": "us-east-2",
             "service": "EC2",
