@@ -5263,6 +5263,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ip_prefix": "18.96.3.0\/24",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "35.55.27.0\/24",
             "region": "sa-east-1",
             "service": "EC2",
