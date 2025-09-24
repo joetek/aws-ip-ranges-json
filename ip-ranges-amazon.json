@@ -31813,6 +31813,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ip_prefix": "18.144.202.192\/26",
+            "region": "us-west-1",
+            "service": "AMAZON",
+            "network_border_group": "us-west-1"
+        },
+        {
             "ip_prefix": "3.101.114.0\/26",
             "region": "us-west-1",
             "service": "AMAZON",
