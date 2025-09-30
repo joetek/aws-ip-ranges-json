@@ -13659,6 +13659,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ipv6_prefix": "2631:1:4ff0::\/48",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "2a05:d012::\/36",
             "region": "eu-west-3",
             "service": "EC2",
