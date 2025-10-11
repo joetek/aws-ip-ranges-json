@@ -697,12 +697,6 @@
             "network_border_group": "ap-northeast-3"
         },
         {
-            "ip_prefix": "35.96.48.0\/24",
-            "region": "eu-central-1",
-            "service": "EC2",
-            "network_border_group": "eu-central-1"
-        },
-        {
             "ip_prefix": "99.77.159.0\/24",
             "region": "eu-south-1",
             "service": "EC2",
