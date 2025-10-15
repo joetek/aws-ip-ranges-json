@@ -8461,6 +8461,12 @@
             "network_border_group": "me-south-1"
         },
         {
+            "ip_prefix": "51.74.0.0\/20",
+            "region": "eusc-de-east-1",
+            "service": "EC2",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
             "ip_prefix": "54.178.0.0\/16",
             "region": "ap-northeast-1",
             "service": "EC2",
