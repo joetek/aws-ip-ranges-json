@@ -579,6 +579,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ipv6_prefix": "2406:da20:8018::\/48",
+            "region": "ap-southeast-5",
+            "service": "WORKSPACES_GATEWAYS",
+            "network_border_group": "ap-southeast-5"
+        },
+        {
             "ipv6_prefix": "2600:1f21:8::\/48",
             "region": "ca-central-1",
             "service": "WORKSPACES_GATEWAYS",
@@ -589,6 +595,18 @@
             "region": "eu-central-1",
             "service": "WORKSPACES_GATEWAYS",
             "network_border_group": "eu-central-1"
+        },
+        {
+            "ipv6_prefix": "2a05:d02a:4::\/48",
+            "region": "eu-south-1",
+            "service": "WORKSPACES_GATEWAYS",
+            "network_border_group": "eu-south-1"
+        },
+        {
+            "ipv6_prefix": "2a05:d021:c::\/48",
+            "region": "eu-south-2",
+            "service": "WORKSPACES_GATEWAYS",
+            "network_border_group": "eu-south-2"
         },
         {
             "ipv6_prefix": "2a05:d028:40::\/48",
@@ -613,6 +631,12 @@
             "region": "il-central-1",
             "service": "WORKSPACES_GATEWAYS",
             "network_border_group": "il-central-1"
+        },
+        {
+            "ipv6_prefix": "2406:da27:4::\/48",
+            "region": "me-central-1",
+            "service": "WORKSPACES_GATEWAYS",
+            "network_border_group": "me-central-1"
         },
         {
             "ipv6_prefix": "2600:1f2e:14::\/48",
