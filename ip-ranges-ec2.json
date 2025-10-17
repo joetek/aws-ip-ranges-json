@@ -1165,12 +1165,6 @@
             "network_border_group": "us-west-2"
         },
         {
-            "ip_prefix": "35.96.18.0\/23",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ip_prefix": "99.77.148.0\/24",
             "region": "af-south-1",
             "service": "EC2",
