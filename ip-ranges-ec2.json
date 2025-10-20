@@ -5821,12 +5821,6 @@
             "network_border_group": "ap-northeast-2"
         },
         {
-            "ip_prefix": "1.178.192.0\/24",
-            "region": "eu-west-1",
-            "service": "EC2",
-            "network_border_group": "eu-west-1"
-        },
-        {
             "ip_prefix": "3.2.2.0\/24",
             "region": "us-east-1",
             "service": "EC2",
