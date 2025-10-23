@@ -13711,12 +13711,6 @@
             "network_border_group": "GLOBAL"
         },
         {
-            "ip_prefix": "1.178.90.0\/24",
-            "region": "eu-west-3",
-            "service": "AMAZON",
-            "network_border_group": "eu-west-3"
-        },
-        {
             "ip_prefix": "3.4.15.128\/29",
             "region": "eu-west-2",
             "service": "AMAZON",
@@ -39631,6 +39625,12 @@
             "region": "eu-west-1",
             "service": "AMAZON",
             "network_border_group": "eu-west-1"
+        },
+        {
+            "ipv6_prefix": "2631:1:4fc0::\/48",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
         },
         {
             "ipv6_prefix": "2a05:d050:9000::\/40",
