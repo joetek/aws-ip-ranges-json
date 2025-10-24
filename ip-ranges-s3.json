@@ -1789,6 +1789,12 @@
             "network_border_group": "ap-southeast-7"
         },
         {
+            "ip_prefix": "1.178.92.0\/24",
+            "region": "ca-central-1",
+            "service": "S3",
+            "network_border_group": "ca-central-1"
+        },
+        {
             "ip_prefix": "3.98.24.0\/28",
             "region": "ca-central-1",
             "service": "S3",
@@ -4021,6 +4027,12 @@
             "region": "ap-southeast-2",
             "service": "S3",
             "network_border_group": "ap-southeast-2"
+        },
+        {
+            "ipv6_prefix": "2600:f0f2:701e::\/48",
+            "region": "ca-central-1",
+            "service": "S3",
+            "network_border_group": "ca-central-1"
         },
         {
             "ipv6_prefix": "2600:f0f2:7018::\/48",
