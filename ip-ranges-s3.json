@@ -409,6 +409,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "3.5.120.0\/22",
+            "region": "eu-central-1",
+            "service": "S3",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ip_prefix": "76.223.104.0\/24",
             "region": "GLOBAL",
             "service": "S3",
