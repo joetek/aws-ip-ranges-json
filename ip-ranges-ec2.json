@@ -12441,6 +12441,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ipv6_prefix": "2600:1f00:ec00::\/64",
+            "region": "sa-west-1",
+            "service": "EC2",
+            "network_border_group": "sa-west-1"
+        },
+        {
             "ipv6_prefix": "2600:1fef:6000::\/40",
             "region": "us-east-2",
             "service": "EC2",
