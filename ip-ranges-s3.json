@@ -1165,6 +1165,12 @@
             "network_border_group": "mx-central-1"
         },
         {
+            "ip_prefix": "16.15.32.0\/20",
+            "region": "us-west-2",
+            "service": "S3",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "52.219.169.0\/24",
             "region": "eu-central-1",
             "service": "S3",
