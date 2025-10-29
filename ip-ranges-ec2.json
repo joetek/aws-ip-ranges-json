@@ -12063,6 +12063,12 @@
             "network_border_group": "ap-southeast-7"
         },
         {
+            "ipv6_prefix": "2600:1f60:ec00::\/40",
+            "region": "sa-west-1",
+            "service": "EC2",
+            "network_border_group": "sa-west-1"
+        },
+        {
             "ipv6_prefix": "2631:1:4740::\/48",
             "region": "ap-southeast-2",
             "service": "EC2",
