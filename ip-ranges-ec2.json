@@ -4981,6 +4981,12 @@
             "network_border_group": "us-east-1-chi-2"
         },
         {
+            "ip_prefix": "24.110.16.0\/20",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "35.55.23.0\/24",
             "region": "eu-west-3",
             "service": "EC2",
