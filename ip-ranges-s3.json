@@ -1879,6 +1879,12 @@
             "network_border_group": "eu-central-2"
         },
         {
+            "ip_prefix": "1.178.93.0\/24",
+            "region": "eu-north-1",
+            "service": "S3",
+            "network_border_group": "eu-north-1"
+        },
+        {
             "ip_prefix": "13.51.71.176\/28",
             "region": "eu-north-1",
             "service": "S3",
@@ -1931,6 +1937,12 @@
             "region": "eu-west-1",
             "service": "S3",
             "network_border_group": "eu-west-1"
+        },
+        {
+            "ip_prefix": "1.178.94.0\/24",
+            "region": "eu-west-2",
+            "service": "S3",
+            "network_border_group": "eu-west-2"
         },
         {
             "ip_prefix": "18.168.37.160\/28",
@@ -4077,10 +4089,22 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ipv6_prefix": "2600:f0f2:701f::\/48",
+            "region": "eu-north-1",
+            "service": "S3",
+            "network_border_group": "eu-north-1"
+        },
+        {
             "ipv6_prefix": "2600:f0f2:7015::\/48",
             "region": "eu-west-1",
             "service": "S3",
             "network_border_group": "eu-west-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f1:80::\/48",
+            "region": "eu-west-2",
+            "service": "S3",
+            "network_border_group": "eu-west-2"
         },
         {
             "ipv6_prefix": "2600:f0f2:7010::\/48",
