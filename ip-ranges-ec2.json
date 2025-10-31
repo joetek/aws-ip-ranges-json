@@ -5233,6 +5233,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ip_prefix": "16.15.24.0\/22",
+            "region": "sa-west-1",
+            "service": "EC2",
+            "network_border_group": "sa-west-1"
+        },
+        {
             "ip_prefix": "64.252.84.0\/24",
             "region": "eu-west-2",
             "service": "EC2",
