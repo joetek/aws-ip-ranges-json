@@ -1957,6 +1957,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "1.178.90.0\/24",
+            "region": "eu-west-3",
+            "service": "S3",
+            "network_border_group": "eu-west-3"
+        },
+        {
             "ip_prefix": "13.36.84.48\/28",
             "region": "eu-west-3",
             "service": "S3",
@@ -4105,6 +4111,12 @@
             "region": "eu-west-2",
             "service": "S3",
             "network_border_group": "eu-west-2"
+        },
+        {
+            "ipv6_prefix": "2600:f0f2:701c::\/48",
+            "region": "eu-west-3",
+            "service": "S3",
+            "network_border_group": "eu-west-3"
         },
         {
             "ipv6_prefix": "2600:f0f2:7010::\/48",
