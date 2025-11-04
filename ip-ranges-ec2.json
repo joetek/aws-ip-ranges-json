@@ -11463,6 +11463,12 @@
             "network_border_group": "eu-north-1"
         },
         {
+            "ipv6_prefix": "2631:1:4fc1::\/48",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "2606:7b40:1b0f:f400::\/56",
             "region": "us-west-2",
             "service": "EC2",
@@ -16477,6 +16483,12 @@
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2-pdx-1"
+        },
+        {
+            "ipv6_prefix": "2631:1:4fc2::\/48",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
         },
         {
             "ipv6_prefix": "2a05:d000:800::\/64",
