@@ -847,12 +847,6 @@
             "network_border_group": "us-west-1"
         },
         {
-            "ip_prefix": "35.96.30.0\/23",
-            "region": "us-west-1",
-            "service": "EC2",
-            "network_border_group": "us-west-1"
-        },
-        {
             "ip_prefix": "46.51.192.0\/20",
             "region": "eu-west-1",
             "service": "EC2",
