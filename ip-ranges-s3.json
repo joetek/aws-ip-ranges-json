@@ -3027,6 +3027,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ipv6_prefix": "2600:1ff9:41a0::\/46",
+            "region": "us-west-2",
+            "service": "S3",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "2404:c2c0:2800::\/40",
             "region": "cn-northwest-1",
             "service": "S3",
@@ -3241,6 +3247,12 @@
             "region": "us-gov-east-1",
             "service": "S3",
             "network_border_group": "us-gov-east-1"
+        },
+        {
+            "ipv6_prefix": "2600:1ff9:41c0::\/46",
+            "region": "us-west-2",
+            "service": "S3",
+            "network_border_group": "us-west-2"
         },
         {
             "ipv6_prefix": "2406:da60:8800::\/40",
