@@ -28999,6 +28999,12 @@
             "network_border_group": "eu-south-1"
         },
         {
+            "ip_prefix": "99.10.0.0\/18",
+            "region": "eu-north-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-north-1"
+        },
+        {
             "ip_prefix": "99.78.216.0\/22",
             "region": "us-east-2",
             "service": "AMAZON",
@@ -35821,6 +35827,12 @@
             "region": "cn-north-1",
             "service": "AMAZON",
             "network_border_group": "cn-north-1"
+        },
+        {
+            "ipv6_prefix": "2403:b300::\/48",
+            "region": "ap-southeast-2",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-2"
         },
         {
             "ipv6_prefix": "2406:da29::\/36",
