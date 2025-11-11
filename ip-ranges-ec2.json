@@ -4405,6 +4405,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ip_prefix": "149.128.64.0\/18",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "13.232.0.0\/14",
             "region": "ap-south-1",
             "service": "EC2",
