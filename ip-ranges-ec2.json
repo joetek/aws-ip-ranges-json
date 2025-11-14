@@ -9735,6 +9735,12 @@
             "network_border_group": "ap-east-2"
         },
         {
+            "ipv6_prefix": "2a05:d05b:b000::\/40",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2a05:d070:e000::\/40",
             "region": "me-south-1",
             "service": "EC2",
@@ -17437,12 +17443,6 @@
             "region": "me-south-1",
             "service": "EC2",
             "network_border_group": "me-south-1"
-        },
-        {
-            "ipv6_prefix": "2a05:d05b:b000::\/56",
-            "region": "eu-central-1",
-            "service": "EC2",
-            "network_border_group": "eu-central-1"
         },
         {
             "ipv6_prefix": "2001:3fc6:100::\/48",
