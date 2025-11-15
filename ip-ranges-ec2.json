@@ -1999,6 +1999,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "216.198.228.0\/23",
+            "region": "eu-west-3",
+            "service": "EC2",
+            "network_border_group": "eu-west-3"
+        },
+        {
             "ip_prefix": "3.4.9.0\/24",
             "region": "us-east-1",
             "service": "EC2",
@@ -5765,6 +5771,12 @@
             "region": "eu-west-1",
             "service": "EC2",
             "network_border_group": "eu-west-1"
+        },
+        {
+            "ip_prefix": "216.198.212.0\/23",
+            "region": "eu-south-1",
+            "service": "EC2",
+            "network_border_group": "eu-south-1"
         },
         {
             "ip_prefix": "3.5.146.0\/23",
