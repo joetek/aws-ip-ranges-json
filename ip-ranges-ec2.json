@@ -6601,6 +6601,12 @@
             "network_border_group": "me-south-1"
         },
         {
+            "ip_prefix": "16.58.0.0\/16",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ip_prefix": "52.94.248.112\/28",
             "region": "eu-central-1",
             "service": "EC2",
