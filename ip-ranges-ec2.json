@@ -5701,6 +5701,12 @@
             "network_border_group": "us-west-2-las-1b"
         },
         {
+            "ip_prefix": "16.25.0.0\/16",
+            "region": "me-south-1",
+            "service": "EC2",
+            "network_border_group": "me-south-1"
+        },
+        {
             "ip_prefix": "99.77.140.0\/24",
             "region": "ap-northeast-3",
             "service": "EC2",
