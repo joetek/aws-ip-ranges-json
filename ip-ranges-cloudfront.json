@@ -103,6 +103,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "23.228.225.0\/24",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "99.86.0.0\/16",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
@@ -128,6 +134,12 @@
         },
         {
             "ip_prefix": "70.132.0.0\/18",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "23.228.216.0\/24",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
@@ -247,6 +259,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "23.228.218.0\/24",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "111.13.185.32\/27",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
@@ -272,12 +290,6 @@
         },
         {
             "ip_prefix": "54.230.224.0\/19",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
-        },
-        {
-            "ip_prefix": "23.228.227.0\/24",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
@@ -361,12 +373,6 @@
             "network_border_group": "GLOBAL"
         },
         {
-            "ip_prefix": "23.228.237.0\/24",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ip_prefix": "52.46.0.0\/18",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
@@ -416,6 +422,12 @@
         },
         {
             "ip_prefix": "52.84.0.0\/15",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "23.228.224.0\/24",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
@@ -535,6 +547,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "23.228.223.0\/24",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "52.124.128.0\/17",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
@@ -560,12 +578,6 @@
         },
         {
             "ip_prefix": "3.164.128.0\/17",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
-        },
-        {
-            "ip_prefix": "23.228.226.0\/24",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
@@ -602,6 +614,12 @@
         },
         {
             "ip_prefix": "204.246.176.0\/20",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "23.228.217.0\/24",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
