@@ -44625,6 +44625,12 @@
             "network_border_group": "ap-northeast-1"
         },
         {
+            "ipv6_prefix": "2600:1f01:4900:400::\/56",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:1fb9:a400::\/40",
             "region": "ca-west-1",
             "service": "AMAZON",
