@@ -2977,6 +2977,12 @@
             "network_border_group": "me-central-1"
         },
         {
+            "ip_prefix": "15.193.32.0\/24",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "15.220.152.0\/21",
             "region": "eu-central-1",
             "service": "EC2",
