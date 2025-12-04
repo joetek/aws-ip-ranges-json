@@ -3517,6 +3517,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "3.45.64.0\/18",
+            "region": "us-gov-west-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-west-1"
+        },
+        {
             "ip_prefix": "5.60.96.0\/19",
             "region": "eu-central-1",
             "service": "EC2",
