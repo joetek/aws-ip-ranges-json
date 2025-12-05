@@ -1045,6 +1045,12 @@
             "network_border_group": "us-east-2"
         },
         {
+            "ip_prefix": "35.96.60.0\/23",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "54.200.0.0\/15",
             "region": "us-west-2",
             "service": "EC2",
