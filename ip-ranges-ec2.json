@@ -2377,6 +2377,12 @@
             "network_border_group": "sa-east-1"
         },
         {
+            "ip_prefix": "40.168.226.0\/24",
+            "region": "GLOBAL",
+            "service": "EC2",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "35.160.0.0\/13",
             "region": "us-west-2",
             "service": "EC2",
