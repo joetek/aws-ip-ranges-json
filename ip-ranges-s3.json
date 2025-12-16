@@ -277,6 +277,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "52.219.23.0\/24",
+            "region": "us-west-1",
+            "service": "S3",
+            "network_border_group": "us-west-1"
+        },
+        {
             "ip_prefix": "54.222.100.0\/22",
             "region": "cn-north-1",
             "service": "S3",
