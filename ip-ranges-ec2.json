@@ -5767,6 +5767,12 @@
             "network_border_group": "eu-north-1"
         },
         {
+            "ip_prefix": "54.222.89.0\/24",
+            "region": "cn-north-1",
+            "service": "EC2",
+            "network_border_group": "cn-north-1"
+        },
+        {
             "ip_prefix": "216.198.230.0\/24",
             "region": "eu-west-1",
             "service": "EC2",
