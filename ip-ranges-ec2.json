@@ -7837,6 +7837,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ip_prefix": "43.193.65.0\/24",
+            "region": "cn-northwest-1",
+            "service": "EC2",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
             "ip_prefix": "52.94.249.112\/28",
             "region": "us-gov-east-1",
             "service": "EC2",
