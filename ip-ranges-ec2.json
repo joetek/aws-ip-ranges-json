@@ -7153,6 +7153,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "16.60.0.0\/16",
+            "region": "eu-west-2",
+            "service": "EC2",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "18.246.0.0\/16",
             "region": "us-west-2",
             "service": "EC2",
