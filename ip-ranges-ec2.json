@@ -17355,6 +17355,12 @@
             "network_border_group": "sa-west-1"
         },
         {
+            "ipv6_prefix": "2600:f0f0:5::\/48",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "2600:f0f0:5513::\/48",
             "region": "us-west-2",
             "service": "EC2",
