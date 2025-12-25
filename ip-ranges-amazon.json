@@ -13453,6 +13453,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ip_prefix": "40.168.224.0\/24",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "51.0.252.0\/24",
             "region": "eusc-de-east-1",
             "service": "AMAZON",
