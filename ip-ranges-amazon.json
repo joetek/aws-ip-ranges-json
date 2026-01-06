@@ -38247,6 +38247,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ipv6_prefix": "2600:f0f1:4380::\/42",
+            "region": "ap-southeast-5",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-5"
+        },
+        {
             "ipv6_prefix": "2600:f0f2:7012::\/48",
             "region": "us-east-1",
             "service": "AMAZON",
