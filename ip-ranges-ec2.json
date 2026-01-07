@@ -9379,6 +9379,12 @@
             "network_border_group": "us-east-1-foe-wlz-1"
         },
         {
+            "ip_prefix": "1.178.103.0\/24",
+            "region": "ap-east-1",
+            "service": "EC2",
+            "network_border_group": "ap-east-1"
+        },
+        {
             "ip_prefix": "15.181.32.0\/21",
             "region": "us-east-1",
             "service": "EC2",
@@ -15211,6 +15217,12 @@
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2"
+        },
+        {
+            "ipv6_prefix": "2600:f0f1:85::\/48",
+            "region": "ap-east-1",
+            "service": "EC2",
+            "network_border_group": "ap-east-1"
         },
         {
             "ipv6_prefix": "2605:9cc0:1ff0:4000::\/54",
