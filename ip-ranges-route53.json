@@ -29,6 +29,102 @@
             "region": "GLOBAL",
             "service": "ROUTE53",
             "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "34.217.143.0\/24",
+            "region": "us-west-2",
+            "service": "ROUTE53",
+            "network_border_group": "us-west-2"
+        },
+        {
+            "ip_prefix": "52.82.176.0\/22",
+            "region": "cn-northwest-1",
+            "service": "ROUTE53",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
+            "ip_prefix": "34.217.142.0\/24",
+            "region": "us-west-2",
+            "service": "ROUTE53",
+            "network_border_group": "us-west-2"
+        },
+        {
+            "ip_prefix": "3.4.24.0\/23",
+            "region": "us-gov-east-1",
+            "service": "ROUTE53",
+            "network_border_group": "us-gov-east-1"
+        },
+        {
+            "ip_prefix": "54.222.32.0\/22",
+            "region": "cn-north-1",
+            "service": "ROUTE53",
+            "network_border_group": "cn-north-1"
+        },
+        {
+            "ip_prefix": "51.0.140.0\/23",
+            "region": "eusc-de-east-1",
+            "service": "ROUTE53",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
+            "ip_prefix": "51.0.142.0\/23",
+            "region": "eusc-de-east-1",
+            "service": "ROUTE53",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
+            "ip_prefix": "51.0.136.0\/23",
+            "region": "eusc-de-east-1",
+            "service": "ROUTE53",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
+            "ip_prefix": "52.46.180.0\/22",
+            "region": "us-west-2",
+            "service": "ROUTE53",
+            "network_border_group": "us-west-2"
+        },
+        {
+            "ip_prefix": "18.196.222.0\/24",
+            "region": "eu-central-1",
+            "service": "ROUTE53",
+            "network_border_group": "eu-central-1"
+        },
+        {
+            "ip_prefix": "51.0.138.0\/23",
+            "region": "eusc-de-east-1",
+            "service": "ROUTE53",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
+            "ip_prefix": "52.82.180.0\/22",
+            "region": "cn-northwest-1",
+            "service": "ROUTE53",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
+            "ip_prefix": "54.222.36.0\/22",
+            "region": "cn-north-1",
+            "service": "ROUTE53",
+            "network_border_group": "cn-north-1"
+        },
+        {
+            "ip_prefix": "52.46.184.0\/22",
+            "region": "eu-central-1",
+            "service": "ROUTE53",
+            "network_border_group": "eu-central-1"
+        },
+        {
+            "ip_prefix": "18.196.223.0\/24",
+            "region": "eu-central-1",
+            "service": "ROUTE53",
+            "network_border_group": "eu-central-1"
+        },
+        {
+            "ip_prefix": "3.4.26.0\/23",
+            "region": "us-gov-east-1",
+            "service": "ROUTE53",
+            "network_border_group": "us-gov-east-1"
         }
     ],
     "ipv6_prefixes": [
@@ -67,6 +163,30 @@
             "region": "GLOBAL",
             "service": "ROUTE53",
             "network_border_group": "GLOBAL"
+        },
+        {
+            "ipv6_prefix": "2001:3fc6:8::\/47",
+            "region": "eusc-de-east-1",
+            "service": "ROUTE53",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
+            "ipv6_prefix": "2001:3fc6:a::\/47",
+            "region": "eusc-de-east-1",
+            "service": "ROUTE53",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
+            "ipv6_prefix": "2001:3fc6:c::\/47",
+            "region": "eusc-de-east-1",
+            "service": "ROUTE53",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
+            "ipv6_prefix": "2001:3fc6:e::\/47",
+            "region": "eusc-de-east-1",
+            "service": "ROUTE53",
+            "network_border_group": "eusc-de-east-1"
         }
     ]
 }
