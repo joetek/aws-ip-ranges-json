@@ -8785,6 +8785,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ip_prefix": "103.13.188.0\/23",
+            "region": "us-gov-west-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-west-1"
+        },
+        {
             "ip_prefix": "3.6.0.0\/15",
             "region": "ap-south-1",
             "service": "EC2",
@@ -11497,6 +11503,12 @@
             "region": "ap-northeast-2",
             "service": "EC2",
             "network_border_group": "ap-northeast-2"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:70::\/44",
+            "region": "us-gov-west-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-west-1"
         },
         {
             "ipv6_prefix": "2600:f0f0:e2e::\/48",
