@@ -7249,6 +7249,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "1.178.18.0\/24",
+            "region": "af-south-1",
+            "service": "EC2",
+            "network_border_group": "af-south-1"
+        },
+        {
             "ip_prefix": "3.8.0.0\/14",
             "region": "eu-west-2",
             "service": "EC2",
@@ -16591,6 +16597,12 @@
             "region": "ap-southeast-3",
             "service": "EC2",
             "network_border_group": "ap-southeast-3"
+        },
+        {
+            "ipv6_prefix": "2600:f0f1:88::\/48",
+            "region": "af-south-1",
+            "service": "EC2",
+            "network_border_group": "af-south-1"
         },
         {
             "ipv6_prefix": "2400:7fc0:bb00::\/40",
