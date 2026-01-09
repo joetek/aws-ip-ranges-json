@@ -14239,6 +14239,12 @@
             "network_border_group": "cn-northwest-1"
         },
         {
+            "ip_prefix": "45.33.160.0\/24",
+            "region": "sa-east-1",
+            "service": "AMAZON",
+            "network_border_group": "sa-east-1"
+        },
+        {
             "ip_prefix": "52.93.84.199\/32",
             "region": "us-east-1",
             "service": "AMAZON",
@@ -33901,6 +33907,12 @@
             "region": "ap-east-1",
             "service": "AMAZON",
             "network_border_group": "ap-east-1"
+        },
+        {
+            "ipv6_prefix": "2600:1f01:491e::\/47",
+            "region": "sa-east-1",
+            "service": "AMAZON",
+            "network_border_group": "sa-east-1"
         },
         {
             "ipv6_prefix": "2600:1f22:8000::\/36",
