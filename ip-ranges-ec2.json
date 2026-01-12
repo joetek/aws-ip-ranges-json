@@ -1729,6 +1729,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ip_prefix": "35.97.16.0\/20",
+            "region": "GLOBAL",
+            "service": "EC2",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "35.176.0.0\/15",
             "region": "eu-west-2",
             "service": "EC2",
