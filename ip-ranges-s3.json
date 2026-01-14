@@ -2065,6 +2065,12 @@
             "network_border_group": "mx-central-1"
         },
         {
+            "ip_prefix": "1.178.95.0\/24",
+            "region": "sa-east-1",
+            "service": "S3",
+            "network_border_group": "sa-east-1"
+        },
+        {
             "ip_prefix": "15.228.107.0\/28",
             "region": "sa-east-1",
             "service": "S3",
@@ -4141,6 +4147,12 @@
             "region": "eu-west-3",
             "service": "S3",
             "network_border_group": "eu-west-3"
+        },
+        {
+            "ipv6_prefix": "2600:f0f1:81::\/48",
+            "region": "sa-east-1",
+            "service": "S3",
+            "network_border_group": "sa-east-1"
         },
         {
             "ipv6_prefix": "2600:f0f2:7010::\/48",
