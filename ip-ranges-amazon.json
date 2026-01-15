@@ -9709,6 +9709,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "69.107.11.88\/29",
+            "region": "eu-west-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ip_prefix": "99.77.147.0\/24",
             "region": "me-south-1",
             "service": "AMAZON",
@@ -15905,6 +15911,12 @@
             "region": "eu-central-2",
             "service": "AMAZON",
             "network_border_group": "eu-central-2"
+        },
+        {
+            "ip_prefix": "69.107.11.80\/29",
+            "region": "eu-west-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-1"
         },
         {
             "ip_prefix": "99.150.120.0\/21",
