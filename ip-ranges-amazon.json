@@ -31441,6 +31441,12 @@
             "network_border_group": "ap-southeast-6"
         },
         {
+            "ip_prefix": "3.103.138.0\/23",
+            "region": "ap-southeast-6",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-6"
+        },
+        {
             "ip_prefix": "3.103.60.0\/24",
             "region": "ap-southeast-6",
             "service": "AMAZON",
