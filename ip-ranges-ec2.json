@@ -12135,6 +12135,12 @@
             "network_border_group": "us-east-1-msp-1"
         },
         {
+            "ipv6_prefix": "2606:7b40:a3e:3400::\/54",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "2406:da38:800::\/40",
             "region": "ap-southeast-5",
             "service": "EC2",
