@@ -31,6 +31,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "52.61.226.0\/23",
+            "region": "us-gov-west-1",
+            "service": "ROUTE53",
+            "network_border_group": "us-gov-west-1"
+        },
+        {
             "ip_prefix": "34.217.143.0\/24",
             "region": "us-west-2",
             "service": "ROUTE53",
@@ -125,6 +131,12 @@
             "region": "us-gov-east-1",
             "service": "ROUTE53",
             "network_border_group": "us-gov-east-1"
+        },
+        {
+            "ip_prefix": "96.127.116.0\/23",
+            "region": "us-gov-west-1",
+            "service": "ROUTE53",
+            "network_border_group": "us-gov-west-1"
         }
     ],
     "ipv6_prefixes": [
