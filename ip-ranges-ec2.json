@@ -7267,12 +7267,6 @@
             "network_border_group": "us-gov-east-1"
         },
         {
-            "ip_prefix": "23.228.194.0\/24",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ip_prefix": "51.0.88.0\/21",
             "region": "me-central-1",
             "service": "EC2",
