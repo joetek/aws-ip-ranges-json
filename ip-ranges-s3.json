@@ -1591,6 +1591,12 @@
             "network_border_group": "us-gov-west-1"
         },
         {
+            "ip_prefix": "1.178.18.0\/24",
+            "region": "af-south-1",
+            "service": "S3",
+            "network_border_group": "af-south-1"
+        },
+        {
             "ip_prefix": "13.245.93.176\/28",
             "region": "af-south-1",
             "service": "S3",
@@ -1927,6 +1933,12 @@
             "network_border_group": "eu-north-1"
         },
         {
+            "ip_prefix": "1.178.17.0\/24",
+            "region": "eu-south-1",
+            "service": "S3",
+            "network_border_group": "eu-south-1"
+        },
+        {
             "ip_prefix": "35.152.74.144\/28",
             "region": "eu-south-1",
             "service": "S3",
@@ -2057,6 +2069,12 @@
             "region": "me-central-1",
             "service": "S3",
             "network_border_group": "me-central-1"
+        },
+        {
+            "ip_prefix": "1.178.16.0\/24",
+            "region": "me-south-1",
+            "service": "S3",
+            "network_border_group": "me-south-1"
         },
         {
             "ip_prefix": "15.184.125.240\/28",
@@ -4119,6 +4137,12 @@
             "network_border_group": "ap-southeast-5"
         },
         {
+            "ipv6_prefix": "2600:f0f1:88::\/48",
+            "region": "af-south-1",
+            "service": "S3",
+            "network_border_group": "af-south-1"
+        },
+        {
             "ipv6_prefix": "2600:f0f0:6102::\/48",
             "region": "ap-northeast-1",
             "service": "S3",
@@ -4185,6 +4209,12 @@
             "network_border_group": "eu-north-1"
         },
         {
+            "ipv6_prefix": "2600:f0f1:87::\/48",
+            "region": "eu-south-1",
+            "service": "S3",
+            "network_border_group": "eu-south-1"
+        },
+        {
             "ipv6_prefix": "2600:f0f2:7015::\/48",
             "region": "eu-west-1",
             "service": "S3",
@@ -4201,6 +4231,12 @@
             "region": "eu-west-3",
             "service": "S3",
             "network_border_group": "eu-west-3"
+        },
+        {
+            "ipv6_prefix": "2600:f0f1:86::\/48",
+            "region": "me-south-1",
+            "service": "S3",
+            "network_border_group": "me-south-1"
         },
         {
             "ipv6_prefix": "2600:f0f1:81::\/48",
