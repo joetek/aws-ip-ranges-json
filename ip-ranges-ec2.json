@@ -9061,6 +9061,12 @@
             "network_border_group": "cn-northwest-1"
         },
         {
+            "ip_prefix": "173.83.224.0\/22",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "3.5.0.0\/19",
             "region": "us-east-1",
             "service": "EC2",
