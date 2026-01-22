@@ -8491,6 +8491,12 @@
             "network_border_group": "ap-northeast-3"
         },
         {
+            "ip_prefix": "15.193.40.0\/21",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "35.71.101.0\/24",
             "region": "eu-west-3",
             "service": "EC2",
