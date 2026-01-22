@@ -6121,6 +6121,12 @@
             "network_border_group": "ap-east-1"
         },
         {
+            "ip_prefix": "173.83.228.0\/22",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ip_prefix": "18.204.0.0\/14",
             "region": "us-east-1",
             "service": "EC2",
