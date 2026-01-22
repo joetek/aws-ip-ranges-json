@@ -343,6 +343,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "40.168.227.0\/24",
+            "region": "GLOBAL",
+            "service": "EC2",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "54.247.0.0\/16",
             "region": "eu-west-1",
             "service": "EC2",
@@ -2743,6 +2749,12 @@
             "network_border_group": "ap-northeast-1"
         },
         {
+            "ip_prefix": "40.168.225.0\/24",
+            "region": "GLOBAL",
+            "service": "EC2",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "75.3.128.0\/18",
             "region": "us-east-2",
             "service": "EC2",
@@ -4682,6 +4694,12 @@
         },
         {
             "ip_prefix": "40.168.224.0\/24",
+            "region": "GLOBAL",
+            "service": "EC2",
+            "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "40.168.231.0\/24",
             "region": "GLOBAL",
             "service": "EC2",
             "network_border_group": "GLOBAL"
@@ -7411,6 +7429,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ip_prefix": "40.168.228.0\/24",
+            "region": "GLOBAL",
+            "service": "EC2",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "54.204.0.0\/15",
             "region": "us-east-1",
             "service": "EC2",
@@ -7529,6 +7553,12 @@
             "region": "eu-south-1",
             "service": "EC2",
             "network_border_group": "eu-south-1"
+        },
+        {
+            "ip_prefix": "40.168.230.0\/24",
+            "region": "GLOBAL",
+            "service": "EC2",
+            "network_border_group": "GLOBAL"
         },
         {
             "ip_prefix": "1.178.8.0\/24",
@@ -9563,6 +9593,12 @@
             "region": "eu-central-1",
             "service": "EC2",
             "network_border_group": "eu-central-1"
+        },
+        {
+            "ip_prefix": "40.168.229.0\/24",
+            "region": "GLOBAL",
+            "service": "EC2",
+            "network_border_group": "GLOBAL"
         },
         {
             "ip_prefix": "52.95.255.0\/28",
