@@ -6715,6 +6715,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ip_prefix": "15.129.28.0\/24",
+            "region": "ca-central-1",
+            "service": "EC2",
+            "network_border_group": "ca-central-1"
+        },
+        {
             "ip_prefix": "15.181.252.0\/24",
             "region": "us-west-2",
             "service": "EC2",
