@@ -8449,6 +8449,12 @@
             "network_border_group": "us-west-2-lax-1"
         },
         {
+            "ip_prefix": "18.96.4.0\/22",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "18.196.0.0\/15",
             "region": "eu-central-1",
             "service": "EC2",
