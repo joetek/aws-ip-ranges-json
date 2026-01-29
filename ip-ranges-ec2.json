@@ -14601,6 +14601,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ipv6_prefix": "2606:f40:fff5::\/48",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2606:7b40:1000:2000::\/56",
             "region": "us-west-2",
             "service": "EC2",
