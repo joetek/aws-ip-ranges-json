@@ -277,6 +277,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "24.110.0.0\/21",
+            "region": "GLOBAL",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "99.82.167.0\/24",
             "region": "us-east-1",
             "service": "GLOBALACCELERATOR",

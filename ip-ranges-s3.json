@@ -1627,6 +1627,12 @@
             "network_border_group": "ap-east-1"
         },
         {
+            "ip_prefix": "1.178.31.0\/24",
+            "region": "ap-east-2",
+            "service": "S3",
+            "network_border_group": "ap-east-2"
+        },
+        {
             "ip_prefix": "43.212.135.0\/28",
             "region": "ap-east-2",
             "service": "S3",
@@ -4387,6 +4393,12 @@
             "region": "ap-east-1",
             "service": "S3",
             "network_border_group": "ap-east-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f2:7025::\/48",
+            "region": "ap-east-2",
+            "service": "S3",
+            "network_border_group": "ap-east-2"
         },
         {
             "ipv6_prefix": "2600:f0f0:6102::\/48",
