@@ -20091,12 +20091,6 @@
             "network_border_group": "ap-northeast-3"
         },
         {
-            "ipv6_prefix": "2631:1:105::\/48",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ipv6_prefix": "2600:1f29:8000::\/36",
             "region": "us-east-1",
             "service": "EC2",
