@@ -175,6 +175,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "35.71.76.0\/22",
+            "region": "us-east-1",
+            "service": "DYNAMODB",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "35.71.68.0\/22",
             "region": "us-east-1",
             "service": "DYNAMODB",
