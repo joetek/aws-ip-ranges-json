@@ -11439,12 +11439,6 @@
             "network_border_group": "me-central-1"
         },
         {
-            "ipv6_prefix": "2406:da1a::\/36",
-            "region": "ap-south-1",
-            "service": "EC2",
-            "network_border_group": "ap-south-1"
-        },
-        {
             "ipv6_prefix": "2600:1f30:a400::\/40",
             "region": "ca-west-1",
             "service": "EC2",
@@ -15361,6 +15355,12 @@
             "region": "eu-central-1",
             "service": "EC2",
             "network_border_group": "eu-central-1"
+        },
+        {
+            "ipv6_prefix": "2406:da1a::\/35",
+            "region": "ap-south-1",
+            "service": "EC2",
+            "network_border_group": "ap-south-1"
         },
         {
             "ipv6_prefix": "2600:1f30:5000::\/40",
