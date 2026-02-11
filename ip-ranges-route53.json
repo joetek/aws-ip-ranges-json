@@ -165,7 +165,7 @@
             "network_border_group": "GLOBAL"
         },
         {
-            "ipv6_prefix": "2600:f0f0:400::\/44",
+            "ipv6_prefix": "2600:f0f0:400::\/47",
             "region": "GLOBAL",
             "service": "ROUTE53",
             "network_border_group": "GLOBAL"
