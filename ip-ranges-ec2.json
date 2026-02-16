@@ -8899,6 +8899,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "64.73.203.160\/27",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "96.0.96.0\/22",
             "region": "us-east-1",
             "service": "EC2",
