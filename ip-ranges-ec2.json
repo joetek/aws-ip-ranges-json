@@ -889,6 +889,12 @@
             "network_border_group": "eu-south-1"
         },
         {
+            "ip_prefix": "16.214.36.0\/22",
+            "region": "ap-southeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-1"
+        },
+        {
             "ip_prefix": "35.50.212.0\/24",
             "region": "me-south-1",
             "service": "EC2",
@@ -2387,6 +2393,12 @@
             "region": "ap-northeast-1",
             "service": "EC2",
             "network_border_group": "ap-northeast-1-tpe-1"
+        },
+        {
+            "ip_prefix": "16.214.8.0\/22",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
         },
         {
             "ip_prefix": "35.96.7.0\/24",
@@ -4009,6 +4021,12 @@
             "network_border_group": "us-gov-east-1"
         },
         {
+            "ip_prefix": "16.214.4.0\/22",
+            "region": "us-west-1",
+            "service": "EC2",
+            "network_border_group": "us-west-1"
+        },
+        {
             "ip_prefix": "18.97.80.0\/20",
             "region": "ap-southeast-7",
             "service": "EC2",
@@ -4517,6 +4535,12 @@
             "region": "us-east-1",
             "service": "EC2",
             "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "16.214.28.0\/22",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
         },
         {
             "ip_prefix": "18.89.128.0\/18",
@@ -9433,6 +9457,12 @@
             "network_border_group": "ap-south-2"
         },
         {
+            "ip_prefix": "16.214.24.0\/22",
+            "region": "eu-south-2",
+            "service": "EC2",
+            "network_border_group": "eu-south-2"
+        },
+        {
             "ip_prefix": "18.138.0.0\/15",
             "region": "ap-southeast-1",
             "service": "EC2",
@@ -10207,6 +10237,12 @@
             "network_border_group": "me-central-1"
         },
         {
+            "ip_prefix": "16.214.20.0\/22",
+            "region": "eu-west-2",
+            "service": "EC2",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "51.16.0.0\/15",
             "region": "il-central-1",
             "service": "EC2",
@@ -10235,6 +10271,12 @@
             "region": "us-east-2",
             "service": "EC2",
             "network_border_group": "us-east-2"
+        },
+        {
+            "ip_prefix": "16.214.44.0\/22",
+            "region": "ap-south-2",
+            "service": "EC2",
+            "network_border_group": "ap-south-2"
         },
         {
             "ip_prefix": "18.254.0.0\/16",
@@ -10697,6 +10739,12 @@
             "region": "ca-west-1",
             "service": "EC2",
             "network_border_group": "ca-west-1"
+        },
+        {
+            "ip_prefix": "16.214.0.0\/22",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ip_prefix": "18.96.8.0\/21",
