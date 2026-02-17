@@ -16083,12 +16083,6 @@
             "network_border_group": "ap-east-2"
         },
         {
-            "ipv6_prefix": "2600:f0f0:400::\/47",
-            "region": "us-gov-east-1",
-            "service": "EC2",
-            "network_border_group": "us-gov-east-1"
-        },
-        {
             "ipv6_prefix": "2600:f0f0:8170::\/48",
             "region": "ap-northeast-3",
             "service": "EC2",
@@ -16987,6 +16981,12 @@
             "region": "cn-north-1",
             "service": "EC2",
             "network_border_group": "cn-north-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:400::\/44",
+            "region": "us-gov-east-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-east-1"
         },
         {
             "ipv6_prefix": "2600:f0f0:552d::\/48",
