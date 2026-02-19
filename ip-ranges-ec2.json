@@ -14325,6 +14325,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ipv6_prefix": "2600:f0fb:f000::\/44",
+            "region": "us-gov-west-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-west-1"
+        },
+        {
             "ipv6_prefix": "2a05:d07f:8000::\/40",
             "region": "eu-west-1",
             "service": "EC2",
