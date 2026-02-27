@@ -19389,6 +19389,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ipv6_prefix": "2606:7b40:1b0f:500::\/56",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2001:3fc3:800::\/40",
             "region": "eusc-de-east-1",
             "service": "EC2",
