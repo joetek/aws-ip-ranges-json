@@ -1351,6 +1351,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "16.180.0.0\/16",
+            "region": "me-south-1",
+            "service": "EC2",
+            "network_border_group": "me-south-1"
+        },
+        {
             "ip_prefix": "35.54.52.0\/24",
             "region": "eu-south-1",
             "service": "EC2",
