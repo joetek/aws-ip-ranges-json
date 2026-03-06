@@ -1981,6 +1981,12 @@
             "network_border_group": "eu-west-2"
         },
         {
+            "ip_prefix": "51.74.17.0\/24",
+            "region": "eusc-de-east-1",
+            "service": "EC2",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
             "ip_prefix": "52.80.0.0\/16",
             "region": "cn-north-1",
             "service": "EC2",
@@ -19333,6 +19339,12 @@
             "region": "eu-west-3",
             "service": "EC2",
             "network_border_group": "eu-west-3"
+        },
+        {
+            "ipv6_prefix": "2001:3fc6:2::\/48",
+            "region": "eusc-de-east-1",
+            "service": "EC2",
+            "network_border_group": "eusc-de-east-1"
         },
         {
             "ipv6_prefix": "2406:dabb:a000::\/40",
