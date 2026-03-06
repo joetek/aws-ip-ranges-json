@@ -7118,9 +7118,9 @@
         },
         {
             "ip_prefix": "23.228.214.0\/24",
-            "region": "us-east-1",
+            "region": "GLOBAL",
             "service": "AMAZON",
-            "network_border_group": "us-east-1"
+            "network_border_group": "GLOBAL"
         },
         {
             "ip_prefix": "35.97.193.0\/24",
@@ -7448,9 +7448,9 @@
         },
         {
             "ip_prefix": "23.228.213.0\/24",
-            "region": "us-east-1",
+            "region": "GLOBAL",
             "service": "AMAZON",
-            "network_border_group": "us-east-1"
+            "network_border_group": "GLOBAL"
         },
         {
             "ip_prefix": "32.192.0.0\/13",
