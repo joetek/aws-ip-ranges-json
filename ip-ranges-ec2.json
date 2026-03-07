@@ -10123,6 +10123,12 @@
             "network_border_group": "ap-southeast-6"
         },
         {
+            "ip_prefix": "15.129.38.0\/23",
+            "region": "ap-southeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-1"
+        },
+        {
             "ip_prefix": "35.71.105.0\/24",
             "region": "eu-central-1",
             "service": "EC2",

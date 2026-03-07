@@ -30097,6 +30097,12 @@
             "network_border_group": "ap-southeast-6"
         },
         {
+            "ip_prefix": "15.129.38.0\/23",
+            "region": "ap-southeast-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-1"
+        },
+        {
             "ip_prefix": "15.190.48.0\/20",
             "region": "ca-west-1",
             "service": "AMAZON",
