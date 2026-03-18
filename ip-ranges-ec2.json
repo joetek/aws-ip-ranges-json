@@ -6734,9 +6734,9 @@
         },
         {
             "ip_prefix": "1.178.86.0\/23",
-            "region": "us-east-2",
+            "region": "us-east-1",
             "service": "EC2",
-            "network_border_group": "us-east-2"
+            "network_border_group": "us-east-1"
         },
         {
             "ip_prefix": "3.5.212.0\/23",
@@ -19332,7 +19332,7 @@
             "ipv6_prefix": "2600:1f19:c000::\/36",
             "region": "us-east-1",
             "service": "EC2",
-            "network_border_group": "us-east-1-dfw-2"
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2600:1f61:c000::\/40",
