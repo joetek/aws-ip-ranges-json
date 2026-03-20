@@ -9007,6 +9007,12 @@
             "network_border_group": "ap-northeast-3"
         },
         {
+            "ip_prefix": "40.235.192.0\/18",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ip_prefix": "52.95.250.0\/24",
             "region": "ca-central-1",
             "service": "EC2",
@@ -18313,6 +18319,12 @@
             "region": "sa-east-1",
             "service": "EC2",
             "network_border_group": "sa-east-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f1:12::\/47",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2600:f0f1:4240::\/42",
