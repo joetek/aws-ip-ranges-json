@@ -47673,6 +47673,12 @@
             "network_border_group": "us-gov-west-1"
         },
         {
+            "ipv6_prefix": "2631:1:101::\/48",
+            "region": "eu-west-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ipv6_prefix": "2406:dae9:8800::\/40",
             "region": "ap-southeast-1",
             "service": "AMAZON",
