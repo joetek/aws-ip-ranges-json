@@ -17445,12 +17445,6 @@
             "network_border_group": "us-west-2-phx-1"
         },
         {
-            "ipv6_prefix": "2606:7b40:a3e:6800::\/54",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ipv6_prefix": "2406:da33:b000::\/40",
             "region": "ap-south-2",
             "service": "EC2",
@@ -18139,12 +18133,6 @@
             "region": "ca-central-1",
             "service": "EC2",
             "network_border_group": "ca-central-1"
-        },
-        {
-            "ipv6_prefix": "2606:7b40:a3e:400::\/54",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
         },
         {
             "ipv6_prefix": "2606:7b40:10ff:40::\/59",
@@ -18850,12 +18838,6 @@
         },
         {
             "ipv6_prefix": "2606:f40:8400::\/39",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
-        },
-        {
-            "ipv6_prefix": "2606:7b40:a3e:6400::\/54",
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2"
