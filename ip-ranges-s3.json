@@ -3783,6 +3783,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ipv6_prefix": "2400:7fc0:4100::\/48",
+            "region": "cn-north-1",
+            "service": "S3",
+            "network_border_group": "cn-north-1"
+        },
+        {
             "ipv6_prefix": "2600:1fa0:ec00::\/40",
             "region": "sa-west-1",
             "service": "S3",
