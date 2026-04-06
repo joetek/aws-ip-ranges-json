@@ -42747,12 +42747,6 @@
             "network_border_group": "us-east-2"
         },
         {
-            "ipv6_prefix": "2a05:d01c::\/36",
-            "region": "eu-west-2",
-            "service": "AMAZON",
-            "network_border_group": "eu-west-2"
-        },
-        {
             "ipv6_prefix": "2a05:d059:4000::\/40",
             "region": "eu-central-1",
             "service": "AMAZON",
@@ -47407,6 +47401,12 @@
             "region": "me-south-1",
             "service": "AMAZON",
             "network_border_group": "me-south-1"
+        },
+        {
+            "ipv6_prefix": "2a05:d01c::\/35",
+            "region": "eu-west-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-west-2"
         },
         {
             "ipv6_prefix": "2001:3fc7:8800::\/40",
