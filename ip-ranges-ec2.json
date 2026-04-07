@@ -19701,6 +19701,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ipv6_prefix": "2606:7b40:10f4:3220::\/60",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ipv6_prefix": "2a05:d036:6000::\/40",
             "region": "eu-north-1",
             "service": "EC2",
