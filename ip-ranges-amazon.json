@@ -1639,6 +1639,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ip_prefix": "66.182.96.0\/20",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "69.107.12.80\/29",
             "region": "us-east-1",
             "service": "AMAZON",
