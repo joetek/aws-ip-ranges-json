@@ -1543,6 +1543,12 @@
             "network_border_group": "cn-north-1"
         },
         {
+            "ip_prefix": "54.222.89.0\/24",
+            "region": "cn-north-1",
+            "service": "S3",
+            "network_border_group": "cn-north-1"
+        },
+        {
             "ip_prefix": "71.131.196.224\/28",
             "region": "cn-north-1",
             "service": "S3",
