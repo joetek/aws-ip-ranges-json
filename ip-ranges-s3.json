@@ -1561,6 +1561,12 @@
             "network_border_group": "cn-north-1"
         },
         {
+            "ip_prefix": "43.193.65.0\/24",
+            "region": "cn-northwest-1",
+            "service": "S3",
+            "network_border_group": "cn-northwest-1"
+        },
+        {
             "ip_prefix": "68.79.2.192\/28",
             "region": "cn-northwest-1",
             "service": "S3",
@@ -4819,6 +4825,12 @@
             "region": "ap-southeast-5",
             "service": "S3",
             "network_border_group": "ap-southeast-5"
+        },
+        {
+            "ipv6_prefix": "2400:7fc0:110::\/56",
+            "region": "cn-north-1",
+            "service": "S3",
+            "network_border_group": "cn-north-1"
         },
         {
             "ipv6_prefix": "2600:f0f0:6119::\/48",
