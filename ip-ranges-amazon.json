@@ -35847,6 +35847,12 @@
             "network_border_group": "eu-central-1"
         },
         {
+            "ipv6_prefix": "2600:f0f3:f010::\/56",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2606:f40:ffe4::\/48",
             "region": "ap-southeast-1",
             "service": "AMAZON",
