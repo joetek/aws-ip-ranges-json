@@ -22075,6 +22075,12 @@
             "network_border_group": "ap-east-2"
         },
         {
+            "ip_prefix": "23.238.128.0\/17",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "52.93.69.0\/24",
             "region": "me-south-1",
             "service": "AMAZON",
