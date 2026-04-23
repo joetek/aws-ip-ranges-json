@@ -487,12 +487,6 @@
             "network_border_group": "eu-central-1"
         },
         {
-            "ip_prefix": "1.179.60.0\/23",
-            "region": "GLOBAL",
-            "service": "GLOBALACCELERATOR",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ip_prefix": "3.2.59.0\/24",
             "region": "eu-west-1",
             "service": "GLOBALACCELERATOR",
