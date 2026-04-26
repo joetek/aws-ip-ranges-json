@@ -22371,6 +22371,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ipv6_prefix": "2605:b140:9802::\/48",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2406:daf2:b000::\/40",
             "region": "ap-south-2",
             "service": "EC2",
