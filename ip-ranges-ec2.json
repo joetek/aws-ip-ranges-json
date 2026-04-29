@@ -7519,12 +7519,6 @@
             "network_border_group": "eu-west-1"
         },
         {
-            "ip_prefix": "1.178.172.0\/23",
-            "region": "GLOBAL",
-            "service": "EC2",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ip_prefix": "35.50.232.0\/24",
             "region": "ap-south-1",
             "service": "EC2",
@@ -7967,12 +7961,6 @@
             "region": "ap-southeast-4",
             "service": "EC2",
             "network_border_group": "ap-southeast-4"
-        },
-        {
-            "ip_prefix": "1.179.60.0\/23",
-            "region": "GLOBAL",
-            "service": "EC2",
-            "network_border_group": "GLOBAL"
         },
         {
             "ip_prefix": "54.26.166.0\/24",
