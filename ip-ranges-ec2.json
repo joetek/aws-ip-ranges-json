@@ -13533,6 +13533,12 @@
             "network_border_group": "us-west-2-sea-1"
         },
         {
+            "ipv6_prefix": "2631:1:106::\/48",
+            "region": "sa-east-1",
+            "service": "EC2",
+            "network_border_group": "sa-east-1"
+        },
+        {
             "ipv6_prefix": "2a05:d033:5000::\/40",
             "region": "il-central-1",
             "service": "EC2",
