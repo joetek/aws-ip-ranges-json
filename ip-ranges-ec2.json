@@ -19155,12 +19155,6 @@
             "network_border_group": "us-west-2"
         },
         {
-            "ipv6_prefix": "2606:7b40:3000::\/54",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ipv6_prefix": "2620:107:3002::\/64",
             "region": "us-east-1",
             "service": "EC2",
