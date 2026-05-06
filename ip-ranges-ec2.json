@@ -8011,6 +8011,12 @@
             "network_border_group": "ap-south-1"
         },
         {
+            "ip_prefix": "15.129.60.0\/24",
+            "region": "us-west-2",
+            "service": "EC2",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ip_prefix": "15.193.144.0\/22",
             "region": "eu-west-2",
             "service": "EC2",
