@@ -3403,6 +3403,12 @@
             "network_border_group": "ap-southeast-4"
         },
         {
+            "ip_prefix": "23.254.32.0\/21",
+            "region": "us-south-1",
+            "service": "EC2",
+            "network_border_group": "us-south-1"
+        },
+        {
             "ip_prefix": "43.216.0.0\/15",
             "region": "ap-southeast-5",
             "service": "EC2",
