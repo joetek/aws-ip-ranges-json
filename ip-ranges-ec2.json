@@ -10369,6 +10369,12 @@
             "network_border_group": "ap-northeast-2"
         },
         {
+            "ip_prefix": "15.177.108.0\/24",
+            "region": "us-south-1",
+            "service": "EC2",
+            "network_border_group": "us-south-1"
+        },
+        {
             "ip_prefix": "15.220.224.0\/23",
             "region": "us-west-2",
             "service": "EC2",
