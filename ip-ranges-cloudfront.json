@@ -655,6 +655,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "51.74.192.0\/18",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "64.252.64.0\/18",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
@@ -1306,6 +1312,12 @@
         },
         {
             "ipv6_prefix": "2400:7fc0:500::\/40",
+            "region": "GLOBAL",
+            "service": "CLOUDFRONT",
+            "network_border_group": "GLOBAL"
+        },
+        {
+            "ipv6_prefix": "2001:3fc6:20::\/43",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
