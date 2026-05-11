@@ -7555,6 +7555,12 @@
             "network_border_group": "eu-west-3"
         },
         {
+            "ip_prefix": "51.74.128.0\/18",
+            "region": "eusc-de-east-1",
+            "service": "EC2",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
             "ip_prefix": "54.194.0.0\/15",
             "region": "eu-west-1",
             "service": "EC2",
