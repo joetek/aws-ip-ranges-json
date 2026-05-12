@@ -5923,6 +5923,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "1.178.180.0\/22",
+            "region": "GLOBAL",
+            "service": "EC2",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "3.2.79.0\/24",
             "region": "eu-west-1",
             "service": "EC2",
