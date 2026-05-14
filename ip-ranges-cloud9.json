@@ -1,18 +1,6 @@
 {
     "prefixes": [
         {
-            "ip_prefix": "140.179.1.64\/27",
-            "region": "cn-north-1",
-            "service": "CLOUD9",
-            "network_border_group": "cn-north-1"
-        },
-        {
-            "ip_prefix": "140.179.1.96\/27",
-            "region": "cn-north-1",
-            "service": "CLOUD9",
-            "network_border_group": "cn-north-1"
-        },
-        {
             "ip_prefix": "140.179.79.160\/27",
             "region": "cn-north-1",
             "service": "CLOUD9",
