@@ -25,12 +25,6 @@
             "network_border_group": "cn-north-1"
         },
         {
-            "ip_prefix": "52.83.25.128\/27",
-            "region": "cn-northwest-1",
-            "service": "CLOUD9",
-            "network_border_group": "cn-northwest-1"
-        },
-        {
             "ip_prefix": "52.83.25.160\/27",
             "region": "cn-northwest-1",
             "service": "CLOUD9",
