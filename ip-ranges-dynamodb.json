@@ -439,6 +439,12 @@
             "network_border_group": "ap-northeast-3"
         },
         {
+            "ip_prefix": "13.248.82.0\/24",
+            "region": "us-south-1",
+            "service": "DYNAMODB",
+            "network_border_group": "us-south-1"
+        },
+        {
             "ip_prefix": "35.71.100.0\/24",
             "region": "ap-south-1",
             "service": "DYNAMODB",
