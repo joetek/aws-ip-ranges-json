@@ -3217,12 +3217,6 @@
             "network_border_group": "eu-west-1"
         },
         {
-            "ip_prefix": "64.73.195.0\/24",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ip_prefix": "99.77.234.0\/24",
             "region": "sa-east-1",
             "service": "EC2",
