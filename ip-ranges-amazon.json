@@ -40821,12 +40821,6 @@
             "network_border_group": "us-east-1"
         },
         {
-            "ipv6_prefix": "2600:f0f1:1c::\/48",
-            "region": "us-east-2",
-            "service": "AMAZON",
-            "network_border_group": "us-east-2"
-        },
-        {
             "ipv6_prefix": "2600:f0fb:f100::\/48",
             "region": "us-east-1",
             "service": "AMAZON",
