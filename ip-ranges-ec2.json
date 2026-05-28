@@ -12327,6 +12327,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ipv6_prefix": "2631:1:10c::\/48",
+            "region": "ca-central-1",
+            "service": "EC2",
+            "network_border_group": "ca-central-1"
+        },
+        {
             "ipv6_prefix": "2a05:d032:e000::\/40",
             "region": "me-south-1",
             "service": "EC2",
@@ -15655,6 +15661,12 @@
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2"
+        },
+        {
+            "ipv6_prefix": "2631:1:10b::\/48",
+            "region": "us-east-2",
+            "service": "EC2",
+            "network_border_group": "us-east-2"
         },
         {
             "ipv6_prefix": "2a05:d030:2000::\/40",
