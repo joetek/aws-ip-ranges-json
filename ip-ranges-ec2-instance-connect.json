@@ -97,6 +97,12 @@
             "network_border_group": "ap-southeast-5"
         },
         {
+            "ip_prefix": "3.103.24.208\/29",
+            "region": "ap-southeast-6",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "ap-southeast-6"
+        },
+        {
             "ip_prefix": "43.209.155.96\/29",
             "region": "ap-southeast-7",
             "service": "EC2_INSTANCE_CONNECT",
@@ -313,6 +319,12 @@
             "region": "ap-southeast-5",
             "service": "EC2_INSTANCE_CONNECT",
             "network_border_group": "ap-southeast-5"
+        },
+        {
+            "ipv6_prefix": "2406:da12:80b3:4800::\/56",
+            "region": "ap-southeast-6",
+            "service": "EC2_INSTANCE_CONNECT",
+            "network_border_group": "ap-southeast-6"
         },
         {
             "ipv6_prefix": "2406:da14:85c5:5b00::\/56",
