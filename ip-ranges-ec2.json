@@ -11799,6 +11799,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ipv6_prefix": "2606:f40:d000::\/39",
+            "region": "eu-west-1",
+            "service": "EC2",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ipv6_prefix": "2a05:d000:a000::\/40",
             "region": "eu-south-1",
             "service": "EC2",
@@ -15517,6 +15523,12 @@
             "region": "us-gov-west-1",
             "service": "EC2",
             "network_border_group": "us-gov-west-1"
+        },
+        {
+            "ipv6_prefix": "2606:f40:5000::\/39",
+            "region": "eu-west-1",
+            "service": "EC2",
+            "network_border_group": "eu-west-1"
         },
         {
             "ipv6_prefix": "2a05:d07f:8000::\/40",
