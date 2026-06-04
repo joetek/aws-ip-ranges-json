@@ -10525,12 +10525,6 @@
             "network_border_group": "sa-east-1"
         },
         {
-            "ip_prefix": "64.145.74.0\/23",
-            "region": "eu-south-2",
-            "service": "EC2",
-            "network_border_group": "eu-south-2"
-        },
-        {
             "ip_prefix": "99.77.145.0\/24",
             "region": "ap-south-1",
             "service": "EC2",
