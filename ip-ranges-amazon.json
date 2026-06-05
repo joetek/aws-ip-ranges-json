@@ -28519,6 +28519,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "24.110.128.0\/17",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "35.50.178.0\/24",
             "region": "sa-east-1",
             "service": "AMAZON",
