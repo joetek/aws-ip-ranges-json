@@ -7615,6 +7615,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "15.129.80.0\/22",
+            "region": "eu-west-1",
+            "service": "EC2",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ip_prefix": "35.50.232.0\/24",
             "region": "ap-south-1",
             "service": "EC2",
