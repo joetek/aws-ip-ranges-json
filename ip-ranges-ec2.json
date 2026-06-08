@@ -1183,12 +1183,6 @@
             "network_border_group": "us-west-2"
         },
         {
-            "ip_prefix": "64.73.197.0\/24",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ip_prefix": "83.119.64.0\/18",
             "region": "eu-west-2",
             "service": "EC2",
@@ -9083,12 +9077,6 @@
             "region": "us-west-2",
             "service": "EC2",
             "network_border_group": "us-west-2"
-        },
-        {
-            "ip_prefix": "64.73.196.0\/24",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1"
         },
         {
             "ip_prefix": "75.47.0.0\/18",
