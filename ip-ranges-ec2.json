@@ -8770,7 +8770,7 @@
             "ip_prefix": "75.45.128.0\/18",
             "region": "eu-central-1",
             "service": "EC2",
-            "network_border_group": "eu-central-1"
+            "network_border_group": "eu-central-1-ath-1"
         },
         {
             "ip_prefix": "173.83.196.0\/23",
@@ -11232,7 +11232,7 @@
             "ipv6_prefix": "2a05:d02f::\/36",
             "region": "eu-central-1",
             "service": "EC2",
-            "network_border_group": "eu-central-1"
+            "network_border_group": "eu-central-1-ath-1"
         },
         {
             "ipv6_prefix": "2a05:d040:6000::\/40",
@@ -22284,7 +22284,7 @@
             "ipv6_prefix": "2a05:d01f::\/36",
             "region": "eu-central-1",
             "service": "EC2",
-            "network_border_group": "eu-central-1"
+            "network_border_group": "eu-central-1-ath-1"
         },
         {
             "ipv6_prefix": "2a05:d02c::\/36",
