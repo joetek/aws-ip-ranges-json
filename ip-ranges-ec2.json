@@ -7843,6 +7843,12 @@
             "network_border_group": "ap-southeast-2"
         },
         {
+            "ip_prefix": "141.230.0.0\/16",
+            "region": "ap-southeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-1"
+        },
+        {
             "ip_prefix": "184.169.128.0\/17",
             "region": "us-west-1",
             "service": "EC2",
