@@ -15558,7 +15558,7 @@
             "ipv6_prefix": "2600:f0f0:c102::\/48",
             "region": "us-east-1",
             "service": "EC2",
-            "network_border_group": "us-east-1"
+            "network_border_group": "us-east-1-dfw-2"
         },
         {
             "ipv6_prefix": "2600:f0fb:f000::\/44",
