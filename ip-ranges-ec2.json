@@ -20733,6 +20733,12 @@
             "network_border_group": "eusc-de-east-1"
         },
         {
+            "ipv6_prefix": "2001:3fc6:200::\/40",
+            "region": "eusc-de-east-1",
+            "service": "EC2",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
             "ipv6_prefix": "2406:da00:ff00::\/48",
             "region": "us-east-1",
             "service": "EC2",
