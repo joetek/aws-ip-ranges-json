@@ -4201,6 +4201,12 @@
             "network_border_group": "ap-southeast-5"
         },
         {
+            "ip_prefix": "40.39.0.0\/16",
+            "region": "us-gov-west-1",
+            "service": "EC2",
+            "network_border_group": "us-gov-west-1"
+        },
+        {
             "ip_prefix": "64.73.203.0\/24",
             "region": "us-west-2",
             "service": "EC2",
