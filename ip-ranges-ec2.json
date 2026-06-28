@@ -2965,6 +2965,12 @@
             "network_border_group": "ap-southeast-3"
         },
         {
+            "ip_prefix": "63.249.195.0\/24",
+            "region": "il-central-1",
+            "service": "EC2",
+            "network_border_group": "il-central-1"
+        },
+        {
             "ip_prefix": "99.151.80.0\/21",
             "region": "eu-central-2",
             "service": "EC2",
@@ -5135,6 +5141,12 @@
             "region": "mx-central-1",
             "service": "EC2",
             "network_border_group": "mx-central-1"
+        },
+        {
+            "ip_prefix": "63.249.197.0\/24",
+            "region": "il-central-1",
+            "service": "EC2",
+            "network_border_group": "il-central-1"
         },
         {
             "ip_prefix": "99.77.142.0\/24",
@@ -10577,6 +10589,12 @@
             "region": "eu-central-2",
             "service": "EC2",
             "network_border_group": "eu-central-2"
+        },
+        {
+            "ip_prefix": "63.249.196.0\/24",
+            "region": "il-central-1",
+            "service": "EC2",
+            "network_border_group": "il-central-1"
         },
         {
             "ip_prefix": "64.252.71.0\/24",
