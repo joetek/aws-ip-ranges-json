@@ -23565,12 +23565,6 @@
             "network_border_group": "eu-west-3"
         },
         {
-            "ipv6_prefix": "2606:7b40:3001::\/50",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ipv6_prefix": "2a05:d010:8000::\/36",
             "region": "me-west-1",
             "service": "EC2",
