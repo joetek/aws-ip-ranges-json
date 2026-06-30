@@ -13167,12 +13167,6 @@
             "network_border_group": "me-central-1"
         },
         {
-            "ipv6_prefix": "2606:7b40:3002:c000::\/50",
-            "region": "us-west-2",
-            "service": "EC2",
-            "network_border_group": "us-west-2"
-        },
-        {
             "ipv6_prefix": "2600:1f1d:c000::\/36",
             "region": "us-west-2",
             "service": "EC2",
