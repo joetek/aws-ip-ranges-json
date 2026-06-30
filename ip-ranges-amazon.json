@@ -22435,6 +22435,12 @@
             "network_border_group": "ap-southeast-1"
         },
         {
+            "ip_prefix": "35.98.160.0\/20",
+            "region": "ca-central-1",
+            "service": "AMAZON",
+            "network_border_group": "ca-central-1"
+        },
+        {
             "ip_prefix": "51.92.0.0\/16",
             "region": "eu-south-2",
             "service": "AMAZON",
@@ -46207,6 +46213,12 @@
             "region": "us-west-2",
             "service": "AMAZON",
             "network_border_group": "us-west-2"
+        },
+        {
+            "ipv6_prefix": "2631:0:2800::\/39",
+            "region": "ca-central-1",
+            "service": "AMAZON",
+            "network_border_group": "ca-central-1"
         },
         {
             "ipv6_prefix": "2a05:d050:e000::\/40",
