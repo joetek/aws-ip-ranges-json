@@ -8203,12 +8203,6 @@
             "network_border_group": "ap-southeast-1"
         },
         {
-            "ip_prefix": "1.178.86.0\/24",
-            "region": "us-east-2",
-            "service": "EC2",
-            "network_border_group": "us-east-2"
-        },
-        {
             "ip_prefix": "15.129.80.0\/22",
             "region": "eu-west-1",
             "service": "EC2",
