@@ -22789,6 +22789,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ip_prefix": "1.178.86.0\/24",
+            "region": "ap-southeast-3",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-3"
+        },
+        {
             "ip_prefix": "1.178.172.0\/23",
             "region": "GLOBAL",
             "service": "AMAZON",
@@ -38805,6 +38811,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ipv6_prefix": "2600:f008:100::\/40",
+            "region": "eu-central-1",
+            "service": "AMAZON",
+            "network_border_group": "eu-central-1"
+        },
+        {
             "ipv6_prefix": "2600:f0f0:0:300::\/56",
             "region": "us-west-2",
             "service": "AMAZON",
@@ -44569,6 +44581,12 @@
             "region": "us-east-2",
             "service": "AMAZON",
             "network_border_group": "us-east-2"
+        },
+        {
+            "ipv6_prefix": "2600:f008:200::\/40",
+            "region": "eu-south-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-south-2"
         },
         {
             "ipv6_prefix": "2600:f0f1:41c0::\/42",
@@ -50973,6 +50991,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ipv6_prefix": "2631:1:200::\/40",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
+        },
+        {
             "ipv6_prefix": "2406:da32:9000::\/40",
             "region": "ap-southeast-3",
             "service": "AMAZON",
@@ -51307,6 +51331,12 @@
             "region": "GLOBAL",
             "service": "AMAZON",
             "network_border_group": "GLOBAL"
+        },
+        {
+            "ipv6_prefix": "2600:f008::\/40",
+            "region": "us-west-2",
+            "service": "AMAZON",
+            "network_border_group": "us-west-2"
         },
         {
             "ipv6_prefix": "2600:f0f0:8185::\/48",
