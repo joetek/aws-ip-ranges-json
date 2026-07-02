@@ -199,6 +199,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ip_prefix": "35.34.96.0\/24",
+            "region": "eu-west-2",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ip_prefix": "13.248.96.0\/24",
             "region": "eu-west-1",
             "service": "GLOBALACCELERATOR",
