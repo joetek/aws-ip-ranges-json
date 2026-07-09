@@ -14115,6 +14115,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ipv6_prefix": "2606:f40:4b00::\/40",
+            "region": "eu-west-1",
+            "service": "EC2",
+            "network_border_group": "eu-west-1"
+        },
+        {
             "ipv6_prefix": "2606:f40:fff8::\/48",
             "region": "eu-central-1",
             "service": "EC2",
@@ -23575,6 +23581,12 @@
             "region": "eu-west-3",
             "service": "EC2",
             "network_border_group": "eu-west-3"
+        },
+        {
+            "ipv6_prefix": "2606:f40:4904::\/48",
+            "region": "eu-west-1",
+            "service": "EC2",
+            "network_border_group": "eu-west-1"
         },
         {
             "ipv6_prefix": "2a05:d010:8000::\/36",
