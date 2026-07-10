@@ -3345,6 +3345,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ipv6_prefix": "2600:f0f0:4200::\/40",
+            "region": "us-east-2",
+            "service": "S3",
+            "network_border_group": "us-east-2"
+        },
+        {
             "ipv6_prefix": "2406:dab9:c800::\/40",
             "region": "ap-east-2",
             "service": "S3",
