@@ -1401,25 +1401,7 @@
             "network_border_group": "GLOBAL"
         },
         {
-            "ipv6_prefix": "2600:f0f0:93::\/48",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
-        },
-        {
             "ipv6_prefix": "2600:9000:f520::\/44",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
-        },
-        {
-            "ipv6_prefix": "2600:f0f0:94::\/48",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
-        },
-        {
-            "ipv6_prefix": "2600:f0f0:92::\/48",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
@@ -1444,12 +1426,6 @@
         },
         {
             "ipv6_prefix": "2600:f0f0:602::\/47",
-            "region": "GLOBAL",
-            "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
-        },
-        {
-            "ipv6_prefix": "2600:f0f0:95::\/48",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"

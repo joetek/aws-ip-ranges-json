@@ -2041,6 +2041,12 @@
             "network_border_group": "eu-central-1-wl1-muc-wlz-1"
         },
         {
+            "ip_prefix": "15.241.0.0\/16",
+            "region": "af-south-1",
+            "service": "EC2",
+            "network_border_group": "af-south-1"
+        },
+        {
             "ip_prefix": "18.34.72.0\/21",
             "region": "us-east-2",
             "service": "EC2",
