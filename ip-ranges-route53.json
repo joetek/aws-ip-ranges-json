@@ -7,6 +7,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "64.91.192.0\/19",
+            "region": "GLOBAL",
+            "service": "ROUTE53",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "52.95.110.0\/24",
             "region": "GLOBAL",
             "service": "ROUTE53",
