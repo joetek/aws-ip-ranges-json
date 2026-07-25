@@ -13,7 +13,19 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "1.179.52.0\/22",
+            "region": "GLOBAL",
+            "service": "ROUTE53",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "52.95.110.0\/24",
+            "region": "GLOBAL",
+            "service": "ROUTE53",
+            "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "1.179.56.0\/22",
             "region": "GLOBAL",
             "service": "ROUTE53",
             "network_border_group": "GLOBAL"

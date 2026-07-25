@@ -801,6 +801,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ipv6_prefix": "2600:1f01:480a::\/47",
+            "region": "us-west-1",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "us-west-1"
+        },
+        {
             "ipv6_prefix": "2600:1f01:4860::\/47",
             "region": "ap-northeast-2",
             "service": "GLOBALACCELERATOR",
@@ -951,6 +957,12 @@
             "network_border_group": "me-south-1"
         },
         {
+            "ipv6_prefix": "2600:1f01:480c::\/47",
+            "region": "us-east-1",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:1f01:48b0::\/47",
             "region": "ap-southeast-1",
             "service": "GLOBALACCELERATOR",
@@ -969,6 +981,12 @@
             "network_border_group": "us-east-1"
         },
         {
+            "ipv6_prefix": "2600:1f01:480e::\/47",
+            "region": "eu-west-2",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "eu-west-2"
+        },
+        {
             "ipv6_prefix": "2600:1f01:4840::\/47",
             "region": "sa-east-1",
             "service": "GLOBALACCELERATOR",
@@ -985,6 +1003,12 @@
             "region": "eu-central-1",
             "service": "GLOBALACCELERATOR",
             "network_border_group": "eu-central-1"
+        },
+        {
+            "ipv6_prefix": "2600:1f01:4808::\/47",
+            "region": "eu-south-1",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "eu-south-1"
         },
         {
             "ipv6_prefix": "2600:1f01:48d0::\/47",
@@ -1027,6 +1051,12 @@
             "region": "GLOBAL",
             "service": "GLOBALACCELERATOR",
             "network_border_group": "GLOBAL"
+        },
+        {
+            "ipv6_prefix": "2600:1f01:4812::\/47",
+            "region": "ap-southeast-4",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "ap-southeast-4"
         }
     ]
 }
