@@ -13533,12 +13533,6 @@
             "network_border_group": "ap-southeast-3"
         },
         {
-            "ipv6_prefix": "2600:f0f0:700::\/44",
-            "region": "us-east-1",
-            "service": "EC2",
-            "network_border_group": "us-east-1"
-        },
-        {
             "ipv6_prefix": "2600:f0f0:110d::\/48",
             "region": "ap-south-1",
             "service": "EC2",
@@ -16930,6 +16924,12 @@
         },
         {
             "ipv6_prefix": "2600:1f25:c000::\/36",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:700::\/48",
             "region": "us-east-1",
             "service": "EC2",
             "network_border_group": "us-east-1"
@@ -21325,6 +21325,12 @@
             "region": "ca-west-1",
             "service": "EC2",
             "network_border_group": "ca-west-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:701::\/48",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2600:f0f0:8130::\/48",
