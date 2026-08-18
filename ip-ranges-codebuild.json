@@ -25,6 +25,12 @@
             "network_border_group": "cn-northwest-1"
         },
         {
+            "ip_prefix": "51.72.26.64\/28",
+            "region": "eusc-de-east-1",
+            "service": "CODEBUILD",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
             "ip_prefix": "18.252.145.168\/29",
             "region": "us-gov-east-1",
             "service": "CODEBUILD",
