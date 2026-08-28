@@ -7729,6 +7729,12 @@
             "network_border_group": "eu-west-1"
         },
         {
+            "ip_prefix": "1.178.86.0\/24",
+            "region": "ap-southeast-3",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-3"
+        },
+        {
             "ip_prefix": "15.129.80.0\/22",
             "region": "eu-west-1",
             "service": "EC2",
@@ -17311,6 +17317,12 @@
             "region": "us-west-1",
             "service": "EC2",
             "network_border_group": "us-west-1"
+        },
+        {
+            "ipv6_prefix": "2600:1fff:e200::\/40",
+            "region": "ca-central-1",
+            "service": "EC2",
+            "network_border_group": "ca-central-1"
         },
         {
             "ipv6_prefix": "2605:b140:9a04::\/48",
