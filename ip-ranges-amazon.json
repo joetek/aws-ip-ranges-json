@@ -46371,6 +46371,12 @@
             "network_border_group": "us-west-1"
         },
         {
+            "ipv6_prefix": "2600:f0f0:cf9:8c00::\/56",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ipv6_prefix": "2600:f0f0:110b::\/48",
             "region": "ap-southeast-2",
             "service": "AMAZON",
