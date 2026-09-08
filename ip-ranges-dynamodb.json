@@ -67,6 +67,18 @@
             "network_border_group": "cn-north-1"
         },
         {
+            "ip_prefix": "35.71.91.0\/24",
+            "region": "sa-west-1",
+            "service": "DYNAMODB",
+            "network_border_group": "sa-west-1"
+        },
+        {
+            "ip_prefix": "13.248.81.0\/24",
+            "region": "sa-west-1",
+            "service": "DYNAMODB",
+            "network_border_group": "sa-west-1"
+        },
+        {
             "ip_prefix": "35.71.115.0\/24",
             "region": "us-gov-east-1",
             "service": "DYNAMODB",
@@ -313,10 +325,16 @@
             "network_border_group": "ap-east-1"
         },
         {
-            "ip_prefix": "13.248.81.0\/24",
-            "region": "sa-west-1",
+            "ip_prefix": "35.71.90.0\/24",
+            "region": "us-south-1",
             "service": "DYNAMODB",
-            "network_border_group": "sa-west-1"
+            "network_border_group": "us-south-1"
+        },
+        {
+            "ip_prefix": "13.248.82.0\/24",
+            "region": "us-south-1",
+            "service": "DYNAMODB",
+            "network_border_group": "us-south-1"
         },
         {
             "ip_prefix": "35.71.96.0\/24",
@@ -449,12 +467,6 @@
             "region": "ap-northeast-3",
             "service": "DYNAMODB",
             "network_border_group": "ap-northeast-3"
-        },
-        {
-            "ip_prefix": "13.248.82.0\/24",
-            "region": "us-south-1",
-            "service": "DYNAMODB",
-            "network_border_group": "us-south-1"
         },
         {
             "ip_prefix": "35.71.100.0\/24",
