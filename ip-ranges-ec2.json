@@ -5083,6 +5083,12 @@
             "network_border_group": "cn-north-1"
         },
         {
+            "ip_prefix": "64.7.200.0\/21",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "64.252.110.0\/24",
             "region": "ap-northeast-1",
             "service": "EC2",
@@ -7865,12 +7871,6 @@
             "region": "eu-west-1",
             "service": "EC2",
             "network_border_group": "eu-west-1"
-        },
-        {
-            "ip_prefix": "1.178.86.0\/24",
-            "region": "ap-southeast-3",
-            "service": "EC2",
-            "network_border_group": "ap-southeast-3"
         },
         {
             "ip_prefix": "3.2.106.0\/24",
