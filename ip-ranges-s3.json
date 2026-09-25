@@ -4983,6 +4983,12 @@
             "network_border_group": "me-west-1"
         },
         {
+            "ipv6_prefix": "2001:3fc4:1000::\/40",
+            "region": "eusc-de-east-1",
+            "service": "S3",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
             "ipv6_prefix": "2406:da60:8800::\/40",
             "region": "ap-southeast-1",
             "service": "S3",
