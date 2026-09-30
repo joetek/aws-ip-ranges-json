@@ -22273,12 +22273,6 @@
             "network_border_group": "us-west-2"
         },
         {
-            "ip_prefix": "1.178.86.0\/24",
-            "region": "ap-southeast-3",
-            "service": "AMAZON",
-            "network_border_group": "ap-southeast-3"
-        },
-        {
             "ip_prefix": "1.178.172.0\/23",
             "region": "GLOBAL",
             "service": "AMAZON",
@@ -37069,6 +37063,12 @@
             "region": "ca-west-1",
             "service": "AMAZON",
             "network_border_group": "ca-west-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0fb:ca01::\/52",
+            "region": "ap-southeast-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-southeast-1"
         },
         {
             "ipv6_prefix": "2600:f0fb:f102::\/48",
