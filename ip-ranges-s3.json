@@ -1813,6 +1813,12 @@
             "network_border_group": "cn-northwest-1"
         },
         {
+            "ip_prefix": "16.15.64.0\/22",
+            "region": "us-east-1",
+            "service": "S3",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "140.179.36.208\/28",
             "region": "cn-north-1",
             "service": "S3",
