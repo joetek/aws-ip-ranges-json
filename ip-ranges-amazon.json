@@ -33883,6 +33883,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ip_prefix": "15.175.250.0\/23",
+            "region": "ca-central-1",
+            "service": "AMAZON",
+            "network_border_group": "ca-central-1"
+        },
+        {
             "ip_prefix": "15.222.43.128\/26",
             "region": "ca-central-1",
             "service": "AMAZON",
@@ -35270,6 +35276,12 @@
         },
         {
             "ip_prefix": "13.220.47.0\/25",
+            "region": "us-east-1",
+            "service": "AMAZON",
+            "network_border_group": "us-east-1"
+        },
+        {
+            "ip_prefix": "184.195.222.0\/23",
             "region": "us-east-1",
             "service": "AMAZON",
             "network_border_group": "us-east-1"
