@@ -53739,6 +53739,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ipv6_prefix": "2600:f0f0:8187::\/48",
+            "region": "ap-south-1",
+            "service": "AMAZON",
+            "network_border_group": "ap-south-1"
+        },
+        {
             "ipv6_prefix": "2600:f0fb:c900:3000::\/52",
             "region": "ap-southeast-1",
             "service": "AMAZON",
