@@ -1437,6 +1437,18 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ipv6_prefix": "2001:3fc6:4::\/48",
+            "region": "eusc-de-east-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
+            "ipv6_prefix": "2001:3fc6:5::\/48",
+            "region": "eusc-de-east-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
             "ipv6_prefix": "2600:f0f0:602::\/47",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
