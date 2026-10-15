@@ -241,6 +241,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "51.74.21.0\/24",
+            "region": "eusc-de-east-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "eusc-de-east-1"
+        },
+        {
             "ip_prefix": "58.254.138.0\/25",
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
@@ -323,6 +329,12 @@
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "51.74.22.0\/24",
+            "region": "eusc-de-east-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "eusc-de-east-1"
         },
         {
             "ip_prefix": "71.152.0.0\/17",
@@ -569,6 +581,12 @@
             "region": "GLOBAL",
             "service": "CLOUDFRONT",
             "network_border_group": "GLOBAL"
+        },
+        {
+            "ip_prefix": "51.74.20.0\/24",
+            "region": "eusc-de-east-1",
+            "service": "CLOUDFRONT",
+            "network_border_group": "eusc-de-east-1"
         },
         {
             "ip_prefix": "205.251.204.0\/23",
