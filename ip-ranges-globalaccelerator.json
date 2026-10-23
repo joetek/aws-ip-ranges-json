@@ -109,6 +109,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "35.34.106.0\/24",
+            "region": "af-south-1",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "af-south-1"
+        },
+        {
             "ip_prefix": "15.197.0.0\/23",
             "region": "GLOBAL",
             "service": "GLOBALACCELERATOR",
@@ -997,6 +1003,12 @@
             "region": "eu-central-1",
             "service": "GLOBALACCELERATOR",
             "network_border_group": "eu-central-1"
+        },
+        {
+            "ipv6_prefix": "2600:1f01:4816::\/47",
+            "region": "af-south-1",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "af-south-1"
         },
         {
             "ipv6_prefix": "2600:1f01:48f2::\/47",
