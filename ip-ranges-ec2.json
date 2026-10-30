@@ -12345,6 +12345,12 @@
             "network_border_group": "us-east-2-jan-1"
         },
         {
+            "ipv6_prefix": "2600:f0f0:4314::\/46",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-chi-2"
+        },
+        {
             "ipv6_prefix": "2605:b140:9a05::\/48",
             "region": "ap-southeast-2",
             "service": "EC2",
@@ -13105,6 +13111,12 @@
             "region": "GLOBAL",
             "service": "EC2",
             "network_border_group": "GLOBAL"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:4300::\/46",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2600:f0f3:f010:200::\/56",
@@ -14479,6 +14491,12 @@
             "region": "us-east-2",
             "service": "EC2",
             "network_border_group": "us-east-2"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:4304::\/46",
+            "region": "ap-southeast-1",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-1"
         },
         {
             "ipv6_prefix": "2600:f0f0:5404::\/48",
@@ -17611,6 +17629,12 @@
             "region": "us-east-1",
             "service": "EC2",
             "network_border_group": "us-east-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:431c::\/46",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-nyc-2"
         },
         {
             "ipv6_prefix": "2600:f0f0:5405::\/48",
@@ -21933,6 +21957,12 @@
             "network_border_group": "us-gov-east-1"
         },
         {
+            "ipv6_prefix": "2600:f0f0:4324::\/46",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "2600:f0f0:6027::\/48",
             "region": "us-south-1",
             "service": "EC2",
@@ -22489,6 +22519,12 @@
             "region": "ap-southeast-1",
             "service": "EC2",
             "network_border_group": "ap-southeast-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:4320::\/46",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
         },
         {
             "ipv6_prefix": "2a05:d072:5000::\/40",
@@ -23344,6 +23380,12 @@
         },
         {
             "ipv6_prefix": "2600:1ff2:c000::\/40",
+            "region": "us-west-1",
+            "service": "EC2",
+            "network_border_group": "us-west-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:430c::\/46",
             "region": "us-west-1",
             "service": "EC2",
             "network_border_group": "us-west-1"
@@ -24265,6 +24307,12 @@
             "region": "ca-central-1",
             "service": "EC2",
             "network_border_group": "ca-central-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:4310::\/46",
+            "region": "eu-central-1",
+            "service": "EC2",
+            "network_border_group": "eu-central-1"
         },
         {
             "ipv6_prefix": "2606:7b40:1b0e:4000::\/56",
@@ -25725,6 +25773,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ipv6_prefix": "2600:f0f0:4318::\/46",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1-mia-2"
+        },
+        {
             "ipv6_prefix": "2600:f0f0:612b::\/48",
             "region": "us-west-1",
             "service": "EC2",
@@ -26023,6 +26077,12 @@
             "region": "ap-southeast-1",
             "service": "EC2",
             "network_border_group": "ap-southeast-1"
+        },
+        {
+            "ipv6_prefix": "2600:f0f0:4308::\/46",
+            "region": "eu-west-1",
+            "service": "EC2",
+            "network_border_group": "eu-west-1"
         },
         {
             "ipv6_prefix": "2600:f0f0:6107::\/48",
