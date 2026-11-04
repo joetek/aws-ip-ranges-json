@@ -45303,6 +45303,12 @@
             "network_border_group": "ca-central-1"
         },
         {
+            "ipv6_prefix": "2600:f0f0:9::\/48",
+            "region": "GLOBAL",
+            "service": "AMAZON",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ipv6_prefix": "2605:b140:9a04::\/48",
             "region": "ap-southeast-1",
             "service": "AMAZON",

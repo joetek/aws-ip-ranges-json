@@ -745,6 +745,12 @@
             "network_border_group": "GLOBAL"
         },
         {
+            "ip_prefix": "35.54.16.0\/20",
+            "region": "GLOBAL",
+            "service": "GLOBALACCELERATOR",
+            "network_border_group": "GLOBAL"
+        },
+        {
             "ip_prefix": "13.248.101.0\/24",
             "region": "eu-west-2",
             "service": "GLOBALACCELERATOR",
