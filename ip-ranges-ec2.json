@@ -26763,12 +26763,6 @@
             "network_border_group": "us-east-1"
         },
         {
-            "ipv6_prefix": "2606:f40:8800::\/40",
-            "region": "us-east-2",
-            "service": "EC2",
-            "network_border_group": "us-east-2"
-        },
-        {
             "ipv6_prefix": "2606:f40:d800::\/40",
             "region": "eu-central-1",
             "service": "EC2",
