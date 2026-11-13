@@ -26451,6 +26451,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ipv6_prefix": "2606:7b40:1a2f:340::\/60",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ipv6_prefix": "240f:8018::\/36",
             "region": "cn-north-1",
             "service": "EC2",
