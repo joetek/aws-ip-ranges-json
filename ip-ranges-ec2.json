@@ -5635,6 +5635,12 @@
             "network_border_group": "us-west-2"
         },
         {
+            "ip_prefix": "72.150.22.0\/24",
+            "region": "us-east-1",
+            "service": "EC2",
+            "network_border_group": "us-east-1"
+        },
+        {
             "ip_prefix": "98.80.0.0\/13",
             "region": "us-east-1",
             "service": "EC2",
@@ -8039,6 +8045,12 @@
             "region": "eu-west-1",
             "service": "EC2",
             "network_border_group": "eu-west-1"
+        },
+        {
+            "ip_prefix": "1.178.86.0\/24",
+            "region": "ap-southeast-3",
+            "service": "EC2",
+            "network_border_group": "ap-southeast-3"
         },
         {
             "ip_prefix": "3.2.106.0\/24",
