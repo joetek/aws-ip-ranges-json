@@ -716,9 +716,9 @@
         },
         {
             "ip_prefix": "51.74.192.0\/18",
-            "region": "GLOBAL",
+            "region": "eusc-de-east-1",
             "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
+            "network_border_group": "eusc-de-east-1"
         },
         {
             "ip_prefix": "64.252.64.0\/18",
@@ -1396,9 +1396,9 @@
         },
         {
             "ipv6_prefix": "2001:3fc6:20::\/43",
-            "region": "GLOBAL",
+            "region": "eusc-de-east-1",
             "service": "CLOUDFRONT",
-            "network_border_group": "GLOBAL"
+            "network_border_group": "eusc-de-east-1"
         },
         {
             "ipv6_prefix": "2600:f0f0:9::\/48",
