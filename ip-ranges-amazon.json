@@ -34987,6 +34987,12 @@
             "network_border_group": "eu-south-2"
         },
         {
+            "ip_prefix": "89.60.238.0\/23",
+            "region": "eu-south-2",
+            "service": "AMAZON",
+            "network_border_group": "eu-south-2"
+        },
+        {
             "ip_prefix": "108.129.198.192\/26",
             "region": "eu-west-1",
             "service": "AMAZON",
